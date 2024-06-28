@@ -73,7 +73,7 @@ This font is compatible with nearly all existing devices which support Arabic ty
   <key>openTypeNameUniqueID</key>
   <string>Kanz-al-Marjaan:Version 3.10</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.10;February 27, 2019;FontCreator 11.5.0.2427 64-bit</string>
+  <string>Version 3.10;February 27, 2019;</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
