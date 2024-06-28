@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rnoon-arab.fina" format="2">
+  <advance width="1253"/>
+  <unicode hex="FBA1"/>
+  <anchor x="385" y="771" name="top-arab"/>
+  <anchor x="371" y="-485" name="bottom-arab"/>
+  <outline>
+  <component base="noonghunna-arab.fina"/>
+  <component base="smalltaa" xOffset="333" yOffset="683"/>
+  </outline>
+</glyph>

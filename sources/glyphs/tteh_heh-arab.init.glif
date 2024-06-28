@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh_heh-arab.init" format="2">
+  <advance width="1093"/>
+  <outline>
+  <component base="liga.behhehinit"/>
+  <component base="smalltaa" xOffset="723" yOffset="886"/>
+  </outline>
+</glyph>

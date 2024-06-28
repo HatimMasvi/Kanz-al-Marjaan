@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-arab.init" format="2">
+  <advance width="1083"/>
+  <unicode hex="FEBF"/>
+  <anchor x="485" y="1285" name="top-arab"/>
+  <anchor x="385" y="-200" name="bottom-arab"/>
+  <outline>
+  <component base="sad-arab.init"/>
+  <component base="dot.one" xOffset="482" yOffset="834"/>
+  </outline>
+</glyph>

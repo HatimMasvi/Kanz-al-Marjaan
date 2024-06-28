@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf_yeh-arab.liga.medi.fina" format="2">
+  <advance width="1605"/>
+  <outline>
+  <component base="glyph2145"/>
+  <component base="dot.twohoriz" xOffset="1082" yOffset="975"/>
+  <component base="dot.twohoriz" xOffset="314" yOffset="-1194"/>
+  </outline>
+</glyph>

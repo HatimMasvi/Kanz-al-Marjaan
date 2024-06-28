@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="behalefmaksura-arab.fina" format="2">
+  <advance width="1551"/>
+  <unicode hex="FC6E"/>
+  <outline>
+  <component base="liga.behyehfina"/>
+  <component base="dot.one" xOffset="1091" yOffset="-640"/>
+  </outline>
+</glyph>

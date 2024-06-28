@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph2105" format="2">
+  <advance width="2281"/>
+  <outline>
+  <component base="glyph2004"/>
+  <component base="dot.one" xOffset="105" yOffset="-540"/>
+  </outline>
+</glyph>

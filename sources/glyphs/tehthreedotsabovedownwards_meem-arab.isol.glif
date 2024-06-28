@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehthreedotsabovedownwards_meem-arab.isol" format="2">
+  <advance width="742"/>
+  <outline>
+  <component base="liga.behmeemisol"/>
+  <component base="dot.threedown" xOffset="438" yOffset="-44"/>
+  </outline>
+</glyph>

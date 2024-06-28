@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehkhah-arab.isol" format="2">
+  <advance width="1393"/>
+  <unicode hex="FC0D"/>
+  <outline>
+  <component base="liga.behhahisol" yOffset="-35"/>
+  <component base="dot.twohoriz" xOffset="620" yOffset="1341"/>
+  <component base="dot.one" xOffset="129" yOffset="976"/>
+  </outline>
+</glyph>

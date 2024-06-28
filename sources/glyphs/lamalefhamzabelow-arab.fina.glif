@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamalefhamzabelow-arab.fina" format="2">
+  <advance width="1213"/>
+  <unicode hex="FEFA"/>
+  <outline>
+  <component base="lamalef-arab.fina" xOffset="10"/>
+  <component base="arabichamzacomb" xOffset="290" yOffset="-726"/>
+  </outline>
+</glyph>

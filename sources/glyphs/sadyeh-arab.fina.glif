@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sadyeh-arab.fina" format="2">
+  <advance width="2136"/>
+  <unicode hex="FD22"/>
+  <outline>
+  <component base="sadalefmaksura-arab.fina"/>
+  <component base="dot.twohoriz" xOffset="224" yOffset="-897"/>
+  </outline>
+</glyph>

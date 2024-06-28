@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefwavyhamzabelow-arab.fina" format="2">
+  <advance width="356"/>
+  <anchor x="43" y="1585" name="top-arab"/>
+  <anchor x="243" y="-614" name="bottom-arab"/>
+  <outline>
+  <component base="alef-arab.fina"/>
+  <component base="wavyhamza" xOffset="36" yOffset="-674"/>
+  </outline>
+</glyph>

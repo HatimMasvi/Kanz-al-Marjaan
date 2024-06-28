@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-arab.init" format="2">
+  <advance width="284"/>
+  <unicode hex="FEE7"/>
+  <anchor x="-43" y="1299" name="top-arab"/>
+  <anchor x="29" y="-328" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.init"/>
+  <component base="dot.one" xOffset="-22" yOffset="778"/>
+  </outline>
+</glyph>

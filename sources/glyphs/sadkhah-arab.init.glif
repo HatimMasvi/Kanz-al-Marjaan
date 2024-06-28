@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sadkhah-arab.init" format="2">
+  <advance width="1617"/>
+  <unicode hex="FCB2"/>
+  <outline>
+  <component base="sadhah-arab.init"/>
+  <component base="dot.one" xOffset="90" yOffset="1009"/>
+  </outline>
+</glyph>

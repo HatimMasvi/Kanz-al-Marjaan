@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamdotaccent-arab.fina" format="2">
+  <advance width="1093"/>
+  <anchor x="400" y="1142" name="top-arab"/>
+  <anchor x="357" y="-443" name="bottom-arab"/>
+  <outline>
+  <component base="lam-arab.fina"/>
+  <component base="dot.one" xOffset="599" yOffset="1099"/>
+  </outline>
+</glyph>

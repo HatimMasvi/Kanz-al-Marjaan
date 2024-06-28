@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-arab.init" format="2">
+  <advance width="831"/>
+  <unicode hex="FECF"/>
+  <anchor x="157" y="1485" name="top-arab"/>
+  <anchor x="171" y="-343" name="bottom-arab"/>
+  <outline>
+  <component base="ain-arab.init"/>
+  <component base="dot.one" xOffset="130" yOffset="1009"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheenyeh-arab.fina" format="2">
+  <advance width="2278"/>
+  <unicode hex="FD1A"/>
+  <outline>
+  <component base="seenalefmaksura-arab.fina"/>
+  <component base="dot.threeup" xOffset="1494" yOffset="606"/>
+  <component base="dot.twohoriz" xOffset="347" yOffset="-1007"/>
+  </outline>
+</glyph>

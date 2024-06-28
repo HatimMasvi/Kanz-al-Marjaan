@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen_zain-arab.isol" format="2">
+  <advance width="1587"/>
+  <outline>
+  <component base="seenreh-arab.isol"/>
+  <component base="dot.one" xOffset="169" yOffset="546"/>
+  </outline>
+</glyph>

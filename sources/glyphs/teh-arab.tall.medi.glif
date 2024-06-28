@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="teh-arab.tall.medi" format="2">
+  <advance width="575"/>
+  <anchor x="14" y="1513" name="top-arab"/>
+  <anchor x="114" y="-328" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.tall.medi"/>
+  <component base="dot.twohoriz" xOffset="10" yOffset="934"/>
+  </outline>
+</glyph>

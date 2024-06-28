@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabovemeem-arab.init" format="2">
+  <advance width="926"/>
+  <unicode hex="FC9A"/>
+  <outline>
+  <component base="liga.behmeeminit"/>
+  <component base="arabichamzacomb" xOffset="514" yOffset="1003"/>
+  </outline>
+</glyph>

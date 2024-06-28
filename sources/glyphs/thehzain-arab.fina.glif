@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thehzain-arab.fina" format="2">
+  <advance width="1091"/>
+  <unicode hex="FC77"/>
+  <outline>
+  <component base="liga.behrehfina"/>
+  <component base="dot.threeup" xOffset="359" yOffset="880"/>
+  <component base="dot.one" xOffset="118" yOffset="604"/>
+  </outline>
+</glyph>

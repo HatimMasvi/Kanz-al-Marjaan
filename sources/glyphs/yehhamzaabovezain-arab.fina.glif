@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabovezain-arab.fina" format="2">
+  <advance width="1090"/>
+  <unicode hex="FC65"/>
+  <outline>
+  <component base="liga.behrehfina"/>
+  <component base="arabichamzacomb" xOffset="456" yOffset="759"/>
+  <component base="dot.one" xOffset="82" yOffset="657"/>
+  </outline>
+</glyph>

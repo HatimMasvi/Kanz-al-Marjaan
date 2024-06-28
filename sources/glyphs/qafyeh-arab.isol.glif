@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qafyeh-arab.isol" format="2">
+  <advance width="1250"/>
+  <unicode hex="FC36"/>
+  <outline>
+  <component base="liga.fehyehisol"/>
+  <component base="dot.twohoriz" xOffset="504" yOffset="1126"/>
+  <component base="dot.twohoriz" xOffset="284" yOffset="-837"/>
+  </outline>
+</glyph>

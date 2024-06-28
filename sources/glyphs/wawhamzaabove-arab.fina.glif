@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawhamzaabove-arab.fina" format="2">
+  <advance width="595"/>
+  <unicode hex="FE86"/>
+  <anchor x="228" y="1270" name="top-arab"/>
+  <anchor x="157" y="-685" name="bottom-arab"/>
+  <outline>
+  <component base="waw-arab.fina"/>
+  <component base="arabichamzacomb" xOffset="207" yOffset="649"/>
+  </outline>
+</glyph>

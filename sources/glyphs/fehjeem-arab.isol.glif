@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fehjeem-arab.isol" format="2">
+  <advance width="1193"/>
+  <unicode hex="FC2D"/>
+  <outline>
+  <component base="liga.fehhahisol"/>
+  <component base="dot.one" xOffset="475" yOffset="1618"/>
+  <component base="dot.one" xOffset="556" yOffset="-433"/>
+  </outline>
+</glyph>

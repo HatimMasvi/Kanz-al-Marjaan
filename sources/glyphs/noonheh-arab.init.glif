@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonheh-arab.init" format="2">
+  <advance width="1088"/>
+  <unicode hex="FCD6"/>
+  <outline>
+  <component base="liga.behhehinit"/>
+  <component base="dot.one" xOffset="778" yOffset="787"/>
+  </outline>
+</glyph>

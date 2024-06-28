@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefmaddaabove-arab.fina" format="2">
+  <advance width="494"/>
+  <unicode hex="FE82"/>
+  <anchor x="100" y="1756" name="top-arab"/>
+  <anchor x="228" y="-200" name="bottom-arab"/>
+  <outline>
+  <component base="alef-arab.short.fina"/>
+  <component base="arabicmaddahcomb" xOffset="-79" yOffset="1662"/>
+  </outline>
+</glyph>

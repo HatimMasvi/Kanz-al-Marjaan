@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_meem_jeem-arab.init" format="2">
+  <advance width="998"/>
+  <outline>
+  <component base="lammeemhah-arab.init"/>
+  <component base="dot.one" xOffset="334" yOffset="-492"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thehjeem-arab.isol" format="2">
+  <advance width="1354"/>
+  <unicode hex="FC11"/>
+  <outline>
+  <component base="liga.behhahisol" yOffset="95"/>
+  <component base="dot.threeup" xOffset="605" yOffset="1499"/>
+  <component base="dot.one" xOffset="600" yOffset="-309"/>
+  </outline>
+</glyph>

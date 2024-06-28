@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefmaksura-arab.init" format="2">
+  <advance width="1430"/>
+  <outline>
+  <component base="alefmaksura-arab" xOffset="-2" yOffset="171"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh_yehhamzaabove-arab.isol" format="2">
+  <advance width="1217"/>
+  <outline>
+  <component base="liga.behyehisol"/>
+  <component base="dot.twohoriz" xOffset="722" yOffset="-581"/>
+  <component base="arabichamzacomb" xOffset="281" yOffset="610"/>
+  </outline>
+</glyph>

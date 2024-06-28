@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rreh-arab" format="2">
+  <advance width="557"/>
+  <unicode hex="0691"/>
+  <anchor x="228" y="1370" name="top-arab"/>
+  <anchor x="29" y="-671" name="bottom-arab"/>
+  <outline>
+  <component base="reh-arab"/>
+  <component base="smalltaa" xScale="0.9000244140625" yScale="0.9000244140625" xOffset="151" yOffset="715"/>
+  </outline>
+</glyph>

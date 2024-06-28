@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zah_zah_zah-arab.isol" format="2">
+  <advance width="1456"/>
+  <outline>
+  <component base="tah_zah_zah-arab.init"/>
+  <component base="dot.one" xOffset="980" yOffset="933"/>
+  </outline>
+</glyph>

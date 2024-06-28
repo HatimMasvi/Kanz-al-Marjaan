@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dadmeem-arab.isol" format="2">
+  <advance width="1858"/>
+  <unicode hex="FC25"/>
+  <outline>
+  <component base="sadmeem-arab.isol"/>
+  <component base="dot.one" xOffset="1058" yOffset="1061"/>
+  </outline>
+</glyph>

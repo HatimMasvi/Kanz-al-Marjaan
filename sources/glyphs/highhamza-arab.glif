@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highhamza-arab" format="2">
+  <advance width="254"/>
+  <unicode hex="0674"/>
+  <anchor x="29" y="1642" name="top-arab"/>
+  <anchor x="143" y="-200" name="bottom-arab"/>
+  <outline>
+  <component base="arabichamzacomb" yOffset="989"/>
+  </outline>
+</glyph>

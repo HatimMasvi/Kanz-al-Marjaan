@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-arab.lowtall.medi" format="2">
+  <advance width="577"/>
+  <anchor x="133" y="1152" name="top-arab"/>
+  <anchor x="214" y="-685" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.tall.medi"/>
+  <component base="dot.threedown" xOffset="35" yOffset="-306"/>
+  </outline>
+</glyph>

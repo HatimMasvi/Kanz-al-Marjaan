@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad_zain-arab.fina" format="2">
+  <advance width="1808"/>
+  <outline>
+  <component base="sadreh-arab.fina"/>
+  <component base="dot.one" xOffset="273" yOffset="600"/>
+  <component base="dot.one" xOffset="1248" yOffset="916"/>
+  </outline>
+</glyph>

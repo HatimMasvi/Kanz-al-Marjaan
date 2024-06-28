@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonyeh-arab.fina" format="2">
+  <advance width="1556"/>
+  <unicode hex="FC8F"/>
+  <outline>
+  <component base="liga.behyehfina"/>
+  <component base="dot.one" xOffset="1061" yOffset="827"/>
+  <component base="dot.twohoriz" xOffset="367" yOffset="-812"/>
+  </outline>
+</glyph>

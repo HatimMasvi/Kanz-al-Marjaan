@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh_alef-arab.isol" format="2">
+  <advance width="689"/>
+  <outline>
+  <component base="alefmaksura_alef-arab.isol"/>
+  <component base="dot.threeup" xOffset="214" yOffset="799"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh-arab.medi" format="2">
+  <advance width="418"/>
+  <unicode hex="FB69"/>
+  <anchor x="14" y="1228" name="top-arab"/>
+  <anchor x="100" y="-428" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.medi"/>
+  <component base="smalltaa" xOffset="-4" yOffset="684"/>
+  </outline>
+</glyph>

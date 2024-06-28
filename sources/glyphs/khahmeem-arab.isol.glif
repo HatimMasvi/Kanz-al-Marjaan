@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khahmeem-arab.isol" format="2">
+  <advance width="1458"/>
+  <unicode hex="FC1B"/>
+  <outline>
+  <component base="hahmeem-arab.isol"/>
+  <component base="dot.one" xOffset="576" yOffset="1082"/>
+  </outline>
+</glyph>

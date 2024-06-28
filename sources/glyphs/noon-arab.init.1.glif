@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-arab.init.1" format="2">
+  <advance width="1084"/>
+  <outline>
+  <component base="noonghunna-arab" yOffset="295"/>
+  <component base="dot.one" xOffset="371" yOffset="1080"/>
+  </outline>
+</glyph>

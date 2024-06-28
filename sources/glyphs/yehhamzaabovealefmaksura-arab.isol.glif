@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabovealefmaksura-arab.isol" format="2">
+  <advance width="1221"/>
+  <unicode hex="FC03"/>
+  <outline>
+  <component base="liga.behyehisol"/>
+  <component base="arabichamzacomb" xOffset="490" yOffset="1105"/>
+  </outline>
+</glyph>

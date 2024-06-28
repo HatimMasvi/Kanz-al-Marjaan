@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabove-arab.short.init" format="2">
+  <advance width="332"/>
+  <anchor x="0" y="1385" name="top-arab"/>
+  <anchor x="0" y="-357" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.short.init"/>
+  <component base="arabichamzacomb" xOffset="-46" yOffset="750"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabove-arab.fina" format="2">
+  <advance width="1097"/>
+  <unicode hex="FE8A"/>
+  <anchor x="414" y="899" name="top-arab"/>
+  <anchor x="457" y="-771" name="bottom-arab"/>
+  <outline>
+  <component base="alefmaksura-arab.fina"/>
+  <component base="arabichamzacomb" xOffset="694" yOffset="296"/>
+  </outline>
+</glyph>

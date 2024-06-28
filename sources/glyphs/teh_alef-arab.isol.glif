@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="teh_alef-arab.isol" format="2">
+  <advance width="684"/>
+  <outline>
+  <component base="alefmaksura_alef-arab.isol"/>
+  <component base="dot.twohoriz" xOffset="205" yOffset="936"/>
+  </outline>
+</glyph>

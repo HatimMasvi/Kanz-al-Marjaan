@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zah_yeh-arab.liga.init.fina" format="2">
+  <advance width="2016"/>
+  <outline>
+  <component base="tah_alefmaksura-arab.liga.init.fina"/>
+  <component base="dot.one" xOffset="1425" yOffset="905"/>
+  <component base="dot.twohoriz" xOffset="286" yOffset="-1010"/>
+  </outline>
+</glyph>

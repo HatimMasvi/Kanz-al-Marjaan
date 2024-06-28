@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="extendedarabicindicsix-arab.small" format="2">
+  <advance width="536"/>
+  <outline>
+    <contour>
+      <point x="464" y="374" type="qcurve"/>
+      <point x="435" y="294" type="line"/>
+      <point x="236" y="238"/>
+      <point x="159" y="-16" type="qcurve"/>
+      <point x="147" y="-16" type="line"/>
+      <point x="157" y="75"/>
+      <point x="178" y="132" type="qcurve"/>
+      <point x="207" y="205"/>
+      <point x="269" y="271" type="qcurve"/>
+      <point x="219" y="274"/>
+      <point x="180" y="288" type="qcurve"/>
+      <point x="130" y="307"/>
+      <point x="129" y="353" type="qcurve"/>
+      <point x="129" y="401"/>
+      <point x="187" y="467" type="qcurve"/>
+      <point x="238" y="525"/>
+      <point x="289" y="525" type="qcurve"/>
+      <point x="326" y="525"/>
+      <point x="359" y="499" type="qcurve"/>
+      <point x="377" y="483"/>
+      <point x="410" y="442" type="qcurve"/>
+      <point x="403" y="434" type="line"/>
+      <point x="340" y="464"/>
+      <point x="281" y="464" type="qcurve"/>
+      <point x="185" y="464"/>
+      <point x="185" y="411" type="qcurve"/>
+      <point x="185" y="379"/>
+      <point x="239" y="361" type="qcurve"/>
+      <point x="280" y="347"/>
+      <point x="319" y="346" type="qcurve"/>
+      <point x="373" y="346"/>
+    </contour>
+  </outline>
+</glyph>

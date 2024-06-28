@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehnoon-arab.fina" format="2">
+  <advance width="1661"/>
+  <unicode hex="FC94"/>
+  <outline>
+  <component base="liga.behnoonfina"/>
+  <component base="dot.twohoriz" xOffset="935" yOffset="-638"/>
+  <component base="dot.one" xOffset="346" yOffset="706"/>
+  </outline>
+</glyph>

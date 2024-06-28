@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonreh-arab.fina" format="2">
+  <advance width="1091"/>
+  <unicode hex="FC8A"/>
+  <outline>
+  <component base="liga.behrehfina"/>
+  <component base="dot.one" xOffset="441" yOffset="721"/>
+  </outline>
+</glyph>

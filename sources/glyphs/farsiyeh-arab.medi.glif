@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="farsiyeh-arab.medi" format="2">
+  <advance width="418"/>
+  <unicode hex="FBFF"/>
+  <anchor x="86" y="757" name="top-arab"/>
+  <anchor x="86" y="-771" name="bottom-arab"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.medi"/>
+  <component base="dot.twohoriz" xOffset="-46" yOffset="-569"/>
+  </outline>
+</glyph>

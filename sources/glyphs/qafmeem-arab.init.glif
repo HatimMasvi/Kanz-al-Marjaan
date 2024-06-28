@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qafmeem-arab.init" format="2">
+  <advance width="743"/>
+  <unicode hex="FCC3"/>
+  <outline>
+  <component base="liga.fehmeeminit" yOffset="-7"/>
+  <component base="dot.twohoriz" xOffset="200" yOffset="1280"/>
+  </outline>
+</glyph>

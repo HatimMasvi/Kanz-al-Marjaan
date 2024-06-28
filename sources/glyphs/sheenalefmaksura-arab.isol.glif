@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheenalefmaksura-arab.isol" format="2">
+  <advance width="1835"/>
+  <unicode hex="FCFD"/>
+  <outline>
+  <component base="seenalefmaksura-arab.isol"/>
+  <component base="dot.threeup" xOffset="1161" yOffset="652"/>
+  </outline>
+</glyph>

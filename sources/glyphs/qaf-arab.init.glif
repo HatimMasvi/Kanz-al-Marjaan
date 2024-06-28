@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-arab.init" format="2">
+  <advance width="460"/>
+  <unicode hex="FED7"/>
+  <anchor x="0" y="1428" name="top-arab"/>
+  <anchor x="57" y="-357" name="bottom-arab"/>
+  <outline>
+  <component base="dotlessfeh-arab.init" yOffset="2"/>
+  <component base="dot.twohoriz" xOffset="-70" yOffset="1081"/>
+  </outline>
+</glyph>

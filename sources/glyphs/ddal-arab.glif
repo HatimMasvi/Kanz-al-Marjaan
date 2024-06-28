@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddal-arab" format="2">
+  <advance width="627"/>
+  <unicode hex="0688"/>
+  <anchor x="257" y="1299" name="top-arab"/>
+  <anchor x="271" y="-343" name="bottom-arab"/>
+  <outline>
+  <component base="dal-arab"/>
+  <component base="smalltaa" xScale="0.79998779296875" yScale="0.79998779296875" xOffset="154" yOffset="836"/>
+  </outline>
+</glyph>

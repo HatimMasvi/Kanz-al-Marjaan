@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonjeem-arab.init" format="2">
+  <advance width="988"/>
+  <unicode hex="FCD2"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="dot.one" xOffset="481" yOffset="1262"/>
+  <component base="dot.one" xOffset="327" yOffset="-419"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamalefhamzaabove-arab.isol" format="2">
+  <advance width="979"/>
+  <unicode hex="FEF7"/>
+  <outline>
+  <component base="lamalef-arab.alt1.isol"/>
+  <component base="arabichamzacomb" xOffset="-40" yOffset="1506"/>
+  </outline>
+</glyph>
