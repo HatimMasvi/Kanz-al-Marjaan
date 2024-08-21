@@ -21,24 +21,24 @@ familyName: "Kanz-al-Marjaan"
 # binaries to live. But we'd recommend you stick to the defaults
 # especially if you are planning to upload your font to Google Fonts.
 
-# outputDir: ../fonts
+outputDir: ../fonts
 # vfDir: $outputDir/variable
-# ttDir: $outputDir/ttf
-# otDir: $outputDir/otf
-# woffDir: $outputDir/webfonts
+ttDir: $outputDir/ttf
+otDir: $outputDir/otf
+woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
 # buildVariable: true
 # buildStatic: true
-# buildTTF: true
+buildTTF: true
 buildOTF: true
 # buildSmallCap: false
 
 # The next flags control autohinting.
 # autohintTTF: true
-# autohintOTF: false
+autohintOTF: false
 # ttfaUseScript: false  # Set this to true if your font is not Latin
 
 # The "fix" operation can optionally fix some problems which
@@ -50,7 +50,7 @@ buildOTF: true
 # the fonts.
 # flattenComponents: true
 # decomposeTransformedComponents: true
-# checkCompatibility: true
+checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
@@ -74,18 +74,5 @@ stat:
     - name: Regular
       value: 400
       linkedValue: 700
-      flags: 2
-    - name: Medium
-      value: 500
-    - name: SemiBold
-      value: 600
-    - name: Bold
-      value: 700
-  - name: Italic
-    tag: ital
-    values:
-    - name: Arab
-      value: 0
-      linkedValue: 1
       flags: 2
   
