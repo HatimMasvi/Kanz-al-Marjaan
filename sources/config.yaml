@@ -22,7 +22,7 @@ familyName: "Kanz-al-Marjaan"
 # especially if you are planning to upload your font to Google Fonts.
 
 outputDir: ../fonts
-# vfDir: $outputDir/variable
+vfDir: $outputDir/variable
 ttDir: $outputDir/ttf
 otDir: $outputDir/otf
 woffDir: $outputDir/webfonts
