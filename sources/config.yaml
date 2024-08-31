@@ -7,12 +7,7 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - /glyphs/
-  - features.fea
-  - font.plist
-  - layercontents.plist
-  - lib.plist
-  - metainfo.plist
+  - Kanz-al-Marjaan.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Kanz-al-Marjaan"
