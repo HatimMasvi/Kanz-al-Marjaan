@@ -1920,7 +1920,7 @@ layerId = "445A555C-B070-40FB-B385-62320451654E";
 width = 0;
 }
 );
-unicode = 0000,001D;
+unicode = 0000;
 },
 {
 glyphname = CR;
