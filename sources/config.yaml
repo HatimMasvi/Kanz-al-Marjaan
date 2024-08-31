@@ -16,10 +16,10 @@ familyName: "Kanz-al-Marjaan"
 # binaries to live. But we'd recommend you stick to the defaults
 # especially if you are planning to upload your font to Google Fonts.
 
-outputDir: ../fonts
+# outputDir: ../fonts
 # vfDir: $outputDir/variable
-ttDir: $outputDir/ttf
-otDir: $outputDir/otf
+# ttDir: $outputDir/ttf
+# otDir: $outputDir/otf
 # woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
@@ -28,7 +28,7 @@ otDir: $outputDir/otf
 # buildVariable: true
 # buildStatic: true
 buildTTF: true
-buildOTF: true
+# buildOTF: true
 
 # buildSmallCap: false
 
