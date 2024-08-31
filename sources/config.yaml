@@ -20,7 +20,7 @@ outputDir: ../fonts
 # vfDir: $outputDir/variable
 ttDir: $outputDir/ttf
 otDir: $outputDir/otf
-woffDir: $outputDir/webfonts
+# woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
@@ -29,7 +29,7 @@ woffDir: $outputDir/webfonts
 # buildStatic: true
 buildTTF: true
 buildOTF: true
-buildWOFF: true
+
 # buildSmallCap: false
 
 # The next flags control autohinting.
