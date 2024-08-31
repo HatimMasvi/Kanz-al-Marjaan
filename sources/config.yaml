@@ -33,7 +33,7 @@ buildOTF: true
 
 # The next flags control autohinting.
 # autohintTTF: true
-autohintOTF: false
+# autohintOTF: false
 # ttfaUseScript: false  # Set this to true if your font is not Latin
 
 # The "fix" operation can optionally fix some problems which
@@ -45,7 +45,7 @@ autohintOTF: false
 # the fonts.
 # flattenComponents: true
 # decomposeTransformedComponents: true
-checkCompatibility: true
+# checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
