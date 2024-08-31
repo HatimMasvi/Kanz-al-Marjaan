@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcheh_meem-arab.init" format="2">
-  <advance width="832"/>
-  <outline>
-  <component base="hahmeem-arab.init"/>
-  <component base="dot.threedown" xOffset="355" yOffset="-171"/>
-  </outline>
-</glyph>

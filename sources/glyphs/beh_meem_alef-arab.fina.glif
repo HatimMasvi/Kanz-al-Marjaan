@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="beh_meem_alef-arab.fina" format="2">
-  <advance width="1067"/>
-  <outline>
-  <component base="liga.behmeemaleffina"/>
-  <component base="dot.one" xOffset="556" yOffset="-530"/>
-  </outline>
-</glyph>

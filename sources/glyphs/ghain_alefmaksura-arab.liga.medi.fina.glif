@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ghain_alefmaksura-arab.liga.medi.fina" format="2">
-  <advance width="1690"/>
-  <outline>
-  <component base="ain_alefmaksura-arab.liga.medi.fina"/>
-  <component base="dot.one" xOffset="1175" yOffset="898"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="khahhah-arab.isol" format="2">
-  <advance width="1493"/>
-  <unicode hex="FC1A"/>
-  <outline>
-  <component base="liga.hahhahisol"/>
-  <component base="dot.one" xOffset="814" yOffset="1252"/>
-  </outline>
-</glyph>

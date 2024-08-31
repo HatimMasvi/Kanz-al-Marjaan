@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="meemyeh-arab.isol" format="2">
-  <advance width="1350"/>
-  <unicode hex="FC4A"/>
-  <outline>
-  <component base="meemalefmaksura-arab.isol"/>
-  <component base="dot.twohoriz" xOffset="260" yOffset="-732"/>
-  </outline>
-</glyph>

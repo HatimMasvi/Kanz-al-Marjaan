@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="meem_jeem_meem_dal-arab.init.medi.medi.fina" format="2">
-  <advance width="1988"/>
-  <outline>
-  <component base="meem_hah_meem_dal-arab.isol"/>
-  <component base="dot.one" xOffset="1396" yOffset="-296"/>
-  </outline>
-</glyph>

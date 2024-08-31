@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sheen_zain-arab.fina" format="2">
-  <advance width="1802"/>
-  <outline>
-  <component base="seenreh-arab.fina"/>
-  <component base="dot.one" xOffset="160" yOffset="586"/>
-  <component base="dot.threeup" xOffset="984" yOffset="573"/>
-  </outline>
-</glyph>

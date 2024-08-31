@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sheenhah-arab.init" format="2">
-  <advance width="1319"/>
-  <unicode hex="FD2E"/>
-  <outline>
-  <component base="seenhah-arab.init"/>
-  <component base="dot.threeup" xOffset="738" yOffset="1129"/>
-  </outline>
-</glyph>

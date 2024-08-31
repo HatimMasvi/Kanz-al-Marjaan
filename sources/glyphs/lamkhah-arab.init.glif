@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lamkhah-arab.init" format="2">
-  <advance width="1175"/>
-  <unicode hex="FCCB"/>
-  <outline>
-  <component base="lamhah-arab.init"/>
-  <component base="dot.one" xOffset="72" yOffset="828"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tteh_noonghunna-arab.fina" format="2">
-  <advance width="1654"/>
-  <outline>
-  <component base="liga.behnoonfina"/>
-  <component base="smalltaa" xOffset="963" yOffset="881"/>
-  </outline>
-</glyph>

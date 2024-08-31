@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fehmeem-arab.init" format="2">
-  <advance width="753"/>
-  <unicode hex="FCC1"/>
-  <outline>
-  <component base="liga.fehmeeminit"/>
-  <component base="dot.one" xOffset="262" yOffset="1341"/>
-  </outline>
-</glyph>

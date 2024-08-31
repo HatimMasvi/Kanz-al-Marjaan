@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thehreh-arab.fina" format="2">
-  <advance width="1090"/>
-  <unicode hex="FC76"/>
-  <outline>
-  <component base="liga.behrehfina"/>
-  <component base="dot.threeup" xOffset="360" yOffset="761"/>
-  </outline>
-</glyph>

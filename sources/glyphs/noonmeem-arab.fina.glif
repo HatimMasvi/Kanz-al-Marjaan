@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonmeem-arab.fina" format="2">
-  <advance width="1047"/>
-  <unicode hex="FC8C"/>
-  <outline>
-  <component base="liga.behmeemfina"/>
-  <component base="dot.one" xOffset="557" yOffset="967"/>
-  </outline>
-</glyph>

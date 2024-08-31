@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arabicshaddacomb_arabicfathatancomb" format="2">
-  <advance width="10"/>
-  <anchor x="128" y="0" name="top-arab"/>
-  <outline>
-  <component base="arabicshaddacomb"/>
-  <component base="arabicfathatancomb" xOffset="-35" yOffset="385"/>
-  </outline>
-</glyph>

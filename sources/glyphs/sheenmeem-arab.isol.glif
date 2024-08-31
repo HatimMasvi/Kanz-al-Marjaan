@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sheenmeem-arab.isol" format="2">
-  <advance width="1555"/>
-  <unicode hex="FD0C"/>
-  <outline>
-  <component base="seenmeem-arab.isol"/>
-  <component base="dot.threeup" xOffset="926" yOffset="760"/>
-  </outline>
-</glyph>

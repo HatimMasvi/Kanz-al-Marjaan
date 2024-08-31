@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="glyph2058" format="2">
-  <advance width="1930"/>
-  <outline>
-  <component base="glyph2002"/>
-  <component base="dot.threedown" xOffset="1351" yOffset="-639"/>
-  </outline>
-</glyph>

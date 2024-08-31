@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dadhah-arab.isol" format="2">
-  <advance width="1669"/>
-  <unicode hex="FC23"/>
-  <outline>
-  <component base="sadhah-arab.isol" yOffset="-130"/>
-  <component base="dot.one" xOffset="821" yOffset="1253"/>
-  </outline>
-</glyph>

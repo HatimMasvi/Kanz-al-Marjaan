@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tehthreedotsabovedownwards_rreh-arab.fina" format="2">
-  <advance width="1091"/>
-  <outline>
-  <component base="liga.behrehfina"/>
-  <component base="dot.threedown" xOffset="446" yOffset="-315"/>
-  <component base="smalltaa" xOffset="20" yOffset="667"/>
-  </outline>
-</glyph>

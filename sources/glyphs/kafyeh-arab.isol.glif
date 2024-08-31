@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kafyeh-arab.isol" format="2">
-  <advance width="1338"/>
-  <unicode hex="FC3E"/>
-  <outline>
-  <component base="kafalefmaksura-arab.isol"/>
-  <component base="dot.twohoriz" xOffset="253" yOffset="-814"/>
-  </outline>
-</glyph>

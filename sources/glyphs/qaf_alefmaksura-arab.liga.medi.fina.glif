@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="qaf_alefmaksura-arab.liga.medi.fina" format="2">
-  <advance width="1610"/>
-  <outline>
-  <component base="glyph2145"/>
-  <component base="dot.twohoriz" xOffset="1082" yOffset="1039"/>
-  </outline>
-</glyph>

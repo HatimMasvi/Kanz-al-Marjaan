@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noonalefmaksura-arab.isol" format="2">
-  <advance width="1217"/>
-  <unicode hex="FC4F"/>
-  <outline>
-  <component base="liga.behyehisol"/>
-  <component base="dot.one" xOffset="557" yOffset="1138"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehheh-arab.medi" format="2">
-  <advance width="1050"/>
-  <unicode hex="FCF1"/>
-  <outline>
-  <component base="liga.behhehmedi"/>
-  <component base="dot.twohoriz" xOffset="646" yOffset="-799"/>
-  </outline>
-</glyph>

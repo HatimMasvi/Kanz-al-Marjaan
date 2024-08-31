@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="qafhah-arab.init" format="2">
-  <advance width="1198"/>
-  <unicode hex="FCC2"/>
-  <outline>
-  <component base="liga.fehhahinit"/>
-  <component base="dot.twohoriz" xOffset="154" yOffset="1473"/>
-  </outline>
-</glyph>

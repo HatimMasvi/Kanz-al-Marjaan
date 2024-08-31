@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yeh-arab.init" format="2">
-  <advance width="1435"/>
-  <outline>
-  <component base="yeh-arab" xOffset="5" yOffset="148"/>
-  </outline>
-</glyph>

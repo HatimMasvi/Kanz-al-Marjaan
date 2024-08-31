@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehhamzaabove_hah_meem-arab.liga.init.medi.medi" format="2">
-  <advance width="1378"/>
-  <outline>
-  <component base="glyph2194"/>
-  <component base="wavyhamza" xOffset="787" yOffset="1428"/>
-  </outline>
-</glyph>

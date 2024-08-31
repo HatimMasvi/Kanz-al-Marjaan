@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dadreh-arab.isol" format="2">
-  <advance width="1618"/>
-  <unicode hex="FD10"/>
-  <outline>
-  <component base="sadreh-arab.isol"/>
-  <component base="dot.one" xOffset="1153" yOffset="865"/>
-  </outline>
-</glyph>

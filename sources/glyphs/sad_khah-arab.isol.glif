@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sad_khah-arab.isol" format="2">
-  <advance width="1678"/>
-  <outline>
-  <component base="sadhah-arab.isol" yOffset="-54"/>
-  <component base="dot.one" xOffset="96" yOffset="1070"/>
-  </outline>
-</glyph>

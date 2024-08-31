@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="smallhighyehcomb-arab" format="2">
-  <advance width="0"/>
-  <unicode hex="06E7"/>
-  <anchor x="0" y="0" name="top-arab"/>
-  <outline>
-  <component base="smallyehmod-arab" xOffset="-19" yOffset="-388"/>
-  </outline>
-</glyph>

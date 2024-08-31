@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcheh_yehbarree-arab.isol" format="2">
-  <advance width="1649"/>
-  <outline>
-  <component base="hah_yehbarree-arab.isol"/>
-  <component base="dot.threedown" xOffset="404" yOffset="-291"/>
-  </outline>
-</glyph>

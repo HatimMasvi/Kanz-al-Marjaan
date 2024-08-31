@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seen_zain-arab.fina" format="2">
-  <advance width="1802"/>
-  <outline>
-  <component base="seenreh-arab.fina"/>
-  <component base="dot.one" xOffset="170" yOffset="584"/>
-  </outline>
-</glyph>

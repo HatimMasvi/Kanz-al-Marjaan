@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tteh_yehhamzaabove_yehbarree-arab.liga.init.medi.fina" format="2">
-  <advance width="1654"/>
-  <outline>
-  <component base="liga.behbehyehbarree"/>
-  <component base="smalltaa" xOffset="797" yOffset="1292"/>
-  <component base="wavyhamza" xOffset="232" yOffset="834"/>
-  </outline>
-</glyph>

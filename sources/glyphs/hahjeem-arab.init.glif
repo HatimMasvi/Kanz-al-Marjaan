@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahjeem-arab.init" format="2">
-  <advance width="1307"/>
-  <unicode hex="FCA9"/>
-  <outline>
-  <component base="liga.hahhahinit"/>
-  <component base="dot.one" xOffset="252" yOffset="-462"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thousandsseparator-arab" format="2">
-  <advance width="325"/>
-  <unicode hex="066C"/>
-  <outline>
-  <component base="decimalseparator-arab"/>
-  </outline>
-</glyph>

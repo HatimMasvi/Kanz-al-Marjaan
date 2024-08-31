@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ghainmeem-arab.init" format="2">
-  <advance width="1128"/>
-  <unicode hex="FCBD"/>
-  <outline>
-  <component base="ainmeem-arab.init"/>
-  <component base="dot.one" xOffset="373" yOffset="1329"/>
-  </outline>
-</glyph>
