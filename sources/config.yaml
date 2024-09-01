@@ -18,7 +18,7 @@ familyName: "Kanz-al-Marjaan"
 
 outputDir: ../fonts
 # vfDir: $outputDir/variable
-ttDir: $outputDir/ttf
+# ttDir: $outputDir/ttf
 # otDir: $outputDir/otf
 # woffDir: $outputDir/webfonts
 
