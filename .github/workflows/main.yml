@@ -1,0 +1,70 @@
+name: Build font and specimen
+
+on: push
+
+jobs:
+  build:
+    name: Build and test
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+
+    - name: Install sys tools/deps
+      run: |
+        sudo apt-get update
+        sudo apt-get install ttfautohint
+        sudo snap install yq
+
+    - name: Set up virtual environment
+      run: |
+        python3 -m venv venv
+        . venv/bin/activate
+        pip install -r requirements.txt
+    
+    - name: Debug gftools builder command
+      run: |
+        . venv/bin/activate
+        gftools builder sources/config.yaml
+
+    - name: Build font (Makefile)
+      run: |
+        . venv/bin/activate
+        make build
+
+    - name: Check with fontbakery
+      run: |
+        . venv/bin/activate
+        make test
+      continue-on-error: true
+
+    - name: Proof
+      run: |
+        . venv/bin/activate
+        make proof
+
+    - name: Setup site
+      run: cp scripts/index.html out/index.html
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      if: ${{ github.ref == 'refs/heads/main' }}
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
+
+    - name: Archive artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ env.ZIP_NAME }}
+        path: |
+          fonts
+          out
+
+    outputs:
+      zip_name: ${{ env.ZIP_NAME }}
