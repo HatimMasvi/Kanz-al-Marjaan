@@ -27,8 +27,8 @@ outputDir: ../fonts
 
 # buildVariable: true
 # buildStatic: true
-buildTTF: true
-# buildOTF: true
+# buildTTF: false
+buildOTF: true
 
 # buildSmallCap: false
 
