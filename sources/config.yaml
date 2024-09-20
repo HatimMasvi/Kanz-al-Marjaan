@@ -25,10 +25,10 @@ outputDir: ../fonts
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
-# buildVariable: true
-# buildStatic: true
-buildTTF: true
-# buildOTF: true
+buildVariable: true
+buildStatic: true
+# buildTTF: false
+buildOTF: true
 
 # buildSmallCap: false
 
@@ -40,7 +40,7 @@ buildTTF: true
 # The "fix" operation can optionally fix some problems which
 # are better dealt with in the font sources. Set this to true if you
 # want gftools-fix to automatically fix source problems.
-# includeSourceFixes: false
+includeSourceFixes: false
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
