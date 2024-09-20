@@ -1,0 +1,22 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(414,882,l),
+(281,882,l),
+(70,1102,l),
+(72,1105,l),
+(267,1105,l)
+);
+}
+);
+width = 541;
+}
+);
+unicode = 96;
+}

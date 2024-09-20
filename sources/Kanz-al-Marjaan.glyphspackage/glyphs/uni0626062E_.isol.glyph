@@ -1,0 +1,25 @@
+{
+glyphname = uni0626062E.isol;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.behhahisol;
+},
+{
+alignment = -1;
+pos = (614,1354);
+ref = uni0654;
+},
+{
+alignment = -1;
+pos = (291,1110);
+ref = dot.one;
+}
+);
+width = 1377;
+}
+);
+}

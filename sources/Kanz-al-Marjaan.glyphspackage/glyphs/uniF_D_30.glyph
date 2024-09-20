@@ -1,0 +1,21 @@
+{
+glyphname = uniFD30;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = uniFCB0;
+},
+{
+alignment = -1;
+pos = (719,893);
+ref = dot.threeup;
+}
+);
+width = 1305;
+}
+);
+unicode = 64816;
+}

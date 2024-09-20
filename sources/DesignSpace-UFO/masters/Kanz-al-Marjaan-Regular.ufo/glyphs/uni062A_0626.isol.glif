@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062A0626.isol" format="2">
+  <advance width="1269"/>
+  <outline>
+    <component base="liga.behyehisol"/>
+    <component base="dot.twohoriz" xOffset="568" yOffset="1253"/>
+    <component base="uni0654" xOffset="247" yOffset="556"/>
+  </outline>
+</glyph>

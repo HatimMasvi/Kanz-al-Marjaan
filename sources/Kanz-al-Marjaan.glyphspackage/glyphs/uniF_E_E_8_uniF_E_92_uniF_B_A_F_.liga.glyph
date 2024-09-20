@@ -1,0 +1,25 @@
+{
+glyphname = uniFEE8_uniFE92_uniFBAF.liga;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = glyph2275;
+},
+{
+alignment = -1;
+pos = (733,747);
+ref = dot.one;
+},
+{
+alignment = -1;
+pos = (514,-771);
+ref = dot.one;
+}
+);
+width = 1203;
+}
+);
+}

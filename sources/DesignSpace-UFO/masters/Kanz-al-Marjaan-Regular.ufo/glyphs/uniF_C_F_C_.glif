@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCFC" format="2">
+  <advance width="1831"/>
+  <unicode hex="FCFC"/>
+  <outline>
+    <component base="uniFCFB"/>
+    <component base="dot.twohoriz" xOffset="261" yOffset="-1008"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC79" format="2">
+  <advance width="1669"/>
+  <unicode hex="FC79"/>
+  <outline>
+    <component base="liga.behnoonfina"/>
+    <component base="dot.threeup" xOffset="910" yOffset="909"/>
+    <component base="dot.one" xOffset="356" yOffset="738"/>
+  </outline>
+</glyph>

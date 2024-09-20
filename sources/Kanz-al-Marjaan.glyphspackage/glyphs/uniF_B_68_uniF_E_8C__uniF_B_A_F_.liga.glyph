@@ -1,0 +1,25 @@
+{
+glyphname = uniFB68_uniFE8C_uniFBAF.liga;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.behbehyehbarree;
+},
+{
+alignment = -1;
+pos = (797,1292);
+ref = smalltaa;
+},
+{
+alignment = -1;
+pos = (232,834);
+ref = wavyhamza;
+}
+);
+width = 1654;
+}
+);
+}

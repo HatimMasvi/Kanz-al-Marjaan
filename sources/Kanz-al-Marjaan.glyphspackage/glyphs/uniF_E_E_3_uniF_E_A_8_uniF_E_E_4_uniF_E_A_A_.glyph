@@ -1,0 +1,20 @@
+{
+glyphname = uniFEE3_uniFEA8_uniFEE4_uniFEAA;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = MHMD.liga;
+},
+{
+alignment = -1;
+pos = (851,1446);
+ref = dot.one;
+}
+);
+width = 1998;
+}
+);
+}

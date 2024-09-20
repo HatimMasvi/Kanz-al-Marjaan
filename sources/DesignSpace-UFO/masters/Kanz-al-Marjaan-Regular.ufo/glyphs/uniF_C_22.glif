@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC22" format="2">
+  <advance width="1659"/>
+  <unicode hex="FC22"/>
+  <outline>
+    <component base="uniFC20" yOffset="-111"/>
+    <component base="dot.one" xOffset="494" yOffset="-542"/>
+    <component base="dot.one" xOffset="902" yOffset="1325"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC4E" format="2">
+  <advance width="958"/>
+  <unicode hex="FC4E"/>
+  <outline>
+    <component base="liga.behmeemisol"/>
+    <component base="dot.one" xOffset="623" yOffset="995"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1113,570,l),
+(157,570,l),
+(157,706,l),
+(1113,706,l)
+);
+}
+);
+width = 1246;
+}
+);
+unicode = 8211;
+}

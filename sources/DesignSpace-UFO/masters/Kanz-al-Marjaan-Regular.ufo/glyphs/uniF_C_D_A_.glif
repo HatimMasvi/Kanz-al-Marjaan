@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCDA" format="2">
+  <advance width="1003"/>
+  <unicode hex="FCDA"/>
+  <outline>
+    <component base="liga.behhahinit"/>
+    <component base="dot.twohoriz" xOffset="535" yOffset="-576"/>
+    <component base="dot.one" xOffset="159" yOffset="-390"/>
+  </outline>
+</glyph>

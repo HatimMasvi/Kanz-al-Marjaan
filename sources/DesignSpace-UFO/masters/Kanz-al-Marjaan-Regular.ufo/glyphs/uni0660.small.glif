@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0660.small" format="2">
+  <advance width="900"/>
+  <outline>
+    <contour>
+      <point x="546" y="345"/>
+      <point x="519" y="203" type="qcurve"/>
+      <point x="419" y="260"/>
+      <point x="343" y="320" type="qcurve"/>
+      <point x="367" y="432"/>
+      <point x="402" y="532" type="qcurve"/>
+      <point x="472" y="469"/>
+      <point x="561" y="404" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

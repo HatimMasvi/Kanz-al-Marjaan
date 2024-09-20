@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC07" format="2">
+  <advance width="1408"/>
+  <unicode hex="FC07"/>
+  <outline>
+    <component base="liga.behhahisol"/>
+    <component base="dot.one" xOffset="922" yOffset="-155"/>
+    <component base="dot.one" xOffset="225" yOffset="1081"/>
+  </outline>
+</glyph>

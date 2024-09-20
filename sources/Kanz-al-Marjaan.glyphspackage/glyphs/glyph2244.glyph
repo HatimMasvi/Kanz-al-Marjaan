@@ -1,0 +1,21 @@
+{
+glyphname = glyph2244;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+pos = (0,295);
+ref = uni06BA;
+},
+{
+alignment = -1;
+pos = (371,1080);
+ref = dot.one;
+}
+);
+width = 1084;
+}
+);
+}

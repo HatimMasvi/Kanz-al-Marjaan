@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062606BA.fina" format="2">
+  <advance width="1671"/>
+  <outline>
+    <component base="liga.behnoonfina"/>
+    <component base="uni0654" xOffset="931" yOffset="883"/>
+  </outline>
+</glyph>

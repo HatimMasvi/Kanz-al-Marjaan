@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCD3" format="2">
+  <advance width="984"/>
+  <unicode hex="FCD3"/>
+  <outline>
+    <component base="liga.behhahinit"/>
+    <component base="dot.one" xOffset="452" yOffset="1138"/>
+  </outline>
+</glyph>

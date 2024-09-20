@@ -1,0 +1,32 @@
+{
+glyphname = uniFED3;
+layers = (
+{
+anchors = (
+{
+name = t.uni064B;
+position = "{-43, 1470}";
+},
+{
+name = b.uni064D_1;
+position = "{57, -428}";
+}
+);
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+pos = (0,2);
+ref = uni06A1.init;
+},
+{
+alignment = -1;
+pos = (5,1047);
+ref = dot.one;
+}
+);
+width = 441;
+}
+);
+unicode = 65235;
+}

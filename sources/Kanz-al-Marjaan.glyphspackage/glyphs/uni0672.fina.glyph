@@ -1,0 +1,30 @@
+{
+glyphname = uni0672.fina;
+layers = (
+{
+anchors = (
+{
+name = t.uni064B;
+position = "{14, 2013}";
+},
+{
+name = b.uni064D_1;
+position = "{228, -200}";
+}
+);
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = uniFE8E.short;
+},
+{
+alignment = -1;
+pos = (-71,1644);
+ref = wavyhamza;
+}
+);
+width = 500;
+}
+);
+}

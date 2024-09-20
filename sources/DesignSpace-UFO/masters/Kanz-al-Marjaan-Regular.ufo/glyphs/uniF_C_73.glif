@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC73" format="2">
+  <advance width="1666"/>
+  <unicode hex="FC73"/>
+  <outline>
+    <component base="liga.behnoonfina"/>
+    <component base="dot.twohoriz" xOffset="925" yOffset="949"/>
+    <component base="dot.one" xOffset="359" yOffset="668"/>
+  </outline>
+</glyph>

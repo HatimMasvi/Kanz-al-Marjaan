@@ -1,0 +1,35 @@
+{
+glyphname = uni06EC;
+layers = (
+{
+anchors = (
+{
+name = _t.uni064B;
+position = "{0, 0}";
+}
+);
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(135,39,o),
+(95,0,o),
+(68,0,qs),
+(40,0,o),
+(0,39,o),
+(0,68,qs),
+(0,96,o),
+(40,134,o),
+(68,134,qs),
+(96,134,o),
+(135,96,o),
+(135,68,qs)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 1772;
+}

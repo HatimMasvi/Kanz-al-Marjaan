@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCE2" format="2">
+  <advance width="1050"/>
+  <unicode hex="FCE2"/>
+  <outline>
+    <component base="liga.behhehmedi"/>
+    <component base="dot.one" xOffset="724" yOffset="-715"/>
+  </outline>
+</glyph>

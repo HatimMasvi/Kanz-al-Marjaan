@@ -1,0 +1,26 @@
+{
+glyphname = uniFC8B;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.behrehfina;
+},
+{
+alignment = -1;
+pos = (487,975);
+ref = dot.one;
+},
+{
+alignment = -1;
+pos = (126,563);
+ref = dot.one;
+}
+);
+width = 1091;
+}
+);
+unicode = 64651;
+}

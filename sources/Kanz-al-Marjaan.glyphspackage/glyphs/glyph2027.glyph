@@ -1,0 +1,25 @@
+{
+glyphname = glyph2027;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = glyph2001;
+},
+{
+alignment = -1;
+pos = (1234,-433);
+ref = dot.threedown;
+},
+{
+alignment = -1;
+pos = (236,784);
+ref = dot.one;
+}
+);
+width = 1893;
+}
+);
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0640.twotimes" format="2">
+  <advance width="582"/>
+  <anchor x="71" y="814" name="t.uni064B"/>
+  <anchor x="186" y="-300" name="b.uni064D_1"/>
+  <outline>
+    <contour>
+      <point x="582" y="0" type="line"/>
+      <point x="522" y="0" type="line" smooth="yes"/>
+      <point x="520" y="0"/>
+      <point x="411" y="-9" type="qcurve" smooth="yes"/>
+      <point x="295" y="-18"/>
+      <point x="250" y="-18" type="qcurve" smooth="yes"/>
+      <point x="207" y="-18"/>
+      <point x="129" y="-9" type="qcurve" smooth="yes"/>
+      <point x="45" y="0"/>
+      <point x="5" y="0" type="qcurve" smooth="yes"/>
+      <point x="-61" y="0" type="line"/>
+      <point x="-61" y="103" type="line"/>
+      <point x="5" y="103" type="line" smooth="yes"/>
+      <point x="25" y="103"/>
+      <point x="85" y="99"/>
+      <point x="119" y="95" type="qcurve" smooth="yes"/>
+      <point x="206" y="86"/>
+      <point x="246" y="86" type="qcurve" smooth="yes"/>
+      <point x="295" y="86"/>
+      <point x="432" y="94"/>
+      <point x="522" y="103" type="qcurve"/>
+      <point x="582" y="103" type="line"/>
+    </contour>
+  </outline>
+</glyph>
