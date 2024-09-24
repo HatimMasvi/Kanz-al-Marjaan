@@ -1,0 +1,25 @@
+{
+glyphname = uniFE9C_uniFEEC_uniFE9E.liga;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = glyph2002;
+},
+{
+alignment = -1;
+pos = (547,-825);
+ref = dot.one;
+},
+{
+alignment = -1;
+pos = (1342,877);
+ref = dot.threeup;
+}
+);
+width = 1926;
+}
+);
+}

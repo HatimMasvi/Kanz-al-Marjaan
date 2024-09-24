@@ -1,0 +1,21 @@
+{
+glyphname = uniFCC1;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.fehmeeminit;
+},
+{
+alignment = -1;
+pos = (262,1341);
+ref = dot.one;
+}
+);
+width = 753;
+}
+);
+unicode = 64705;
+}

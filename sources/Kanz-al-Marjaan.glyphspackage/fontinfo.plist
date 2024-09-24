@@ -1,0 +1,4259 @@
+{
+.formatVersion = 3;
+classes = (
+{
+code = "uni0622 uni0623 uni0624 uni0625 uni0627 uni0629 uni062F uni0630 uni0671 uni0672 uni0673 uni0675 uni0677 uni0688 uni06C0 uni06D2 uni06D3 uniFEDF uni0627.short";
+name = aalt;
+},
+{
+code = "uniFE82 uniFE84 uniFE86 uniFE88 uniFE8E uniFE94 uniFEAA uniFEAC uniFB51 uni0672.fina uni0673.fina uni0675.fina glyph2248 uniFB89 uniFBA5 uniFBAF uniFBB1 uniFEDF.alt1 uniFE8E.short";
+name = aalt2;
+},
+{
+code = "uni0622 uni0623 uni0624 uni0625 uni0626 uni0627 uni0628 uni0629 uni062A uni062B uni062C uni062D uni062E uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0639 uni063A uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0648 uni0649 uni064A uni0671 uni0672 uni0673 uni0675 uni0676 uni0678 uni0679 uni067E uni0686 uni0688 uni0691 uni06A1 uni06A9 uni06AF uni06BA uni06BE uni06C0 uni06CC uni06D2 uni06D3 uni0627.short";
+name = fina;
+},
+{
+code = "uniFE82 uniFE84 uniFE86 uniFE88 uniFE8A uniFE8E uniFE90 uniFE94 uniFE96 uniFE9A uniFE9E uniFEA2 uniFEA6 uniFEAA uniFEAC uniFEAE uniFEB0 uniFEB2 uniFEB6 uniFEBA uniFEBE uniFEC2 uniFEC6 uniFECA uniFECE uniFED2 uniFED6 uniFEDA uniFEDE uniFEE2 uniFEE6 uniFEEA uniFEEE uniFEF0 uniFEF2 uniFB51 uni0672.fina uni0673.fina uni0675.fina uni0676.fina uni0678.fina uniFB67 uniFB57 uniFB7B uniFB89 uniFB8D uni06A1.fina uniFB8F uniFB93 uniFB9F uniFBAB uniFBA5 uniFBFD uniFBAF uniFBB1 uniFE8E.short";
+name = fina2;
+},
+{
+code = "uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFBE8 uniFBFE uniFE8B uniFB68 uniFB58 uniFB7C uni06A1.init uniFB90 uniFB94 uniFEE7 uniFBAC uniFBA8 uniFBFE";
+name = init;
+},
+{
+code = "uni0631 uni0632 uni0644 uni0646 uni0647 uni0648 uni0649 uni064A uni0676 uni0677 uni0691 uni06BA uniFEDF";
+name = init_isol;
+},
+{
+code = "glyph2245 glyph2246 glyph2249 glyph2244 uniFEE9 glyph2247 glyph2250 glyph2251 glyph2248 glyph2248 glyph2252 newNunGunnaReplacemet uniFEDF.alt1";
+name = init_isol2;
+},
+{
+code = "uni0626 uni0628 uni062A uni062B uni062C uni062D uni062E uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0639 uni063A uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0647 uni0649 uni064A uni0678 uni0679 uni067E uni0686 uni06A1 uni06A9 uni06AF uni06BA uni06BE uni06C1 uni06CC";
+name = init_medi;
+},
+{
+code = "uni0631 uni0632 uni0644 uni0646 uni0648 uni0649 uni064A uni0676 uni0677 uni0691 uni06BA";
+name = isol;
+},
+{
+code = "uni0621 uni0622 uni0623 uni0624 uni0625 uni0627 uni0629 uni062F uni0630 uni0631 uni0632 uni0648 uni06D5 uni0688 uni0691 uni06D2 uni06C0 uni06D3 uni0671 uni0672 uni0673 uni0674 uni0675 uni0676 uni0677 uniFB51 uniFB89 uniFB8D uniFBA5 uniFBAF uniFBB1 uniFBD8 uniFE82 uniFE84 uniFE86 uniFE88 uniFE8E uniFE94 uniFEAA uniFEAC uniFEAE uniFEB0 uniFEEE uniFEF5 uniFEF6 uniFEF7 uniFEF8 uniFEF9 uniFEFA uniFEFB uniFEFC uniFE8E.short uni0672.fina uni0673.fina uni0675.fina uni0676.fina uniFEFB.alt1 uniFEFC.alt1";
+name = isol2;
+},
+{
+code = "uni064B uni064C uni064E uni064F uni0651 uni0652 uni0653 uni0654 uni0670 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DC uni06DF uni06E0 uni06E1 uni06E2 uni06E4 uni06E7 uni06E8 uni06EB uni06EC uni0651064B uni0651064C uni0651064D uni0651064E uni0651064F uni06510650 uni06510670 uni0654064E uni0654064F uni06540652";
+name = isol3;
+},
+{
+code = "uni0631 uni0632 uni0691 uniFB58 uniFB59 uniFB68 uniFB69 uniFBA8 uniFBE8 uniFBE9 uniFBFE uniFBFF uniFE8B uniFE8C uniFE91 uniFE92 uniFE97 uniFE98 uniFE9B uniFE9C uniFEE7 uniFEE8";
+name = isol_liga;
+},
+{
+code = "newReReplacement newZeReplacement newNunGunnaReplacement uniFB58.tall uniFB59.tall uniFB68.tall uniFB69.tall uniFBA8 uniFBE8.tall uniFBE9.tall uniFEF3.tall uniFEF4.tall uniFE8B.tall uniFE8C.tall uniFE91.tall uniFE92.tall uniFE97.tall uniFE98.tall uniFE9B.tall uniFE9C.tall uniFEE7.tall uniFEE8.tall";
+name = isol_liga2;
+},
+{
+code = "uni0624 uni0631 uni0632 uni0648 uni0691 uni0676 uni0677 uniFB8D uniFC64 uniFC65 uniFC6A uniFC6B uniFC70 uniFC71 uniFC76 uniFC77 uniFC8A uniFC8B uniFC91 uniFC92 uniFE86 uniFEAE uniFEB0 uni06790631.fina uni06790632.fina uni06260691.fina uni06280691.fina uni062A0691.fina uni062B0691.fina uni06460691.fina uni064A0691.fina uni06790691.fina liga.behrehfina newReReplacement newNunGunnaReplacemet newZeReplacement newNunGunnaReplacement glyph2244 glyph2245 glyph2246 glyph2247 glyph2248";
+name = isol_liga3;
+},
+{
+code = "uniFB58 uniFB59 uniFB68 uniFB69 uniFBA8 uniFBE8 uniFBE9 uniFBFE uniFBFF uniFE8B uniFE8C uniFE91 uniFE92 uniFE97 uniFE98 uniFE9B uniFE9C uniFEE7 uniFEE8";
+name = liga;
+},
+{
+code = "uniFD17 uniFD18 uniFD19 uniFD1A uniFD29 uniFD2A uniFEB2 uniFEB4 uniFEB6 uniFEB8 uni063306D2.fina uni06330632.fina uni06340632.fina";
+name = liga10;
+},
+{
+code = "uniFC80 uniFC81 uniFCEB uniFEB2 uniFEB4 uniFEB6 uniFEB8 uniFEBA uniFEBC uniFEBE uniFEC0 uniFEC2 uniFEC4 uniFEC6 uniFEC8 uniFECA uniFECC uniFECE uniFED0 uniFED2 uniFED4 uniFED6 uniFED8 uniFEEE uni064306440627.fina uni064306440627.finashort uniFB95_uniFE8E.liga glyph1907 uniFB95_uniFEFC.liga uniFB95_uniFEFC.alt1.liga uniFB95_uniFEDE.liga uniFB95_uniFEE0.liga";
+name = liga11;
+},
+{
+code = "uniFB57 uniFB59 uniFB67 uniFB69 uniFB89 uniFB8D uniFB93 uniFB9F uniFE90 uniFE92 uniFE96 uniFE98 uniFE9A uniFE9C uniFEAE uniFEB0 uniFEDA uniFEDE uniFEE0 uniFEE6 uniFEE8 uniFE92.tall uniFE98.tall uniFE9C.tall uniFEE8.tall uniFB69.tall uniFB59.tall";
+name = liga12;
+},
+{
+code = "uniFE8C.tall uniFE92.tall uniFE98.tall uniFE9C.tall uniFEE8.tall uniFEF4.tall uniFB69.tall uniFB59.tall uniFBE9.tall";
+name = liga13;
+},
+{
+code = "uniFC64 uniFC65 uniFC66 uniFC67 uniFC6A uniFC6C uniFC6D uniFC70 uniFC71 uniFC72 uniFC73 uniFC76 uniFC77 uniFC78 uniFC79 uniFC8A uniFC8B uniFC8C uniFC8D uniFC91 uniFC92 uniFC93 uniFC94 uni06790631.fina uni067D0631.fina uni06790632.fina uni067D0632.fina uni06260691.fina uni06280691.fina uni062B0691.fina uni06460691.fina uni064A0691.fina uni06790691.fina uni067D0691.fina uni062606450627.fina uni062806450627.fina uni062A06450627.fina uni062B06450627.fina uni064606450627.fina uni064A06450627.fina uni067906450627.fina uni067D06450627.fina uni067D0645.fina uni06790646.fina uni067D0646.fina uni062606BA.fina uni062A06BA.fina uni062B06BA.fina uni064606BA.fina uni064A06BA.fina uni067906BA.fina uni067D06BA.fina uniFE92_uniFE92_uniFBAF.liga uniFE92_uniFEE8_uniFBAF.liga uniFE92_uniFE98_uniFBAF.liga uniFE92_uniFEF4_uniFBAF.liga uniFE92_uniFE9C_uniFBAF.liga uniFE92_uniFB59_uniFBAF.liga uniFE92_uniFE8C_uniFBAF.liga uniFE92_uniFB69_uniFBAF.liga uniFEE8_uniFE92_uniFBAF.liga uniFEE8_uniFEE8_uniFBAF.liga uniFEE8_uniFE98_uniFBAF.liga uniFEE8_uniFEF4_uniFBAF.liga uniFEE8_uniFE9C_uniFBAF.liga uniFEE8_uniFB59_uniFBAF.liga uniFEE8_uniFE8C_uniFBAF.liga uniFEE8_uniFB69_uniFBAF.liga uniFE98_uniFEE8_uniFBAF.liga uniFE98_uniFE92_uniFBAF.liga uniFE98_uniFE98_uniFBAF.liga uniFE98_uniFEF4_uniFBAF.liga uniFE98_uniFE9C_uniFBAF.liga uniFE98_uniFB59_uniFBAF.liga uniFE98_uniFE8C_uniFBAF.liga uniFE98_uniFB69_uniFBAF.liga uniFEF4_uniFE9C_uniFBAF.liga uniFEF4_uniFB59_uniFBAF.liga uniFEF4_uniFE8C_uniFBAF.liga uniFEF4_uniFB69_uniFBAF.liga uniFE9C_uniFEE8_uniFBAF.liga uniFE9C_uniFE92_uniFBAF.liga uniFE9C_uniFE98_uniFBAF.liga uniFE9C_uniFEF4_uniFBAF.liga uniFE9C_uniFE9C_uniFBAF.liga uniFE9C_uniFB59_uniFBAF.liga uniFE9C_uniFE8C_uniFBAF.liga uniFE9C_uniFB69_uniFBAF.liga uniFB59_uniFE92_uniFBAF.liga uniFB59_uniFEE8_uniFBAF.liga uniFB59_uniFEF4_uniFBAF.liga uniFB59_uniFE98_uniFBAF.liga uniFB59_uniFE9C_uniFBAF.liga uniFB59_uniFB59_uniFBAF.liga uniFB59_uniFE8C_uniFBAF.liga uniFB59_uniFB69_uniFBAF.liga uniFE8C_uniFE92_uniFBAF.liga uniFE8C_uniFEE8_uniFBAF.liga uniFE8C_uniFEF4_uniFBAF.liga uniFE8C_uniFE98_uniFBAF.liga uniFE8C_uniFE9C_uniFBAF.liga uniFE8C_uniFB59_uniFBAF.liga uniFE8C_uniFE8C_uniFBAF.liga uniFE8C_uniFB69_uniFBAF.liga uniFB69_uniFE92_uniFBAF.liga uniFB69_uniFEE8_uniFBAF.liga uniFB69_uniFE98_uniFBAF.liga uniFB69_uniFEF4_uniFBAF.liga uniFB69_uniFE9C_uniFBAF.liga uniFB69_uniFB59_uniFBAF.liga uniFB69_uniFE8C_uniFBAF.liga uniFB69_uniFB69_uniFBAF.liga uniFEE8_uniFBAD.liga uniFE92_uniFBAD.liga uniFE98_uniFBAD.liga uniFEF4_uniFBAD.liga uniFE9C_uniFBAD.liga uniFB59_uniFBAD.liga uniFE8C_uniFBAD.liga uniFB69_uniFBAD.liga uniFE92_uniFBAD_uniFBAF.liga uniFEE8_uniFBAD_uniFBAF.liga uniFE98_uniFBAD_uniFBAF.liga uniFEF4_uniFBAD_uniFBAF.liga uniFE9C_uniFBAD_uniFBAF.liga uniFB59_uniFBAD_uniFBAF.liga uniFE8C_uniFBAD_uniFBAF.liga uniFB69_uniFBAD_uniFBAF.liga";
+name = liga14;
+},
+{
+code = "uniFB59 uniFB69 uniFBE9 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEE8";
+name = liga2;
+},
+{
+code = "uniFB58 uniFB68 uniFBA8 uniFBE8 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFEE7";
+name = liga3;
+},
+{
+code = "uniFB58.short uniFB59.tall uniFB68.short uniFB69.tall uniFBA8 uniFBE8.short uniFBE9.tall uniFEF3.short uniFEF4.tall uniFE8B.short uniFE8C.tall uniFE91.short uniFE92.tall uniFE97.short uniFE98.tall uniFE9B.short uniFE9C.tall uniFEE7.short uniFEE8.tall";
+name = liga4;
+},
+{
+code = "uni0631 uni0632 uni0691 uniFB58 uniFB59 uniFB68 uniFBA8 uniFBE8 uniFBFE uniFBFF uniFE8B uniFE91 uniFE92 uniFE97 uniFE9B uniFEE7 uniFE92.tall uniFEF4.tall uniFB59.tall";
+name = liga5;
+},
+{
+code = "newReReplacement newZeReplacement newNunGunnaReplacement uniFB58.tall uniFB59.low uniFB68.tall uniFBA8 uniFBE8.tall uniFEF3.tall uniFEF4.low uniFE8B.tall uniFE91.tall uniFE92.low uniFE97.tall uniFE9B.tall uniFEE7.tall uniFE92.lowtall uniFEF4.lowtall uniFB59.lowtall";
+name = liga6;
+},
+{
+code = "uniFB58 uniFB59 uniFB68 uniFB69 uniFBA8 uniFBE8 uniFBE9 uniFBFE uniFBFF uniFE8B uniFE8C uniFE91 uniFE92 uniFE97 uniFE98 uniFE9B uniFE9C uniFEE7 uniFEE8 uniFEFB uniFE8C.tall uniFE92.tall uniFE98.tall uniFE9C.tall uniFEE8.tall uniFEF4.tall uniFB69.tall uniFB59.tall uniFBE9.tall uniFE92.lowtall uniFEF4.lowtall uniFB59.lowtall";
+name = liga7;
+},
+{
+code = "uniFB58.short uniFB59.tall uniFB68.short uniFB69.tall uniFBA8 uniFBE8.short uniFBE9.tall uniFEF3.short uniFEF4.tall uniFE8B.short uniFE8C.tall uniFE91.short uniFE92.tall uniFE97.short uniFE98.tall uniFE9B.short uniFE9C.tall uniFEE7.short uniFEE8.tall glyph2404 uniFE8C uniFE92 uniFE98 uniFE9C uniFEE8 uniFBFF uniFB69 uniFB59 uniFBE9 uniFE92.low uniFEF4.low uniFB59.low";
+name = liga8;
+},
+{
+code = "uniFE8C.tall uniFE92.tall uniFE98.tall uniFE9C.tall uniFEE8.tall uniFEF4.tall uniFB69.tall uniFB59.tall uniFBE9.tall uniFE92.lowtall uniFEF4.lowtall uniFB59.lowtall";
+name = liga9;
+},
+{
+code = "uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC4 uniFEC8 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC uniFBE9 uniFBFF uniFE8C uniFB69 uniFB59 uniFB7D uni06A1.medi uniFB91 uniFB95 uniFEE8 uniFBAD uniFBA9 uniFBFF";
+name = medi;
+}
+);
+familyName = "Kanz-al-Marjaan";
+customParameters = (
+{
+name = glyphOrder;
+value = (
+.notdef,
+NULL,
+CR,
+uni0001,
+uni000D,
+space,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+uni00A0,
+brokenbar,
+section,
+dieresis,
+copyright,
+guillemotleft,
+uni00AD,
+registered,
+uni00B2,
+uni00B3,
+acute,
+paragraph,
+guillemotright,
+onequarter,
+onehalf,
+threequarters,
+Eth,
+multiply,
+divide,
+tilde,
+hungarumlaut,
+dotbelowcomb,
+uni0326,
+uni060C,
+uni061B,
+uni061F,
+uni0621,
+uni0622,
+uni0623,
+uni0624,
+uni0625,
+uni0626,
+uni0627,
+uni0628,
+uni0629,
+uni062A,
+uni062B,
+uni062C,
+uni062D,
+uni062E,
+uni062F,
+uni0630,
+uni0631,
+uni0632,
+uni0633,
+uni0634,
+uni0635,
+uni0636,
+uni0637,
+uni0638,
+uni0639,
+uni063A,
+uni0640,
+uni0641,
+uni0642,
+uni0643,
+uni0644,
+uni0645,
+uni0646,
+uni0647,
+uni0648,
+uni0649,
+uni064A,
+uni064B,
+uni064C,
+uni064D,
+uni064E,
+uni064F,
+uni0650,
+uni0651,
+uni0652,
+uni0653,
+uni0654,
+uni0655,
+uni0660,
+uni0661,
+uni0662,
+uni0663,
+uni0664,
+uni0665,
+uni0666,
+uni0667,
+uni0668,
+uni0669,
+uni066A,
+uni066B,
+uni066C,
+uni066D,
+uni0670,
+uni0671,
+uni0672,
+uni0673,
+uni0674,
+uni0675,
+uni0676,
+uni0677,
+uni0678,
+uni0679,
+uni067E,
+uni0686,
+uni0688,
+uni0691,
+uni06A1,
+uni06A9,
+uni06AF,
+uni06BA,
+uni06BE,
+uni06C0,
+uni06C1,
+uni06CC,
+uni06D2,
+uni06D3,
+uni06D4,
+uni06D5,
+uni06D6,
+uni06D7,
+uni06D8,
+uni06D9,
+uni06DA,
+uni06DB,
+uni06DC,
+uni06DD,
+uni06DE,
+uni06DF,
+uni06E0,
+uni06E1,
+uni06E2,
+uni06E3,
+uni06E4,
+uni06E5,
+uni06E6,
+uni06E7,
+uni06E8,
+uni06E9,
+uni06EA,
+uni06EB,
+uni06EC,
+uni06ED,
+uni06F0,
+uni06F1,
+uni06F2,
+uni06F3,
+uni06F4,
+uni06F5,
+uni06F6,
+uni06F7,
+uni06F8,
+uni06F9,
+uni2000,
+uni2001,
+uni2002,
+uni2003,
+uni2004,
+uni2005,
+uni2006,
+uni2007,
+uni2008,
+uni2009,
+uni200A,
+uni2010,
+uni2011,
+figuredash,
+endash,
+emdash,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+dagger,
+daggerdbl,
+bullet,
+ellipsis,
+uni202F,
+perthousand,
+guilsinglleft,
+guilsinglright,
+uni205F,
+uni2074,
+Euro,
+trademark,
+minus,
+uni2215,
+uni25CC,
+uni25FC,
+uniFB51,
+uniFB57,
+uniFB58,
+uniFB59,
+uniFB67,
+uniFB68,
+uniFB69,
+uniFB7B,
+uniFB7C,
+uniFB7D,
+uniFB89,
+uniFB8D,
+uniFB8F,
+uniFB90,
+uniFB91,
+uniFB93,
+uniFB94,
+uniFB95,
+uniFB9F,
+uniFBA1,
+uniFBA5,
+uniFBA8,
+uniFBA9,
+uniFBAB,
+uniFBAC,
+uniFBAD,
+uniFBAF,
+uniFBB1,
+uniFBD8,
+uniFBE8,
+uniFBE9,
+uniFBFD,
+uniFBFE,
+uniFBFF,
+uniFC00,
+uniFC01,
+uniFC02,
+uniFC03,
+uniFC04,
+uniFC05,
+uniFC06,
+uniFC07,
+uniFC08,
+uniFC09,
+uniFC0A,
+uniFC0B,
+uniFC0C,
+uniFC0D,
+uniFC0E,
+uniFC0F,
+uniFC10,
+uniFC11,
+uniFC12,
+uniFC13,
+uniFC14,
+uniFC15,
+uniFC16,
+uniFC17,
+uniFC18,
+uniFC19,
+uniFC1A,
+uniFC1B,
+uniFC1C,
+uniFC1D,
+uniFC1E,
+uniFC1F,
+uniFC20,
+uniFC21,
+uniFC22,
+uniFC23,
+uniFC24,
+uniFC25,
+uniFC29,
+uniFC2A,
+uniFC2B,
+uniFC2C,
+uniFC2D,
+uniFC2E,
+uniFC2F,
+uniFC30,
+uniFC31,
+uniFC32,
+uniFC33,
+uniFC34,
+uniFC35,
+uniFC36,
+uniFC37,
+uniFC3B,
+uniFC3C,
+uniFC3D,
+uniFC3E,
+uniFC3F,
+uniFC40,
+uniFC41,
+uniFC42,
+uniFC43,
+uniFC44,
+uniFC48,
+uniFC49,
+uniFC4A,
+uniFC4B,
+uniFC4C,
+uniFC4D,
+uniFC4E,
+uniFC4F,
+uniFC50,
+uniFC51,
+uniFC52,
+uniFC53,
+uniFC54,
+uniFC55,
+uniFC56,
+uniFC57,
+uniFC58,
+uniFC59,
+uniFC5A,
+uniFC64,
+uniFC65,
+uniFC66,
+uniFC67,
+uniFC68,
+uniFC69,
+uniFC6A,
+uniFC6B,
+uniFC6C,
+uniFC6D,
+uniFC6E,
+uniFC6F,
+uniFC70,
+uniFC71,
+uniFC72,
+uniFC73,
+uniFC74,
+uniFC75,
+uniFC76,
+uniFC77,
+uniFC78,
+uniFC79,
+uniFC7A,
+uniFC7B,
+uniFC80,
+uniFC81,
+uniFC82,
+uniFC83,
+uniFC84,
+uniFC85,
+uniFC86,
+uniFC87,
+uniFC88,
+uniFC8A,
+uniFC8B,
+uniFC8C,
+uniFC8D,
+uniFC8E,
+uniFC8F,
+uniFC91,
+uniFC92,
+uniFC93,
+uniFC94,
+uniFC95,
+uniFC96,
+uniFC97,
+uniFC98,
+uniFC99,
+uniFC9A,
+uniFC9B,
+uniFC9C,
+uniFC9D,
+uniFC9E,
+uniFC9F,
+uniFCA0,
+uniFCA1,
+uniFCA2,
+uniFCA3,
+uniFCA4,
+uniFCA5,
+uniFCA6,
+uniFCA7,
+uniFCA8,
+uniFCA9,
+uniFCAA,
+uniFCAB,
+uniFCAC,
+uniFCAD,
+uniFCAE,
+uniFCAF,
+uniFCB0,
+uniFCB1,
+uniFCB2,
+uniFCB3,
+uniFCB4,
+uniFCB5,
+uniFCB6,
+uniFCB7,
+uniFCBA,
+uniFCBB,
+uniFCBC,
+uniFCBD,
+uniFCBE,
+uniFCBF,
+uniFCC0,
+uniFCC1,
+uniFCC2,
+uniFCC3,
+uniFCC7,
+uniFCC8,
+uniFCC9,
+uniFCCA,
+uniFCCB,
+uniFCCC,
+uniFCCD,
+uniFCCE,
+uniFCCF,
+uniFCD0,
+uniFCD1,
+uniFCD2,
+uniFCD3,
+uniFCD4,
+uniFCD5,
+uniFCD6,
+uniFCD7,
+uniFCD8,
+uniFCDA,
+uniFCDB,
+uniFCDC,
+uniFCDD,
+uniFCDE,
+uniFCE0,
+uniFCE2,
+uniFCE4,
+uniFCE6,
+uniFCEB,
+uniFCEC,
+uniFCEF,
+uniFCF1,
+uniFCFB,
+uniFCFC,
+uniFCFD,
+uniFCFE,
+uniFD05,
+uniFD06,
+uniFD07,
+uniFD08,
+uniFD09,
+uniFD0A,
+uniFD0B,
+uniFD0C,
+uniFD0D,
+uniFD0E,
+uniFD0F,
+uniFD10,
+uniFD17,
+uniFD18,
+uniFD19,
+uniFD1A,
+uniFD21,
+uniFD22,
+uniFD23,
+uniFD24,
+uniFD29,
+uniFD2A,
+uniFD2B,
+uniFD2C,
+uniFD2D,
+uniFD2E,
+uniFD2F,
+uniFD30,
+uniFD3E,
+uniFD3F,
+uniFD86,
+uniFD88,
+uniFD8A,
+uniFD8D,
+uniFD8F,
+uniFDB5,
+uniFDBA,
+uniFDF2,
+uniFE82,
+uniFE84,
+uniFE86,
+uniFE88,
+uniFE8A,
+uniFE8B,
+uniFE8C,
+uniFE8E,
+uniFE90,
+uniFE91,
+uniFE92,
+uniFE94,
+uniFE96,
+uniFE97,
+uniFE98,
+uniFE9A,
+uniFE9B,
+uniFE9C,
+uniFE9E,
+uniFE9F,
+uniFEA0,
+uniFEA2,
+uniFEA3,
+uniFEA4,
+uniFEA6,
+uniFEA7,
+uniFEA8,
+uniFEAA,
+uniFEAC,
+uniFEAE,
+uniFEB0,
+uniFEB2,
+uniFEB3,
+uniFEB4,
+uniFEB6,
+uniFEB7,
+uniFEB8,
+uniFEBA,
+uniFEBB,
+uniFEBC,
+uniFEBE,
+uniFEBF,
+uniFEC0,
+uniFEC2,
+uniFEC3,
+uniFEC4,
+uniFEC6,
+uniFEC7,
+uniFEC8,
+uniFECA,
+uniFECB,
+uniFECC,
+uniFECE,
+uniFECF,
+uniFED0,
+uniFED2,
+uniFED3,
+uniFED4,
+uniFED6,
+uniFED7,
+uniFED8,
+uniFEDA,
+uniFEDB,
+uniFEDC,
+uniFEDE,
+uniFEDF,
+uniFEE0,
+uniFEE2,
+uniFEE3,
+uniFEE4,
+uniFEE6,
+uniFEE7,
+uniFEE8,
+uniFEE9,
+uniFEEA,
+uniFEEB,
+uniFEEC,
+uniFEEE,
+uniFEF0,
+uniFEF2,
+uniFEF5,
+uniFEF6,
+uniFEF7,
+uniFEF8,
+uniFEF9,
+uniFEFA,
+uniFEFB,
+uniFEFC,
+uniFFFC,
+nonmarkingreturn.1,
+_652,
+NULL.1,
+space.001,
+at.cap,
+hyphen.cap,
+guilsinglleft.cap,
+guilsinglright.cap,
+guillemotleft.cap,
+guillemotright.cap,
+endash.cap,
+emdash.cap,
+periodcentred,
+periodcentred.cap,
+parenleft.cap,
+parenright.cap,
+bracketleft.cap,
+bracketright.cap,
+braceleft.cap,
+braceright.cap,
+uni0326.alt,
+grave.cap,
+acute.cap,
+circumflex.cap,
+caron.cap,
+tilde.cap,
+dieresis.cap,
+macron.cap,
+breve.cap,
+ring.cap,
+hungarumlaut.cap,
+dotaccent.cap,
+uni0627.short,
+uniFE8B.tall,
+uniFE8B.short,
+uniFE8C.tall,
+uniFE8E.short,
+uniFE91.tall,
+uniFE91.short,
+uniFE92.tall,
+uniFE97.tall,
+uniFE97.short,
+uniFE98.tall,
+uniFE9B.tall,
+uniFE9B.short,
+uniFE9C.tall,
+uni0640.twotimes,
+uni0640.threetimes,
+uniFEE7.tall,
+uniFEE7.short,
+uniFEE8.tall,
+uniFEEC.alt,
+uniFEF3.tall,
+uniFEF3.short,
+uniFEF4.tall,
+uni0672.fina,
+uni0673.fina,
+uni0675.fina,
+uni0676.fina,
+uni0678.fina,
+uniFB68.tall,
+uniFB68.short,
+uniFB69.tall,
+uniFB58.tall,
+uniFB58.short,
+uniFB59.tall,
+uni06A1.fina,
+uni06A1.init,
+uni06A1.medi,
+uni06AA.fina,
+uni06AA.init,
+uni06AA.medi,
+uni06B6.fina,
+uniFBE8.short,
+uniFBE8.tall,
+uniFBE9.tall,
+uni06F4.urdu,
+uni06F7.urdu,
+uni0660.small,
+uni0661.small,
+uni0662.small,
+uni0663.small,
+uni0664.small,
+uni0665.small,
+uni0666.small,
+uni0667.small,
+uni0668.small,
+uni0669.small,
+uni06F4.small,
+uni06F5.small,
+uni06F6.small,
+uni06F4.urdusmall,
+uni06F7.urdusmall,
+uni06DD.alt1,
+uniFEFB.alt1,
+uniFEFC.alt1,
+uni0651064B,
+uni0651064C,
+uni0651064D,
+uni0651064E,
+uni0651064F,
+uni06510650,
+uni06510670,
+uni0654064E,
+uni0654064F,
+uni06540652,
+uni06550650,
+uni062C06BE.isol,
+uni062C06BE.fina,
+uni062C06BE.init,
+uni062C06BE.medi,
+uni06AF06BE.isol,
+uni06AF06BE.init,
+uni06AF06BE.medi,
+uni064906D2.isol,
+uni062806D2.isol,
+uni067E06D2.isol,
+uni067906D2.isol,
+uni062A06D2.isol,
+uni062B06D2.isol,
+uni062C06D2.isol,
+uni068606D2.isol,
+uni062D06D2.isol,
+uni062E06D2.isol,
+uni063306D2.isol,
+uni063406D2.isol,
+uni063506D2.isol,
+uni063606D2.isol,
+uni063706D2.isol,
+uni063806D2.isol,
+uni063906D2.isol,
+uni063A06D2.isol,
+uni064106D2.isol,
+uni064206D2.isol,
+uni06A906D2.isol,
+uni06AF06D2.isol,
+uni064406D2.isol,
+uni064506D2.isol,
+uni064606D2.isol,
+uni06BE06D2.isol,
+uni06C106D2.isol,
+uni06CC06D3.isol,
+uni062606D3.isol,
+uni067E06D3.isol,
+uni067906D3.isol,
+uni062A06D3.isol,
+uni062B06D3.isol,
+uni062C06D3.isol,
+uni068606D3.isol,
+uni063906D3.isol,
+uni063A06D3.isol,
+uni064106D3.isol,
+uni064206D3.isol,
+uni06A906D3.isol,
+uni06AF06D3.isol,
+uni064406D3.isol,
+uni064506D3.isol,
+uni064606D3.isol,
+uni06BE06D3.isol,
+uni06C106D3.isol,
+uni062C06D3.fina,
+uni0646062A06D2.isol,
+uni06BE062A06D2.isol,
+uni06C1062A06D2.isol,
+uni063306D2.fina,
+uni06CC063306D2.isol,
+uni06CC063306D2.fina,
+uni0686064406D2.isol,
+uni06AF064406D2.isol,
+uni0645064406D2.isol,
+uni062C064506D2.isol,
+uni067E064606D2.isol,
+uni06BE064606D2.isol,
+uni06C1064606D2.isol,
+uni068606BE06D2.isol,
+uni064406CC06D2.isol,
+uni06C106CC06D2.isol,
+uni06CC064606D2.fina,
+uni067E06CC064606D2.isol,
+uni062A06CC067906D2.isol,
+uni06C1062A06D2.fina,
+uni06CC062A06D2.fina,
+uni06C1064406D2.fina,
+uni0679062C.isol,
+uni067A062C.isol,
+uni067D062C.isol,
+uni062B062D.isol,
+uni0679062D.isol,
+uni067D062D.isol,
+uni0626062E.isol,
+uni062B062E.isol,
+uni0679062E.isol,
+uni067D062E.isol,
+uni06260686.isol,
+uni06280686.isol,
+uni062A0686.isol,
+uni062B0686.isol,
+uni06460686.isol,
+uni064A0686.isol,
+uni06790686.isol,
+uni067D0686.isol,
+uni062B062C.init,
+uni0679062C.init,
+uni067D062C.init,
+uni062B062D.init,
+uni0679062D.init,
+uni067D062D.init,
+uni062B062E.init,
+uni0679062E.init,
+uni067D062E.init,
+uni06260686.init,
+uni06280686.init,
+uni062A0686.init,
+uni062B0686.init,
+uni06460686.init,
+uni064A0686.init,
+uni06790686.init,
+uni067D0686.init,
+uni06790645.isol,
+uni067D0645.isol,
+uni06790645.init,
+uni067D0645.init,
+uni062B0647.init,
+uni06790647.init,
+uni067D0647.init,
+uni06790647.medi,
+uni067D0647.medi,
+uni06790649.isol,
+uni067D0649.isol,
+uni0679064A.isol,
+uni067D064A.isol,
+uni06260626.isol,
+uni06280626.isol,
+uni062A0626.isol,
+uni062B0626.isol,
+uni06460626.isol,
+uni064A0626.isol,
+uni06790626.isol,
+uni06790631.fina,
+uni067D0631.fina,
+uni06790632.fina,
+uni067D0632.fina,
+uni06260691.fina,
+uni06280691.fina,
+uni062A0691.fina,
+uni062B0691.fina,
+uni06460691.fina,
+uni064A0691.fina,
+uni06790691.fina,
+uni067D0691.fina,
+uni062606450627.fina,
+uni062806450627.fina,
+uni062A06450627.fina,
+uni062B06450627.fina,
+uni064606450627.fina,
+uni064A06450627.fina,
+uni067906450627.fina,
+uni067D06450627.fina,
+uni06790645.fina_,
+uni067D0645.fina,
+uni06790646.fina,
+uni067D0646.fina,
+uni062606BA.fina,
+uni062806BA.fina,
+uni062A06BA.fina,
+uni062B06BA.fina,
+uni064606BA.fina,
+uni064A06BA.fina,
+uni067906BA.fina,
+uni067D06BA.fina,
+uni06790649.fina,
+uni067D0649.fina,
+uni0679064A.fina,
+uni067D064A.fina,
+uni06260626.fina,
+uni06280626.fina,
+uni062A0626.fina,
+uni062B0626.fina,
+uni06460626.fina,
+uni064A0626.fina,
+uni06790626.fina,
+uni06850645.isol,
+uni06860645.isol,
+uni06860645.init,
+uni06330632.isol,
+uni06340632.isol,
+uni06330632.fina,
+uni06340632.fina,
+uni0635062C.isol,
+uni0635062E.isol,
+uni0635062C.init,
+uni06350632.isol,
+uni06360632.isol,
+uni06350632.fina,
+uni06360632.fina,
+uni06410626.isol,
+uni06420626.isol,
+uni06430627.isolshort,
+uni06430627.finashort,
+uni064306440627.isol,
+uni064306440627.fina,
+uni064306440627.isolshort,
+uni064306440627.finashort,
+uni064306450627.isol,
+uni064306450627.isolshort,
+uni06440645062C.init,
+uni06440645062E.init,
+dot.one,
+dot.twohoriz,
+dot.twovert,
+dot.threeup,
+dot.threedown,
+dot.four,
+wasla,
+wavyhamza,
+smalltaa,
+smallv,
+base.behisol,
+base.behfinal,
+base.qafisol,
+base.qaffina,
+liga.behhahisol,
+liga.behhahinit,
+liga.behmeemisol,
+liga.behmeeminit,
+liga.behhehinit,
+liga.behhehmedi,
+liga.behyehisol,
+liga.behrehfina,
+liga.behmeemaleffina,
+liga.behmeemfina,
+liga.behnoonfina,
+liga.behyehfina,
+liga.hahhahisol,
+liga.hahhahinit,
+liga.fehhahisol,
+liga.fehhahinit,
+liga.fehmeemisol,
+liga.fehmeeminit,
+liga.fehyehisol,
+liga.allah,
+uni064406440647.isol,
+liga.behbehyehbarree,
+uni0640.quarter,
+uni062C06BE06D2.isol,
+uni062D06BE06D2.isol,
+uni062C06BE06D2.fina,
+uni062D06BE06D2.fina,
+uni068606BE06D2.fina,
+uni06BE06D2.fina,
+uni062C06D2.fina,
+uni062D06D2.fina,
+uni068606D2.fina,
+uni062D064906D2.fina,
+uni0686062A06D2.fina,
+uniFE92.low,
+uniFEF4.low,
+uniFB59.low,
+uniFE92.lowtall,
+uniFEF4.lowtall,
+uniFB59.lowtall,
+uniFE9F.low,
+uniFB7C.low,
+uniFEA0.low,
+uniFB7D.low,
+uni06490627.isol,
+uni06280627.isol,
+uni062A0627.isol,
+uni062B0627.isol,
+uni06460627.isol,
+uni064A0627.isol,
+uniFEDF.alt1,
+uniSeenToiYehB,
+uniSheenToiYehB,
+uniKheHaYehB,
+uniFB94_uniFE8E.liga,
+uniFB95_uniFE8E.liga,
+uniFB94_uniFE8E.short.liga,
+glyph1907,
+glyph1908,
+uniFB95_uniFEFC.liga,
+glyph1910,
+uniFB95_uniFEFC.alt1.liga,
+uniFB94_uniFEDE.liga,
+uniFB95_uniFEDE.liga,
+uniFB94_uniFEE0.liga,
+uniFB95_uniFEE0.liga,
+uniFB94_uniFEE2.liga,
+uniFB95_uniFEE2.liga,
+uniFB94_uniFEE4.liga,
+uniFB95_uniFEE4.liga,
+glyphgaaf,
+glyphgaaf2,
+glyph1922,
+glyph1923,
+uniFB94_uniFEF0.liga,
+uniFB95_uniFEF2.liga,
+glyph1926,
+glyph1927,
+glyph1928,
+newReReplacement,
+newNunGunnaReplacemet,
+newZeReplacement,
+newNunGunnaReplacement,
+uniFEDB_uniFBAB.liga,
+uniFE9F_uniFBAB.liga,
+uniFEE7_uniFBAB.liga,
+uniFE97_uniFBAB.liga,
+uniFEF3_uniFBAB.liga,
+glyph1939,
+glyph1940,
+glyph1941,
+glyph1942,
+glyph1943,
+uniFEE3_uniFEEC.liga,
+uniFEE3_uniFBAD.liga,
+glyph1946,
+uniFEA7_uniFEF0.liga,
+uniFEA7_uniFEF2.liga,
+uniFEA3_uniFEF0.liga,
+uniFEA3_uniFEF2.liga,
+uniFE9F_uniFEF0.liga,
+uniFE9F_uniFEF2.liga,
+uniFB7C_uniFEF2.liga,
+uniFB7C_uniFEF0.liga,
+glyph1955,
+glyph1956,
+glyph1957,
+glyph1958,
+uniFEEC_uniFEE2.liga,
+glyph1960,
+uniFECB_uniFEF0.liga,
+uniFECF_uniFEF0.liga,
+uniFECB_uniFEF2.liga,
+uniFECF_uniFEF2.liga,
+glyph1965,
+glyph1966,
+uniFE91_uniFBAD.liga,
+uniFE97_uniFBAD.liga,
+uniFB68_uniFBAD.liga,
+uniFE9B_uniFBAD.liga,
+uniFB58_uniFBAD.liga,
+uniFEE7_uniFBAD.liga,
+uniFEF3_uniFBAD.liga,
+uniFE8B_uniFBAD.liga,
+uniFE91_uniFBAD_uni0640.liga,
+uniFE97_uniFBAD_uni0640.liga,
+uniFB68_uniFBAD_uni0640.liga,
+uniFE9B_uniFBAD_uni0640.liga,
+uniFB58_uniFBAD_uni0640.liga,
+uniFEE7_uniFBAD_uni0640.liga,
+uniFEF3_uniFBAD_uni0640.liga,
+uniFE8B_uniFBAD_uni0640.liga,
+uniFE91_uniFEEC_uniFEE2.liga,
+uniFEE7_uniFEEC_uniFEE2.liga,
+uniFEF3_uniFEEC_uniFEE2.liga,
+uniFE97_uniFEEC_uniFEE2.liga,
+uniFE9B_uniFEEC_uniFEE2.liga,
+glyph1988,
+uniFE8B_uniFEEC_uniFEE2.liga,
+uniFB68_uniFEEC_uniFEE2.liga,
+glyph1991,
+glyph1992,
+uniFE92_uniFEEC_uniFEE2.liga,
+uniFEE8_uniFEEC_uniFEE2.liga,
+uniFEF4_uniFEEC_uniFEE2.liga,
+uniFE98_uniFEEC_uniFEE2.liga,
+uniFE9C_uniFEEC_uniFEE2.liga,
+glyph1998,
+uniFE8C_uniFEEC_uniFEE2.liga,
+uniFB69_uniFEEC_uniFEE2.liga,
+glyph2001,
+glyph2002,
+glyph2003,
+glyph2004,
+uniFE91_uniFEEC_uniFEA2.liga,
+uniFE91_uniFEEC_uniFE9E.liga,
+uniFE91_uniFEEC_uniFEA6.liga,
+uniFE91_uniFEEC_uniFB7B.liga,
+uniFEE7_uniFEEC_uniFEA2.liga,
+uniFEE7_uniFEEC_uniFE9E.liga,
+uniFEE7_uniFEEC_uniFEA6.liga,
+uniFEE7_uniFEEC_uniFB7B.liga,
+uniFEF3_uniFEEC_uniFEA2.liga,
+uniFEF3_uniFEEC_uniFE9E.liga,
+uniFEF3_uniFEEC_uniFEA6.liga,
+uniFEF3_uniFEEC_uniFB7B.liga,
+uniFE97_uniFEEC_uniFEA2.liga,
+uniFE97_uniFEEC_uniFE9E.liga,
+uniFE97_uniFEEC_uniFEA6.liga,
+uniFE97_uniFEEC_uniFB7B.liga,
+uniFE9B_uniFEEC_uniFEA2.liga,
+uniFE9B_uniFEEC_uniFE9E.liga,
+uniFE9B_uniFEEC_uniFEA6.liga,
+uniFE9B_uniFEEC_uniFB7B.liga,
+glyph2025,
+glyph2026,
+glyph2027,
+glyph2028,
+uniFE8B_uniFEEC_uniFEA2.liga,
+uniFE8B_uniFEEC_uniFE9E.liga,
+uniFE8B_uniFEEC_uniFEA6.liga.00,
+uniFE8B_uniFEEC_uniFB7B.liga,
+uniFB68_uniFEEC_uniFEA2.liga,
+uniFB68_uniFEEC_uniFE9E.liga,
+uniFB68_uniFEEC_uniFEA6.liga,
+uniFB68_uniFEEC_uniFB7B.liga,
+uniFE92_uniFEEC_uniFEA2.liga,
+uniFE92_uniFEEC_uniFE9E.liga,
+uniFE92_uniFEEC_uniFEA6.liga,
+uniFE92_uniFEEC_uniFB7B.liga,
+uniFEE8_uniFEEC_uniFEA2.liga,
+uniFEE8_uniFEEC_uniFE9E.liga,
+uniFEE8_uniFEEC_uniFEA6.liga,
+uniFEE8_uniFEEC_uniFB7B.liga,
+uniFEF4_uniFEEC_uniFEA2.liga,
+uniFEF4_uniFEEC_uniFE9E.liga,
+uniFEF4_uniFEEC_uniFEA6.liga,
+uniFEF4_uniFEEC_uniFB7B.liga,
+uniFE98_uniFEEC_uniFEA2.liga,
+uniFE98_uniFEEC_uniFE9E.liga,
+uniFE98_uniFEEC_uniFEA6.liga,
+uniFE98_uniFEEC_uniFB7B.liga,
+uniFB69_uniFEEC_uniFEA6.liga,
+uniFE9C_uniFEEC_uniFEA2.liga,
+uniFE9C_uniFEEC_uniFE9E.liga,
+uniFE9C_uniFEEC_uniFEA6.liga,
+uniFE9C_uniFEEC_uniFB7B.liga,
+glyph2058,
+glyph2059,
+glyph2060,
+glyph2061,
+uniFE8C_uniFEEC_uniFEA2.liga,
+uniFE8C_uniFEEC_uniFE9E.liga,
+uniFE8B_uniFEEC_uniFEA6.liga,
+uniFE8C_uniFEEC_uniFB7B.liga,
+uniFB69_uniFEEC_uniFEA2.liga,
+uniFB69_uniFEEC_uniFB7B.liga,
+uniFB69_uniFEEC_uniFE9E.liga,
+glyph2069,
+glyph2070,
+glyph2071,
+glyph2072,
+uniFE91_uniFEEC_uniFEA0.liga,
+uniFEE7_uniFEEC_uniFEA0.liga,
+uniFEF3_uniFEEC_uniFEA0.liga,
+uniFE97_uniFEEC_uniFEA0.liga,
+uniFE9B_uniFEEC_uniFEA0.liga,
+glyph2078,
+uniFE8B_uniFEEC_uniFEA0.liga,
+uniFB68_uniFEEC_uniFEA0.liga,
+uniFE91_uniFEEC_uniFEA8.liga,
+uniFEE7_uniFEEC_uniFEA8.liga,
+uniFE97_uniFEEC_uniFEA8.liga,
+uniFEF3_uniFEEC_uniFEA8.liga,
+uniFE9B_uniFEEC_uniFEA8.liga,
+uniFB68_uniFEEC_uniFEA8.liga,
+glyph2087,
+uniFE8B_uniFEEC_uniFEA8.liga,
+uniFE91_uniFEEC_uniFEA4.liga,
+uniFEE7_uniFEEC_uniFEA4.liga,
+uniFEF3_uniFEEC_uniFEA4.liga,
+uniFE97_uniFEEC_uniFEA4.liga,
+uniFE9B_uniFEEC_uniFEA4.liga,
+glyph2094,
+uniFE8B_uniFEEC_uniFEA4.liga,
+uniFB68_uniFEEC_uniFEA4.liga,
+uniFEE7_uniFEEC_uniFB7D.liga,
+uniFE91_uniFEEC_uniFB7D.liga,
+uniFE97_uniFEEC_uniFB7D.liga,
+uniFEF3_uniFEEC_uniFB7D.liga,
+uniFE9B_uniFEEC_uniFB7D.liga,
+glyph2102,
+uniFE8B_uniFEEC_uniFB7D.liga,
+uniFB68_uniFEEC_uniFB7D.liga,
+glyph2105,
+glyph2106,
+glyph2107,
+glyph2108,
+glyph2109,
+glyph2110,
+glyph2111,
+glyph2112,
+glyph2113,
+glyph2114,
+glyph2115,
+glyph2116,
+glyph2117,
+glyph2118,
+glyph2119,
+glyph2120,
+glyph2121,
+glyph2122,
+glyph2123,
+glyph2124,
+glyph2125,
+glyph2126,
+glyph2127,
+glyph2128,
+glyph2129,
+glyph2130,
+glyph2131,
+glyph2132,
+glyph2133,
+glyph2134,
+glyph2135,
+glyph2136,
+glyph2137,
+glyph2138,
+glyph2139,
+glyph2140,
+uniFEDB_uniFEEC.liga,
+uniFEDC_uniFEEC.liga,
+glyph2143,
+glyph2144,
+glyph2145,
+uniFED4_uniFEF0.liga,
+uniFED8_uniFEF0.liga,
+uniFED4_uniFEF2.liga,
+uniFED8_uniFEF2.liga,
+uniFEC4_uniFEF0.liga,
+uniFEC8_uniFEF0.liga,
+uniFEC4_uniFEF2.liga,
+uniFEC8_uniFEF2.liga,
+uniFECC_uniFEF0.liga,
+uniFED0_uniFEF0.liga,
+uniFECC_uniFEF2.liga,
+uniFED0_uniFEF2.liga,
+uniFEA3_uniFBAD.liga,
+uniFE9F_uniFBAD.liga,
+uniFB7C_uniFBAD.liga,
+uniFEA7_uniFBAD.liga,
+glyph2162,
+glyph2163,
+glyph2164,
+glyph2165,
+glyph2166,
+uniFEB4_uniFEE2.liga,
+uniFEB8_uniFEE2.liga,
+glyph2169,
+glyph2170,
+uniFEC3_uniFEF0.liga,
+uniFEC3_uniFEF2.liga,
+uniFEC7_uniFEF0.liga,
+uniFEC7_uniFEF2.liga,
+uniFEEC_uniFEF0.liga,
+uniFEEC_uniFEF2.liga,
+glyph2177,
+uniFE92_uniFEEC_uniFEF0.liga,
+uniFEE8_uniFEEC_uniFEF0.liga,
+uniFEF4_uniFEEC_uniFEF0.liga,
+uniFE98_uniFEEC_uniFEF0.liga,
+uniFE9C_uniFEEC_uniFEF0.liga,
+uniFB59_uniFEEC_uniFEF0.liga,
+uniFE8C_uniFEEC_uniFEF0.liga,
+uniFB69_uniFEEC_uniFEF0.liga,
+uniFE92_uniFEEC_uniFEF2.liga,
+uniFEE8_uniFEEC_uniFEF2.liga,
+uniFEF4_uniFEEC_uniFEF2.liga,
+uniFE98_uniFEEC_uniFEF2.liga,
+uniFE9C_uniFEEC_uniFEF2.liga,
+uniFB59_uniFEEC_uniFEF2.liga,
+uniFE8C_uniFEEC_uniFEF2.liga,
+uniFB69_uniFEEC_uniFEF2.liga,
+glyph2194,
+uniFE91_uniFEA4_uniFEE4.liga,
+uniFEE7_uniFEA4_uniFEE4.liga,
+uniFE97_uniFEA4_uniFEE4.liga,
+uniFEF3_uniFEA4_uniFEE4.liga,
+uniFE9B_uniFEA4_uniFEE4.liga,
+uniFB58_uniFEA4_uniFEE4.liga,
+uniFE8B_uniFEA4_uniFEE4.liga,
+uniFB68_uniFEA4_uniFEE4.liga,
+uniFE91_uniFEA0_uniFEE4.liga,
+uniFEE7_uniFEA0_uniFEE4.liga,
+uniFE97_uniFEA0_uniFEE4.liga,
+uniFEF3_uniFEA0_uniFEE4.liga,
+uniFE9B_uniFEA0_uniFEE4.liga,
+uniFB58_uniFEA0_uniFEE4.liga,
+uniFE8B_uniFEA0_uniFEE4.liga,
+uniFB68_uniFEA0_uniFEE4.liga,
+uniFE91_uniFEA8_uniFEE4.liga,
+uniFEE7_uniFEA8_uniFEE4.liga,
+uniFE97_uniFEA8_uniFEE4.liga,
+uniFEF3_uniFEA8_uniFEE4.liga,
+uniFE9B_uniFEA8_uniFEE4.liga,
+uniFB58_uniFEA8_uniFEE4.liga,
+uniFE8B_uniFEA8_uniFEE4.liga,
+uniFB68_uniFEA8_uniFEE4.liga,
+uniFE91_uniFB7D_uniFEE4.liga,
+uniFEE7_uniFB7D_uniFEE4.liga,
+uniFE97_uniFB7D_uniFEE4.liga,
+uniFEF3_uniFB7D_uniFEE4.liga,
+uniFE9B_uniFB7D_uniFEE4.liga,
+uniFE8B_uniFB7D_uniFEE4.liga,
+uniFB58_uniFB7D_uniFEE4.liga,
+uniFB68_uniFB7D_uniFEE4.liga,
+glyph2227,
+glyph2228,
+MHMD.liga,
+uniFEE3_uniFEA0_uniFEE4_uniFEAA,
+uniFEE3_uniFEA8_uniFEE4_uniFEAA,
+glyph2232,
+glyph2233,
+uniFEEB_uniFEB4_uniFBAF.liga,
+uniFE91_uniFBAD_uniFBAF.liga,
+uniFEE7_uniFBAD_uniFBAF.liga,
+uniFEF3_uniFBAD_uniFBAF.liga,
+uniFE97_uniFBAD_uniFBAF.liga,
+uniFE9B_uniFBAD_uniFBAF.liga,
+uniFB58_uniFBAD_uniFBAF.liga,
+uniFE8B_uniFBAD_uniFBAF.liga,
+uniFB68_uniFBAD_uniFBAF.liga,
+uniFEEB_uniFEB8_uniFBAF.liga,
+glyph2244,
+glyph2245,
+glyph2246,
+glyph2247,
+glyph2248,
+glyph2249,
+glyph2250,
+glyph2251,
+glyph2252,
+uniFEC3_uniFEE4.liga,
+uniFEC7_uniFEE4.liga,
+uniFEB3_uniFEE4_uniFE8E.liga,
+uniFEB7_uniFEE4_uniFE8E.liga,
+uniFEBB_uniFEE4_uniFE8E.liga,
+uniFEBF_uniFEE4_uniFE8E.liga,
+uniFEDB_uniFEEA.liga,
+uniFEDB_uniFE94.liga,
+glyph2261,
+uniFB94_uniFE94.liga,
+glyph2263,
+glyph2264,
+glyph2265,
+glyph2266,
+glyph2267,
+glyph2268,
+glyph2269,
+glyph2270,
+glyph2271,
+glyph2272,
+uniFE8B_uniFBAF.liga,
+uniFEF3_uniFBAF.liga,
+glyph2275,
+uniFE92_uniFE92_uniFBAF.liga,
+uniFE92_uniFEE8_uniFBAF.liga,
+uniFE92_uniFE98_uniFBAF.liga,
+uniFE92_uniFEF4_uniFBAF.liga,
+uniFE92_uniFE9C_uniFBAF.liga,
+uniFE92_uniFB59_uniFBAF.liga,
+uniFE92_uniFE8C_uniFBAF.liga,
+uniFE92_uniFB69_uniFBAF.liga,
+uniFEE8_uniFE92_uniFBAF.liga,
+uniFEE8_uniFEE8_uniFBAF.liga,
+uniFEE8_uniFE98_uniFBAF.liga,
+uniFEE8_uniFEF4_uniFBAF.liga,
+uniFEE8_uniFE9C_uniFBAF.liga,
+uniFEE8_uniFB59_uniFBAF.liga,
+uniFEE8_uniFE8C_uniFBAF.liga,
+uniFEE8_uniFB69_uniFBAF.liga,
+uniFE98_uniFEE8_uniFBAF.liga,
+uniFE98_uniFE92_uniFBAF.liga,
+uniFE98_uniFE98_uniFBAF.liga,
+uniFE98_uniFEF4_uniFBAF.liga,
+uniFE98_uniFE9C_uniFBAF.liga,
+uniFE98_uniFB59_uniFBAF.liga,
+uniFE98_uniFE8C_uniFBAF.liga,
+uniFE98_uniFB69_uniFBAF.liga,
+uniFEF4_uniFE92_uniFBAF.liga,
+uniFEF4_uniFEE8_uniFBAF.liga,
+uniFEF4_uniFE98_uniFBAF.liga,
+uniFEF4_uniFEF4_uniFBAF.liga,
+uniFEF4_uniFE9C_uniFBAF.liga,
+uniFEF4_uniFB59_uniFBAF.liga,
+uniFEF4_uniFE8C_uniFBAF.liga,
+uniFEF4_uniFB69_uniFBAF.liga,
+uniFE9C_uniFEE8_uniFBAF.liga,
+uniFE9C_uniFE92_uniFBAF.liga,
+uniFE9C_uniFE98_uniFBAF.liga,
+uniFE9C_uniFEF4_uniFBAF.liga,
+uniFE9C_uniFE9C_uniFBAF.liga,
+uniFE9C_uniFB59_uniFBAF.liga,
+uniFE9C_uniFE8C_uniFBAF.liga,
+uniFE9C_uniFB69_uniFBAF.liga,
+uniFB59_uniFE92_uniFBAF.liga,
+uniFB59_uniFEE8_uniFBAF.liga,
+uniFB59_uniFEF4_uniFBAF.liga,
+uniFB59_uniFE98_uniFBAF.liga,
+uniFB59_uniFE9C_uniFBAF.liga,
+uniFB59_uniFB59_uniFBAF.liga,
+uniFB59_uniFE8C_uniFBAF.liga,
+uniFB59_uniFB69_uniFBAF.liga,
+uniFE8C_uniFE92_uniFBAF.liga,
+uniFE8C_uniFEE8_uniFBAF.liga,
+uniFE8C_uniFEF4_uniFBAF.liga,
+uniFE8C_uniFE98_uniFBAF.liga,
+uniFE8C_uniFE9C_uniFBAF.liga,
+uniFE8C_uniFB59_uniFBAF.liga,
+uniFE8C_uniFE8C_uniFBAF.liga,
+uniFE8C_uniFB69_uniFBAF.liga,
+uniFB69_uniFE92_uniFBAF.liga,
+uniFB69_uniFEE8_uniFBAF.liga,
+uniFB69_uniFE98_uniFBAF.liga,
+uniFB69_uniFEF4_uniFBAF.liga,
+uniFB69_uniFE9C_uniFBAF.liga,
+uniFB69_uniFB59_uniFBAF.liga,
+uniFB69_uniFE8C_uniFBAF.liga,
+uniFB69_uniFB69_uniFBAF.liga,
+uniFE91_uniFE92_uniFBAF.liga,
+uniFE91_uniFEE8_uniFBAF.liga,
+uniFE91_uniFE98_uniFBAF.liga,
+uniFE91_uniFEF4_uniFBAF.liga,
+uniFE91_uniFE9C_uniFBAF.liga,
+glyph2345,
+uniFE91_uniFE8C_uniFBAF.liga,
+uniFE91_uniFB69_uniFBAF.liga,
+uniFEE7_uniFE92_uniFBAF.liga,
+uniFEE7_uniFEE8_uniFBAF.liga,
+uniFEE7_uniFE98_uniFBAF.liga,
+uniFEE7_uniFEF4_uniFBAF.liga,
+uniFEE7_uniFE9C_uniFBAF.liga,
+uniFEE7_uniFB59_uniFBAF.liga,
+uniFEE7_uniFE8C_uniFBAF.liga,
+uniFEE7_uniFB69_uniFBAF.liga,
+uniFE97_uniFE92_uniFBAF.liga,
+uniFE97_uniFEE8_uniFBAF.liga,
+uniFE97_uniFE98_uniFBAF.liga,
+uniFE97_uniFEF4_uniFBAF.liga,
+uniFE97_uniFE9C_uniFBAF.liga,
+uniFE97_uniFB59_uniFBAF.liga,
+uniFE97_uniFE8C_uniFBAF.liga,
+uniFE97_uniFB69_uniFBAF.liga,
+uniFEF3_uniFE92_uniFBAF.liga,
+uniFEF3_uniFEE8_uniFBAF.liga,
+uniFEF3_uniFE98_uniFBAF.liga,
+uniFEF3_uniFEF4_uniFBAF.liga,
+uniFEF3_uniFE9C_uniFBAF.liga,
+uniFEF3_uniFE8C_uniFBAF.liga,
+uniFEF3_uniFB69_uniFBAF.liga,
+uniFEF3_uniFB59_uniFBAF.liga,
+uniFE9B_uniFEE8_uniFBAF.liga,
+uniFE9B_uniFE92_uniFBAF.liga,
+uniFE9B_uniFE98_uniFBAF.liga,
+uniFE9B_uniFEF4_uniFBAF.liga,
+uniFE9B_uniFE9C_uniFBAF.liga,
+uniFE9B_uniFB59_uniFBAF.liga,
+uniFE9B_uniFE8C_uniFBAF.liga,
+uniFE9B_uniFB69_uniFBAF.liga,
+uniFB58_uniFEE8_uniFBAF.liga,
+uniFB58_uniFE92_uniFBAF.liga,
+uniFB58_uniFE98_uniFBAF.liga,
+uniFB58_uniFEF4_uniFBAF.liga,
+uniFB58_uniFE8C_uniFBAF.liga,
+uniFB58_uniFB69_uniFBAF.liga,
+uniFB58_uniFE9C_uniFBAF.liga,
+uniFB58_uniFB59_uniFBAF.liga,
+uniFE8B_uniFE92_uniFBAF.liga,
+uniFE8B_uniFEE8_uniFBAF.liga,
+uniFE8B_uniFE98_uniFBAF.liga,
+uniFE8B_uniFEF4_uniFBAF.liga,
+uniFE8B_uniFE9C_uniFBAF.liga,
+uniFE8B_uniFB59_uniFBAF.liga,
+uniFE8B_uniFE8C_uniFBAF.liga,
+uniFE8B_uniFB69_uniFBAF.liga,
+uniFB68_uniFE92_uniFBAF.liga,
+uniFB68_uniFEE8_uniFBAF.liga,
+uniFB68_uniFE98_uniFBAF.liga,
+uniFB68_uniFEF4_uniFBAF.liga,
+uniFB68_uniFE9C_uniFBAF.liga,
+uniFB68_uniFB59_uniFBAF.liga,
+uniFB68_uniFE8C_uniFBAF.liga,
+uniFB68_uniFB69_uniFBAF.liga,
+glyph2404,
+glyph2405,
+uniFEEB_uniFEE4_uniFE92_uniFBAF,
+uniFEEB_uniFEE4_uniFEE8_uniFBAF,
+uniFEEB_uniFEE4_uniFEF4_uniFBAF,
+uniFEEB_uniFEE4_uniFE98_uniFBAF,
+uniFEEB_uniFEE4_uniFE9C_uniFBAF,
+uniFEEB_uniFEE4_uniFE8C_uniFBAF,
+uniFEEB_uniFEE4_uniFB59_uniFBAF,
+uniFEEB_uniFEE4_uniFB69_uniFBAF,
+glyph2414,
+uniFE97_uniFEE4_uniFEE8_uniFBAF,
+uniFE97_uniFEE4_uniFB59_uniFBAF,
+uniFEE7_uniFEE4_uniFE98_uniFBAF,
+uniFEE7_uniFEE4_uniFEF4_uniFBAF,
+glyph2419,
+glyph2420,
+glyph2421,
+glyph2422,
+glyph2423,
+glyph2424,
+glyph2425,
+uniFEE8_uniFBAD.liga,
+uniFE92_uniFBAD.liga,
+uniFE98_uniFBAD.liga,
+uniFEF4_uniFBAD.liga,
+uniFE9C_uniFBAD.liga,
+uniFB59_uniFBAD.liga,
+uniFE8C_uniFBAD.liga,
+uniFB69_uniFBAD.liga,
+uniFEEC_uniFBAF.liga,
+glyph2435,
+uniFE92_uniFBAD_uniFBAF.liga,
+uniFEE8_uniFBAD_uniFBAF.liga,
+uniFE98_uniFBAD_uniFBAF.liga,
+uniFEF4_uniFBAD_uniFBAF.liga,
+uniFE9C_uniFBAD_uniFBAF.liga,
+uniFB59_uniFBAD_uniFBAF.liga,
+uniFE8C_uniFBAD_uniFBAF.liga,
+uniFB69_uniFBAD_uniFBAF.liga,
+glyph1565
+);
+},
+{
+name = trademark;
+value = "Al-Kanz is a trademark of Sh Moiz Sh Zohair bhai.";
+}
+);
+featurePrefixes = (
+{
+code = "###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2024-8-31 13:18
+# Generated by: FontLab 7.1.2
+# Font PostScript name: Kanz-al-Marjaan
+# Font copyright: Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights reserved.
+#
+# Totals:
+# Languagesystems: 2
+# GSUB lookups: 47
+# GSUB features: 8 (aalt, ccmp, fina, init, isol, liga, medi, rlig)
+# GPOS lookups: 1
+# GPOS features: 1 (mark)
+
+#
+# Languagesystem definitions
+#
+
+languagesystem DFLT dflt; # Default default
+languagesystem arab dflt; # Arabic default
+
+#
+# Lookup definitions
+#
+
+lookup init_arab_isol_arab_1 {
+# GSUB lookup 7, type 11 (Single)
+  lookupflag RightToLeft;
+  sub @init_isol by @init_isol2;
+} init_arab_isol_arab_1;
+
+lookup isol_arab_liga_arab_1 {
+# GSUB lookup 11, type 11 (Single)
+  lookupflag RightToLeft;
+  sub @isol_liga by @isol_liga2;
+} isol_arab_liga_arab_1;
+
+lookup liga_arab_7 {
+# GSUB lookup 18, type 11 (Single)
+  lookupflag IgnoreMarks RightToLeft;
+  sub @liga by @liga4;
+} liga_arab_7;
+
+lookup liga_arab_11 {
+# GSUB lookup 22, type 11 (Single)
+  lookupflag IgnoreMarks RightToLeft;
+  sub @liga5 by @liga6;
+} liga_arab_11;
+
+lookup liga_arab_31 {
+# GSUB lookup 42, type 11 (Single)
+  lookupflag IgnoreMarks RightToLeft;
+  sub @liga7 by @liga8;
+} liga_arab_31;
+
+
+#
+# Feature definitions
+#
+
+
+";
+tag = Languagesystems;
+}
+);
+features = (
+{
+code = "# GSUB feature: Access All Alternates
+# Lookups: 2
+
+  sub @aalt by @aalt2;
+  sub uni0626 from [uniFE8A uniFE8B uniFE8C];
+  sub uni0628 from [uniFE90 uniFE91 uniFE92];
+  sub uni062A from [uniFE96 uniFE97 uniFE98];
+  sub uni062B from [uniFE9A uniFE9B uniFE9C];
+  sub uni062C from [uniFE9E uniFE9F uniFEA0];
+  sub uni062D from [uniFEA2 uniFEA3 uniFEA4];
+  sub uni062E from [uniFEA6 uniFEA7 uniFEA8];
+  sub uni0631 from [uniFEAE glyph2245 newReReplacement];
+  sub uni0632 from [uniFEB0 glyph2246 newZeReplacement];
+  sub uni0633 from [uniFEB2 uniFEB3 uniFEB4];
+  sub uni0634 from [uniFEB6 uniFEB7 uniFEB8];
+  sub uni0635 from [uniFEBA uniFEBB uniFEBC];
+  sub uni0636 from [uniFEBE uniFEBF uniFEC0];
+  sub uni0637 from [uniFEC2 uniFEC3 uniFEC4];
+  sub uni0638 from [uniFEC6 uniFEC7 uniFEC8];
+  sub uni0639 from [uniFECA uniFECB uniFECC];
+  sub uni063A from [uniFECE uniFECF uniFED0];
+  sub uni0641 from [uniFED2 uniFED3 uniFED4];
+  sub uni0642 from [uniFED6 uniFED7 uniFED8];
+  sub uni0643 from [uniFEDA uniFEDB uniFEDC];
+  sub uni0644 from [uniFEDE uniFEDF glyph2249 uniFEE0];
+  sub uni0645 from [uniFEE2 uniFEE3 uniFEE4];
+  sub uni0646 from [uniFEE6 uniFEE7 glyph2244 uniFEE8];
+  sub uni0647 from [uniFEEA uniFEEB uniFEE9 uniFEEC];
+  sub uni0648 from [uniFEEE glyph2247];
+  sub uni0649 from [uniFEF0 uniFBE8 glyph2250 uniFBE9];
+  sub uni064A from [uniFEF2 uniFBFE glyph2251 uniFBFF];
+  sub uni0676 from [uni0676.fina glyph2248];
+  sub uni0678 from [uni0678.fina uniFE8B uniFE8C];
+  sub uni0679 from [uniFB67 uniFB68 uniFB69];
+  sub uni067E from [uniFB57 uniFB58 uniFB59];
+  sub uni0686 from [uniFB7B uniFB7C uniFB7D];
+  sub uni0691 from [uniFB8D glyph2252 newNunGunnaReplacement];
+  sub uni06A1 from [uni06A1.fina uni06A1.init uni06A1.medi];
+  sub uni06A9 from [uniFB8F uniFB90 uniFB91];
+  sub uni06AF from [uniFB93 uniFB94 uniFB95];
+  sub uni06BA from [uniFB9F uniFEE7 newNunGunnaReplacemet uniFEE8];
+  sub uni06BE from [uniFBAB uniFBAC uniFBAD];
+  sub uni06C1 from [uniFBA8 uniFBA9];
+  sub uni06CC from [uniFBFD uniFBFE uniFBFF];";
+tag = aalt;
+},
+{
+code = "# GSUB feature: Glyph Composition / Decomposition
+# Lookups: 1
+
+  script arab; # Arabic
+
+  lookup ccmp_arab_1 {
+  # GSUB lookup 3, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uni064B uni0651 by uni0651064B;
+    sub uni064C uni0651 by uni0651064C;
+    sub uni064D uni0651 by uni0651064D;
+    sub uni064E uni0651 by uni0651064E;
+    sub uni064F uni0651 by uni0651064F;
+    sub uni0650 uni0651 by uni06510650;
+    sub uni0651 uni0670 by uni06510670;
+    sub uni0651 uni0650 by uni06510650;
+    sub uni0651 uni064F by uni0651064F;
+    sub uni0651 uni064E by uni0651064E;
+    sub uni0651 uni064D by uni0651064D;
+    sub uni0651 uni064C by uni0651064C;
+    sub uni0651 uni064B by uni0651064B;
+    sub uni0654 uni0652 by uni06540652;
+    sub uni0654 uni064F by uni0654064F;
+    sub uni0654 uni064E by uni0654064E;
+    sub uni0655 uni0650 by uni06550650;
+    sub uni0670 uni0651 by uni06510670;
+  } ccmp_arab_1;";
+tag = ccmp;
+},
+{
+code = "# GSUB feature: Terminal Forms
+# Lookups: 1
+
+  script arab; # Arabic
+
+  lookup fina_arab_1 {
+  # GSUB lookup 4, type 11 (Single)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @fina by @fina2;
+  } fina_arab_1;";
+tag = fina;
+},
+{
+code = "# GSUB feature: Initial Forms
+# Lookups: 2
+
+  script arab; # Arabic
+
+  lookup init_arab_1 {
+  # GSUB lookup 5, type 11 (Single)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @init_medi by @init;
+  } init_arab_1;
+
+
+  lookup init_arab_2 {
+  # GSUB lookup 6, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub uniFEDF' lookup init_arab_isol_arab_1 [uniFEDE uniFEE0 uni06B6.fina];
+  } init_arab_2;";
+tag = init;
+},
+{
+code = "# GSUB feature: Isolated Forms
+# Lookups: 3
+
+  script arab; # Arabic
+
+  lookup isol_arab_1 {
+  # GSUB lookup 8, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @isol_liga3 @isol' lookup init_arab_isol_arab_1;
+  } isol_arab_1;
+
+
+  lookup isol_arab_2 {
+  # GSUB lookup 9, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @isol2 uni0647' lookup init_arab_isol_arab_1;
+    sub @isol3 uni0647' lookup init_arab_isol_arab_1;
+    sub [uni064D uni0650 uni0655 uni06E3 uni06EA uni06ED uni06550650] uni0647' lookup init_arab_isol_arab_1;
+  } isol_arab_2;
+
+
+  lookup isol_arab_3 {
+  # GSUB lookup 10, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub @isol_liga3 [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1;
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 [uniFEB3 uniFEB4 uniFEB7 uniFEB8];
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0633;
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0634;
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0648;
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0677;
+    sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0676;
+  } isol_arab_3;";
+tag = isol;
+},
+{
+code = "# GSUB feature: Standard Ligatures
+# Lookups: 31
+
+  script arab; # Arabic
+
+  lookup liga_arab_1 {
+  # GSUB lookup 12, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB7C uniFEC8 uniFEC8 by glyph1955;
+    sub uniFE9B uniFE9C by uniFB58;
+    sub uniFE9B uniFE9A by uni067E;
+    sub uniFE9C uniFE9C by uniFB59;
+    sub uniFE9C uniFE9A by uniFB57;
+    sub uniFE9F uniFEC8 uniFEC8 by glyph1956;
+    sub uniFEA3 uniFEA4 uniFEC8 uniFEC8 by glyph1955;
+    sub uniFEA3 uniFEC8 uniFEC8 by glyph1957;
+    sub uniFEA3 uniFEA4 by uniFB7C;
+    sub uniFEA3 uniFEA2 by uni0686;
+    sub uniFEA4 uniFEA4 by uniFB7D;
+    sub uniFEA4 uniFEA2 by uniFB7B;
+    sub uniFEA7 uniFEC8 uniFEC8 by glyph1958;
+    sub uniFEB3 uniFEB2 by uni06D2;
+    sub uniFEB4 uniFEB2 by uniFBAF;
+    sub uniFEBB uniFEBA by base.behisol;
+    sub uniFEBC uniFEBA by base.behfinal;
+    sub uniFEBF uniFEC0 by uniFB68;
+    sub uniFEBF uniFEBE by uni0679;
+    sub uniFEC0 uniFEC0 by uniFB69;
+    sub uniFEC0 uniFEBE by uniFB67;
+    sub uniFEC3 uniFEC8 uniFEC8 by glyph2169;
+    sub uniFEC3 uniFEC2 by uni06BA;
+    sub uniFEC4 uniFEC2 by uniFB9F;
+    sub uniFEC7 uniFEC8 uniFEC6 by glyph2170;
+    sub uniFEC7 uniFEC8 uniFEC8 by glyph2170;
+    sub uniFEC8 uniFEC8 uniFEC6 by glyph1565;
+    sub uniFEC8 uniFEC8 uniFEC8 by glyph1565;
+    sub uniFEC8 uniFEC6 by uniFBA9;
+    sub uniFEC8 uniFEC8 by uniFBA9;
+    sub uniFECB uniFEC8 uniFEC8 by glyph2162;
+    sub uniFECF uniFEC8 uniFEC8 by glyph2163;
+    sub uniFED3 uniFEC8 uniFEC8 by glyph2165;
+    sub uniFED7 uniFEC8 uniFEC8 by glyph2166;
+    sub uniFEDB uniFEDC by uniFB94;
+    sub uniFEDB uniFEDA by uni06AF;
+    sub uniFEDC uniFEDC by uniFB95;
+    sub uniFEDC uniFEDA by uniFB93;
+    sub uniFEDF uniFE8E by uniFEFB;
+    sub uniFEDF uniFE88 by uniFEF9;
+    sub uniFEDF uniFE84 by uniFEF7;
+    sub uniFEDF uniFE82 by uniFEF5;
+    sub uniFEDF uniFE8E.short by uniFEFB.alt1;
+    sub uniFEE0 uniFE8E.short by uniFEFC.alt1;
+    sub uniFEE0 uniFE8E by uniFEFC;
+    sub uniFEE0 uniFE88 by uniFEFA;
+    sub uniFEE0 uniFE84 by uniFEF8;
+    sub uniFEE0 uniFE82 by uniFEF6;
+    sub uniFEE3 uniFEA4 uniFEE4 uniFEAA by MHMD.liga;
+  } liga_arab_1;
+
+
+  lookup liga_arab_2 {
+  # GSUB lookup 13, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFBE8 uniFE8E by uni06490627.isol;
+    sub uniFBFE uniFE8E by uni064A0627.isol;
+    sub uniFE91 uniFE8E by uni06280627.isol;
+    sub uniFE97 uniFE8E by uni062A0627.isol;
+    sub uniFE9B uniFE8E by uni062B0627.isol;
+    sub uniFEE7 uniFE8E by uni06460627.isol;
+  } liga_arab_2;
+
+
+  lookup liga_arab_3 {
+  # GSUB lookup 14, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB58 uniFEEC uniFBAF by uniFB58_uniFBAD_uniFBAF.liga;
+    sub uniFB58 uniFEEC uni0640 by uniFB58_uniFBAD_uni0640.liga;
+    sub uniFB58 uniFEEC by uniFB58_uniFBAD.liga;
+    sub uniFB58 uniFBA9 by uni067D0647.init;
+    sub uniFB59 uniFEEC uniFBAF by uniFB59_uniFBAD_uniFBAF.liga;
+    sub uniFB59 uniFBA9 uniFEF2 by uniFB59_uniFEEC_uniFEF2.liga;
+    sub uniFB59 uniFBA9 uniFEF0 by uniFB59_uniFEEC_uniFEF0.liga;
+    sub uniFB59 uniFEEC by uniFB59_uniFBAD.liga;
+    sub uniFB59 uniFBA9 by uni067D0647.medi;
+    sub uniFB68 uniFEEC uniFBAF by uniFB68_uniFBAD_uniFBAF.liga;
+    sub uniFB68 uniFBA9 uniFB7D by uniFB68_uniFEEC_uniFB7D.liga;
+    sub uniFB68 uniFBA9 uniFEA4 by uniFB68_uniFEEC_uniFEA4.liga;
+    sub uniFB68 uniFBA9 uniFEA8 by uniFB68_uniFEEC_uniFEA8.liga;
+    sub uniFB68 uniFBA9 uniFEA0 by uniFB68_uniFEEC_uniFEA0.liga;
+    sub uniFB68 uniFBA9 uniFB7B by uniFB68_uniFEEC_uniFB7B.liga;
+    sub uniFB68 uniFBA9 uniFEA6 by uniFB68_uniFEEC_uniFEA6.liga;
+    sub uniFB68 uniFBA9 uniFE9E by uniFB68_uniFEEC_uniFE9E.liga;
+    sub uniFB68 uniFBA9 uniFEA2 by uniFB68_uniFEEC_uniFEA2.liga;
+    sub uniFB68 uniFBA9 uniFEE2 by uniFB68_uniFEEC_uniFEE2.liga;
+    sub uniFB68 uniFEEC uni0640 by uniFB68_uniFBAD_uni0640.liga;
+    sub uniFB68 uniFEEC by uniFB68_uniFBAD.liga;
+    sub uniFB68 uniFBA9 by uni06790647.init;
+    sub uniFB69 uniFEEC uniFBAF by uniFB69_uniFBAD_uniFBAF.liga;
+    sub uniFB69 uniFBA9 uniFEF2 by uniFB69_uniFEEC_uniFEF2.liga;
+    sub uniFB69 uniFBA9 uniFEF0 by uniFB69_uniFEEC_uniFEF0.liga;
+    sub uniFB69 uniFBA9 uniFE9E by uniFB69_uniFEEC_uniFE9E.liga;
+    sub uniFB69 uniFBA9 uniFB7B by uniFB69_uniFEEC_uniFB7B.liga;
+    sub uniFB69 uniFBA9 uniFEA2 by uniFB69_uniFEEC_uniFEA2.liga;
+    sub uniFB69 uniFBA9 uniFEA6 by uniFB69_uniFEEC_uniFEA6.liga;
+    sub uniFB69 uniFBA9 uniFEE2 by uniFB69_uniFEEC_uniFEE2.liga;
+    sub uniFB69 uniFEEC by uniFB69_uniFBAD.liga;
+    sub uniFB69 uniFBA9 by uni06790647.medi;
+    sub uniFBFE uniFEEC uniFBAF by uniFEF3_uniFBAD_uniFBAF.liga;
+    sub uniFBFE uniFBA9 uniFB7D by uniFEF3_uniFEEC_uniFB7D.liga;
+    sub uniFBFE uniFBA9 uniFEA4 by uniFEF3_uniFEEC_uniFEA4.liga;
+    sub uniFBFE uniFBA9 uniFEA8 by uniFEF3_uniFEEC_uniFEA8.liga;
+    sub uniFBFE uniFBA9 uniFEA0 by uniFEF3_uniFEEC_uniFEA0.liga;
+    sub uniFBFE uniFBA9 uniFB7B by uniFEF3_uniFEEC_uniFB7B.liga;
+    sub uniFBFE uniFBA9 uniFEA6 by uniFEF3_uniFEEC_uniFEA6.liga;
+    sub uniFBFE uniFBA9 uniFE9E by uniFEF3_uniFEEC_uniFE9E.liga;
+    sub uniFBFE uniFBA9 uniFEA2 by uniFEF3_uniFEEC_uniFEA2.liga;
+    sub uniFBFE uniFBA9 uniFEE2 by uniFEF3_uniFEEC_uniFEE2.liga;
+    sub uniFBFE uniFEEC uni0640 by uniFEF3_uniFBAD_uni0640.liga;
+    sub uniFBFE uniFEEC by uniFEF3_uniFBAD.liga;
+    sub uniFBFE uniFBA9 by uniFCDE;
+    sub uniFBFF uniFEEC uniFBAF by uniFEF4_uniFBAD_uniFBAF.liga;
+    sub uniFBFF uniFBA9 uniFEF2 by uniFEF4_uniFEEC_uniFEF2.liga;
+    sub uniFBFF uniFBA9 uniFEF0 by uniFEF4_uniFEEC_uniFEF0.liga;
+    sub uniFBFF uniFBA9 uniFB7B by uniFEF4_uniFEEC_uniFB7B.liga;
+    sub uniFBFF uniFBA9 uniFEA6 by uniFEF4_uniFEEC_uniFEA6.liga;
+    sub uniFBFF uniFBA9 uniFE9E by uniFEF4_uniFEEC_uniFE9E.liga;
+    sub uniFBFF uniFBA9 uniFEA2 by uniFEF4_uniFEEC_uniFEA2.liga;
+    sub uniFBFF uniFBA9 uniFEE2 by uniFEF4_uniFEEC_uniFEE2.liga;
+    sub uniFBFF uniFEEC by uniFEF4_uniFBAD.liga;
+    sub uniFBFF uniFBA9 by uniFCF1;
+    sub uniFE8B uniFEEC uniFBAF by uniFE8B_uniFBAD_uniFBAF.liga;
+    sub uniFE8B uniFBA9 uniFB7D by uniFE8B_uniFEEC_uniFB7D.liga;
+    sub uniFE8B uniFBA9 uniFEA4 by uniFE8B_uniFEEC_uniFEA4.liga;
+    sub uniFE8B uniFBA9 uniFEA8 by uniFE8B_uniFEEC_uniFEA8.liga;
+    sub uniFE8B uniFBA9 uniFEA0 by uniFE8B_uniFEEC_uniFEA0.liga;
+    sub uniFE8B uniFBA9 uniFEA6 by uniFE8B_uniFEEC_uniFEA6.liga;
+    sub uniFE8B uniFBA9 uniFB7B by uniFE8B_uniFEEC_uniFB7B.liga;
+    sub uniFE8B uniFBA9 uniFE9E by uniFE8B_uniFEEC_uniFE9E.liga;
+    sub uniFE8B uniFBA9 uniFEA2 by uniFE8B_uniFEEC_uniFEA2.liga;
+    sub uniFE8B uniFBA9 uniFEE2 by uniFE8B_uniFEEC_uniFEE2.liga;
+    sub uniFE8B uniFEEC uni0640 by uniFE8B_uniFBAD_uni0640.liga;
+    sub uniFE8B uniFEEC by uniFE8B_uniFBAD.liga;
+    sub uniFE8B uniFBA9 by uniFC9B;
+    sub uniFE8C uniFEEC uniFBAF by uniFE8C_uniFBAD_uniFBAF.liga;
+    sub uniFE8C uniFBA9 uniFEF2 by uniFE8C_uniFEEC_uniFEF2.liga;
+    sub uniFE8C uniFBA9 uniFEF0 by uniFE8C_uniFEEC_uniFEF0.liga;
+    sub uniFE8C uniFBA9 uniFB7B by uniFE8C_uniFEEC_uniFB7B.liga;
+    sub uniFE8C uniFBA9 uniFE9E by uniFE8C_uniFEEC_uniFE9E.liga;
+    sub uniFE8C uniFBA9 uniFEA2 by uniFE8C_uniFEEC_uniFEA2.liga;
+    sub uniFE8C uniFBA9 uniFEE2 by uniFE8C_uniFEEC_uniFEE2.liga;
+    sub uniFE8C uniFEEC by uniFE8C_uniFBAD.liga;
+    sub uniFE8C uniFBA9 by uniFCE0;
+    sub uniFE91 uniFEEC uniFBAF by uniFE91_uniFBAD_uniFBAF.liga;
+    sub uniFE91 uniFBA9 uniFB7D by uniFE91_uniFEEC_uniFB7D.liga;
+    sub uniFE91 uniFBA9 uniFEA4 by uniFE91_uniFEEC_uniFEA4.liga;
+    sub uniFE91 uniFBA9 uniFEA8 by uniFE91_uniFEEC_uniFEA8.liga;
+    sub uniFE91 uniFBA9 uniFEA0 by uniFE91_uniFEEC_uniFEA0.liga;
+    sub uniFE91 uniFBA9 uniFB7B by uniFE91_uniFEEC_uniFB7B.liga;
+    sub uniFE91 uniFBA9 uniFEA6 by uniFE91_uniFEEC_uniFEA6.liga;
+    sub uniFE91 uniFBA9 uniFE9E by uniFE91_uniFEEC_uniFE9E.liga;
+    sub uniFE91 uniFBA9 uniFEA2 by uniFE91_uniFEEC_uniFEA2.liga;
+    sub uniFE91 uniFBA9 uniFEE2 by uniFE91_uniFEEC_uniFEE2.liga;
+    sub uniFE91 uniFEEC uni0640 by uniFE91_uniFBAD_uni0640.liga;
+    sub uniFE91 uniFEEC by uniFE91_uniFBAD.liga;
+    sub uniFE91 uniFBA9 by uniFCA0;
+    sub uniFE92 uniFEEC uniFBAF by uniFE92_uniFBAD_uniFBAF.liga;
+    sub uniFE92 uniFBA9 uniFEF2 by uniFE92_uniFEEC_uniFEF2.liga;
+    sub uniFE92 uniFBA9 uniFEF0 by uniFE92_uniFEEC_uniFEF0.liga;
+    sub uniFE92 uniFBA9 uniFB7B by uniFE92_uniFEEC_uniFB7B.liga;
+    sub uniFE92 uniFBA9 uniFEA6 by uniFE92_uniFEEC_uniFEA6.liga;
+    sub uniFE92 uniFBA9 uniFE9E by uniFE92_uniFEEC_uniFE9E.liga;
+    sub uniFE92 uniFBA9 uniFEA2 by uniFE92_uniFEEC_uniFEA2.liga;
+    sub uniFE92 uniFBA9 uniFEE2 by uniFE92_uniFEEC_uniFEE2.liga;
+    sub uniFE92 uniFEEC by uniFE92_uniFBAD.liga;
+    sub uniFE92 uniFBA9 by uniFCE2;
+    sub uniFE97 uniFEEC uniFBAF by uniFE97_uniFBAD_uniFBAF.liga;
+    sub uniFE97 uniFBA9 uniFB7D by uniFE97_uniFEEC_uniFB7D.liga;
+    sub uniFE97 uniFBA9 uniFEA4 by uniFE97_uniFEEC_uniFEA4.liga;
+    sub uniFE97 uniFBA9 uniFEA8 by uniFE97_uniFEEC_uniFEA8.liga;
+    sub uniFE97 uniFBA9 uniFEA0 by uniFE97_uniFEEC_uniFEA0.liga;
+    sub uniFE97 uniFBA9 uniFB7B by uniFE97_uniFEEC_uniFB7B.liga;
+    sub uniFE97 uniFBA9 uniFEA6 by uniFE97_uniFEEC_uniFEA6.liga;
+    sub uniFE97 uniFBA9 uniFE9E by uniFE97_uniFEEC_uniFE9E.liga;
+    sub uniFE97 uniFBA9 uniFEA2 by uniFE97_uniFEEC_uniFEA2.liga;
+    sub uniFE97 uniFBA9 uniFEE2 by uniFE97_uniFEEC_uniFEE2.liga;
+    sub uniFE97 uniFEEC uni0640 by uniFE97_uniFBAD_uni0640.liga;
+    sub uniFE97 uniFEEC by uniFE97_uniFBAD.liga;
+    sub uniFE97 uniFBA9 by uniFCA5;
+    sub uniFE98 uniFEEC uniFBAF by uniFE98_uniFBAD_uniFBAF.liga;
+    sub uniFE98 uniFBA9 uniFEF2 by uniFE98_uniFEEC_uniFEF2.liga;
+    sub uniFE98 uniFBA9 uniFEF0 by uniFE98_uniFEEC_uniFEF0.liga;
+    sub uniFE98 uniFBA9 uniFB7B by uniFE98_uniFEEC_uniFB7B.liga;
+    sub uniFE98 uniFBA9 uniFEA6 by uniFE98_uniFEEC_uniFEA6.liga;
+    sub uniFE98 uniFBA9 uniFE9E by uniFE98_uniFEEC_uniFE9E.liga;
+    sub uniFE98 uniFBA9 uniFEA2 by uniFE98_uniFEEC_uniFEA2.liga;
+    sub uniFE98 uniFBA9 uniFEE2 by uniFE98_uniFEEC_uniFEE2.liga;
+    sub uniFE98 uniFEEC by uniFE98_uniFBAD.liga;
+    sub uniFE98 uniFBA9 by uniFCE4;
+    sub uniFE9B uniFEEC uniFBAF by uniFE9B_uniFBAD_uniFBAF.liga;
+    sub uniFE9B uniFBA9 uniFB7D by uniFE9B_uniFEEC_uniFB7D.liga;
+    sub uniFE9B uniFBA9 uniFEA4 by uniFE9B_uniFEEC_uniFEA4.liga;
+    sub uniFE9B uniFBA9 uniFEA8 by uniFE9B_uniFEEC_uniFEA8.liga;
+    sub uniFE9B uniFBA9 uniFEA0 by uniFE9B_uniFEEC_uniFEA0.liga;
+    sub uniFE9B uniFBA9 uniFB7B by uniFE9B_uniFEEC_uniFB7B.liga;
+    sub uniFE9B uniFBA9 uniFEA6 by uniFE9B_uniFEEC_uniFEA6.liga;
+    sub uniFE9B uniFBA9 uniFE9E by uniFE9B_uniFEEC_uniFE9E.liga;
+    sub uniFE9B uniFBA9 uniFEA2 by uniFE9B_uniFEEC_uniFEA2.liga;
+    sub uniFE9B uniFBA9 uniFEE2 by uniFE9B_uniFEEC_uniFEE2.liga;
+    sub uniFE9B uniFEEC uni0640 by uniFE9B_uniFBAD_uni0640.liga;
+    sub uniFE9B uniFEEC by uniFE9B_uniFBAD.liga;
+    sub uniFE9C uniFEEC uniFBAF by uniFE9C_uniFBAD_uniFBAF.liga;
+    sub uniFE9C uniFBA9 uniFEF2 by uniFE9C_uniFEEC_uniFEF2.liga;
+    sub uniFE9C uniFBA9 uniFEF0 by uniFE9C_uniFEEC_uniFEF0.liga;
+    sub uniFE9C uniFBA9 uniFB7B by uniFE9C_uniFEEC_uniFB7B.liga;
+    sub uniFE9C uniFBA9 uniFEA6 by uniFE9C_uniFEEC_uniFEA6.liga;
+    sub uniFE9C uniFBA9 uniFE9E by uniFE9C_uniFEEC_uniFE9E.liga;
+    sub uniFE9C uniFBA9 uniFEA2 by uniFE9C_uniFEEC_uniFEA2.liga;
+    sub uniFE9C uniFBA9 uniFEE2 by uniFE9C_uniFEEC_uniFEE2.liga;
+    sub uniFE9C uniFEEC by uniFE9C_uniFBAD.liga;
+    sub uniFE9C uniFBA9 by uniFCE6;
+    sub uniFEC8 uniFEC8 uniFEF2 by uniFEEC_uniFEF2.liga;
+    sub uniFEC8 uniFEC8 uniFEF0 by uniFEEC_uniFEF0.liga;
+    sub uniFEDB uniFEEC by glyph1927;
+    sub uniFEDC uniFEEC by glyph1928;
+    sub uniFEE3 uniFBA9 by uniFEE3_uniFEEC.liga;
+    sub uniFEE3 uniFEEC by uniFEE3_uniFBAD.liga;
+    sub uniFEE7 uniFEEC uniFBAF by uniFEE7_uniFBAD_uniFBAF.liga;
+    sub uniFEE7 uniFBA9 uniFB7D by uniFEE7_uniFEEC_uniFB7D.liga;
+    sub uniFEE7 uniFBA9 uniFEA4 by uniFEE7_uniFEEC_uniFEA4.liga;
+    sub uniFEE7 uniFBA9 uniFEA8 by uniFEE7_uniFEEC_uniFEA8.liga;
+    sub uniFEE7 uniFBA9 uniFEA0 by uniFEE7_uniFEEC_uniFEA0.liga;
+    sub uniFEE7 uniFBA9 uniFB7B by uniFEE7_uniFEEC_uniFB7B.liga;
+    sub uniFEE7 uniFBA9 uniFEA6 by uniFEE7_uniFEEC_uniFEA6.liga;
+    sub uniFEE7 uniFBA9 uniFE9E by uniFEE7_uniFEEC_uniFE9E.liga;
+    sub uniFEE7 uniFBA9 uniFEA2 by uniFEE7_uniFEEC_uniFEA2.liga;
+    sub uniFEE7 uniFBA9 uniFEE2 by uniFEE7_uniFEEC_uniFEE2.liga;
+    sub uniFEE7 uniFEEC uni0640 by uniFEE7_uniFBAD_uni0640.liga;
+    sub uniFEE7 uniFEEC by uniFEE7_uniFBAD.liga;
+    sub uniFEE7 uniFBA9 by uniFCD6;
+    sub uniFEE8 uniFEEC uniFBAF by uniFEE8_uniFBAD_uniFBAF.liga;
+    sub uniFEE8 uniFBA9 uniFEF2 by uniFEE8_uniFEEC_uniFEF2.liga;
+    sub uniFEE8 uniFBA9 uniFEF0 by uniFEE8_uniFEEC_uniFEF0.liga;
+    sub uniFEE8 uniFBA9 uniFB7B by uniFEE8_uniFEEC_uniFB7B.liga;
+    sub uniFEE8 uniFBA9 uniFEA6 by uniFEE8_uniFEEC_uniFEA6.liga;
+    sub uniFEE8 uniFBA9 uniFE9E by uniFEE8_uniFEEC_uniFE9E.liga;
+    sub uniFEE8 uniFBA9 uniFEA2 by uniFEE8_uniFEEC_uniFEA2.liga;
+    sub uniFEE8 uniFBA9 uniFEE2 by uniFEE8_uniFEEC_uniFEE2.liga;
+    sub uniFEE8 uniFEEC by uniFEE8_uniFBAD.liga;
+    sub uniFEE8 uniFBA9 by uniFCEF;
+  } liga_arab_3;
+
+
+  lookup liga_arab_4 {
+  # GSUB lookup 15, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @liga' lookup isol_arab_liga_arab_1 @liga10;
+    sub @liga' lookup isol_arab_liga_arab_1 uniFC81;
+    sub @liga3 @liga' lookup isol_arab_liga_arab_1 @liga10;
+    sub @liga3 @liga' lookup isol_arab_liga_arab_1 @liga2;
+    sub [uniFEB3 uniFEB4 uniFEB7 uniFEB8] @liga' lookup isol_arab_liga_arab_1 @liga10;
+  } liga_arab_4;
+
+
+  lookup liga_arab_5 {
+  # GSUB lookup 16, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub [uniFEB3 uniFEB4 uniFEB7 uniFEB8] @liga2' lookup isol_arab_liga_arab_1 @liga10;
+    sub [uniFEB3 uniFEB4 uniFEB7 uniFEB8] @liga2' lookup isol_arab_liga_arab_1 @liga2;
+    sub [uniFE92.low uniFEF4.low uniFB59.low] @liga2' lookup isol_arab_liga_arab_1 @liga10;
+  } liga_arab_5;
+
+
+  lookup liga_arab_6 {
+  # GSUB lookup 17, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @liga3' lookup liga_arab_7 [uniFB8D uniFEAE uniFEB0];
+  } liga_arab_6;
+
+
+  lookup liga_arab_8 {
+  # GSUB lookup 19, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @liga3 @liga2' lookup liga_arab_7 [uniFB57 uniFB67 uniFC95 uniFC96 uniFE90 uniFE96 uniFE9A];
+    sub @liga2' lookup liga_arab_7 [uniFB57 uniFB67 uniFC95 uniFC96 uniFE90 uniFE96 uniFE9A];
+  } liga_arab_8;
+
+
+  lookup liga_arab_9 {
+  # GSUB lookup 20, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB58 uniFB59 uniFBAF by uniFB58_uniFB59_uniFBAF.liga;
+    sub uniFB58 uniFE9C uniFBAF by uniFB58_uniFE9C_uniFBAF.liga;
+    sub uniFB58 uniFB69 uniFBAF by uniFB58_uniFB69_uniFBAF.liga;
+    sub uniFB58 uniFE8C uniFBAF by uniFB58_uniFE8C_uniFBAF.liga;
+    sub uniFB58 uniFBFF uniFBAF by uniFB58_uniFEF4_uniFBAF.liga;
+    sub uniFB58 uniFE98 uniFBAF by uniFB58_uniFE98_uniFBAF.liga;
+    sub uniFB58 uniFE92 uniFBAF by uniFB58_uniFE92_uniFBAF.liga;
+    sub uniFB58 uniFEE8 uniFBAF by uniFB58_uniFEE8_uniFBAF.liga;
+    sub uniFB58 uniFEEC uniFBAF by uniFB58_uniFBAD_uniFBAF.liga;
+    sub uniFB58 uniFBB1 by uni067E06D3.isol;
+    sub uniFB58 uniFBAF by uni067E06D2.isol;
+    sub uniFB59 uniFB69 uniFBAF by uniFB59_uniFB69_uniFBAF.liga;
+    sub uniFB59 uniFE8C uniFBAF by uniFB59_uniFE8C_uniFBAF.liga;
+    sub uniFB59 uniFB59 uniFBAF by uniFB59_uniFB59_uniFBAF.liga;
+    sub uniFB59 uniFE9C uniFBAF by uniFB59_uniFE9C_uniFBAF.liga;
+    sub uniFB59 uniFE98 uniFBAF by uniFB59_uniFE98_uniFBAF.liga;
+    sub uniFB59 uniFBFF uniFBAF by uniFB59_uniFEF4_uniFBAF.liga;
+    sub uniFB59 uniFEE8 uniFBAF by uniFB59_uniFEE8_uniFBAF.liga;
+    sub uniFB59 uniFE92 uniFBAF by uniFB59_uniFE92_uniFBAF.liga;
+    sub uniFB68 uniFB69 uniFBAF by uniFB68_uniFB69_uniFBAF.liga;
+    sub uniFB68 uniFE8C uniFBAF by uniFB68_uniFE8C_uniFBAF.liga;
+    sub uniFB68 uniFB59 uniFBAF by uniFB68_uniFB59_uniFBAF.liga;
+    sub uniFB68 uniFE9C uniFBAF by uniFB68_uniFE9C_uniFBAF.liga;
+    sub uniFB68 uniFBFF uniFBAF by uniFB68_uniFEF4_uniFBAF.liga;
+    sub uniFB68 uniFE98 uniFBAF by uniFB68_uniFE98_uniFBAF.liga;
+    sub uniFB68 uniFEE8 uniFBAF by uniFB68_uniFEE8_uniFBAF.liga;
+    sub uniFB68 uniFE92 uniFBAF by uniFB68_uniFE92_uniFBAF.liga;
+    sub uniFB68 uniFEEC uniFBAF by uniFB68_uniFBAD_uniFBAF.liga;
+    sub uniFB68 uniFBB1 by uni067906D3.isol;
+    sub uniFB68 uniFBAF by uni067906D2.isol;
+    sub uniFB69 uniFB69 uniFBAF by uniFB69_uniFB69_uniFBAF.liga;
+    sub uniFB69 uniFE8C uniFBAF by uniFB69_uniFE8C_uniFBAF.liga;
+    sub uniFB69 uniFB59 uniFBAF by uniFB69_uniFB59_uniFBAF.liga;
+    sub uniFB69 uniFE9C uniFBAF by uniFB69_uniFE9C_uniFBAF.liga;
+    sub uniFB69 uniFBFF uniFBAF by uniFB69_uniFEF4_uniFBAF.liga;
+    sub uniFB69 uniFE98 uniFBAF by uniFB69_uniFE98_uniFBAF.liga;
+    sub uniFB69 uniFEE8 uniFBAF by uniFB69_uniFEE8_uniFBAF.liga;
+    sub uniFB69 uniFE92 uniFBAF by uniFB69_uniFE92_uniFBAF.liga;
+    sub uniFB7C uniFBAD uniFBAF by uni068606BE06D2.isol;
+    sub uniFB7C uniFEEC uniFBAF by uni068606BE06D2.isol;
+    sub uniFB7C uniFEE0 uniFBAF by uni0686064406D2.isol;
+    sub uniFB7C uniFEEC by uniFB7C_uniFBAD.liga;
+    sub uniFB7C uniFBB1 by uni068606D3.isol;
+    sub uniFB7C uniFBAF by uni068606D2.isol;
+    sub uniFB7D uniFE98 uniFBAF by uni0686062A06D2.fina;
+    sub uniFB7D uniFEEC uniFBAF by uni068606BE06D2.fina;
+    sub uniFB7D uniFBAF by uni068606D2.fina;
+    sub uniFB90 uniFBB1 by uni06A906D3.isol;
+    sub uniFB90 uniFBAF by uni06A906D2.isol;
+    sub uniFB94 uniFEE0 uniFBAF by uni06AF064406D2.isol;
+    sub uniFB94 uniFBB1 by uni06AF06D3.isol;
+    sub uniFB94 uniFBAF by uni06AF06D2.isol;
+    sub uniFBA8 uniFBFF uniFBAF by uni06C106CC06D2.isol;
+    sub uniFBA8 uniFEE8 uniFBAF by uni06C1064606D2.isol;
+    sub uniFBA8 uniFE98 uniFBAF by uni06C1062A06D2.isol;
+    sub uniFBA8 uniFBB1 by uni06C106D3.isol;
+    sub uniFBA8 uniFBAF by uni06C106D2.isol;
+    sub uniFBA9 uniFEE0 uniFBAF by uni06C1064406D2.fina;
+    sub uniFBA9 uniFE98 uniFBAF by uni06C1062A06D2.fina;
+    sub uniFBA9 uniFBAF by uniFEEC_uniFBAF.liga;
+    sub uniFBAC uniFEB8 uniFBAF by uniFEEB_uniFEB8_uniFBAF.liga;
+    sub uniFBAC uniFEB4 uniFBAF by uniFEEB_uniFEB4_uniFBAF.liga;
+    sub uniFBAC uniFEE8 uniFBAF by uni06BE064606D2.isol;
+    sub uniFBAC uniFE98 uniFBAF by uni06BE062A06D2.isol;
+    sub uniFBAC uniFBB1 by uni06BE06D3.isol;
+    sub uniFBAC uniFBAF by uni06BE06D2.isol;
+    sub uniFBE8 uniFBAF by uni064906D2.isol;
+    sub uniFBFE uniFB59 uniFBAF by uniFEF3_uniFB59_uniFBAF.liga;
+    sub uniFBFE uniFB69 uniFBAF by uniFEF3_uniFB69_uniFBAF.liga;
+    sub uniFBFE uniFE8C uniFBAF by uniFEF3_uniFE8C_uniFBAF.liga;
+    sub uniFBFE uniFE9C uniFBAF by uniFEF3_uniFE9C_uniFBAF.liga;
+    sub uniFBFE uniFBFF uniFBAF by uniFEF3_uniFEF4_uniFBAF.liga;
+    sub uniFBFE uniFE98 uniFBAF by uniFEF3_uniFE98_uniFBAF.liga;
+    sub uniFBFE uniFEE8 uniFBAF by uniFEF3_uniFEE8_uniFBAF.liga;
+    sub uniFBFE uniFE92 uniFBAF by uniFEF3_uniFE92_uniFBAF.liga;
+    sub uniFBFE uniFBAF by uniFEF3_uniFBAF.liga;
+    sub uniFBFE uniFBAB by uniFEF3_uniFBAB.liga;
+    sub uniFBFE uniFBB1 by uni06CC06D3.isol;
+    sub uniFBFF uniFB69 uniFBAF by uniFEF4_uniFB69_uniFBAF.liga;
+    sub uniFBFF uniFE8C uniFBAF by uniFEF4_uniFE8C_uniFBAF.liga;
+    sub uniFBFF uniFB59 uniFBAF by uniFEF4_uniFB59_uniFBAF.liga;
+    sub uniFBFF uniFE9C uniFBAF by uniFEF4_uniFE9C_uniFBAF.liga;
+    sub uniFBFF uniFBFF uniFBAF by uniFEF4_uniFEF4_uniFBAF.liga;
+    sub uniFBFF uniFE98 uniFBAF by uniFEF4_uniFE98_uniFBAF.liga;
+    sub uniFBFF uniFEE8 uniFBAF by uniFEF4_uniFEE8_uniFBAF.liga;
+    sub uniFBFF uniFE92 uniFBAF by uniFEF4_uniFE92_uniFBAF.liga;
+    sub uniFE8B uniFB69 uniFBAF by uniFE8B_uniFB69_uniFBAF.liga;
+    sub uniFE8B uniFE8C uniFBAF by uniFE8B_uniFE8C_uniFBAF.liga;
+    sub uniFE8B uniFB59 uniFBAF by uniFE8B_uniFB59_uniFBAF.liga;
+    sub uniFE8B uniFE9C uniFBAF by uniFE8B_uniFE9C_uniFBAF.liga;
+    sub uniFE8B uniFBFF uniFBAF by uniFE8B_uniFEF4_uniFBAF.liga;
+    sub uniFE8B uniFE98 uniFBAF by uniFE8B_uniFE98_uniFBAF.liga;
+    sub uniFE8B uniFEE8 uniFBAF by uniFE8B_uniFEE8_uniFBAF.liga;
+    sub uniFE8B uniFE92 uniFBAF by uniFE8B_uniFE92_uniFBAF.liga;
+    sub uniFE8B uniFEEC uniFBAF by uniFE8B_uniFBAD_uniFBAF.liga;
+    sub uniFE8B uniFBAF by uniFE8B_uniFBAF.liga;
+    sub uniFE8C uniFB69 uniFBAF by uniFE8C_uniFB69_uniFBAF.liga;
+    sub uniFE8C uniFE8C uniFBAF by uniFE8C_uniFE8C_uniFBAF.liga;
+    sub uniFE8C uniFB59 uniFBAF by uniFE8C_uniFB59_uniFBAF.liga;
+    sub uniFE8C uniFE9C uniFBAF by uniFE8C_uniFE9C_uniFBAF.liga;
+    sub uniFE8C uniFE98 uniFBAF by uniFE8C_uniFE98_uniFBAF.liga;
+    sub uniFE8C uniFBFF uniFBAF by uniFE8C_uniFEF4_uniFBAF.liga;
+    sub uniFE8C uniFEE8 uniFBAF by uniFE8C_uniFEE8_uniFBAF.liga;
+    sub uniFE8C uniFE92 uniFBAF by uniFE8C_uniFE92_uniFBAF.liga;
+    sub uniFE91 uniFBFF uniFB69 uniFBAF by uni062A06CC067906D2.isol;
+    sub uniFE91 uniFE8C uniFBAF by uniFE91_uniFE8C_uniFBAF.liga;
+    sub uniFE91 uniFB59 uniFBAF by uniFE91_uniFE9C_uniFBAF.liga;
+    sub uniFE91 uniFE9C uniFBAF by uniFE91_uniFE9C_uniFBAF.liga;
+    sub uniFE91 uniFBFF uniFBAF by uniFE91_uniFEF4_uniFBAF.liga;
+    sub uniFE91 uniFE98 uniFBAF by uniFE91_uniFE98_uniFBAF.liga;
+    sub uniFE91 uniFEE8 uniFBAF by uniFE91_uniFEE8_uniFBAF.liga;
+    sub uniFE91 uniFE92 uniFBAF by uniFE91_uniFE92_uniFBAF.liga;
+    sub uniFE91 uniFEEC uniFBAF by uniFE91_uniFBAD_uniFBAF.liga;
+    sub uniFE91 uniFB69 uniFBAF by uniFE91_uniFB69_uniFBAF.liga;
+    sub uniFE91 uniFBB1 by uni062606D3.isol;
+    sub uniFE91 uniFBAF by uni062806D2.isol;
+    sub uniFE92 uniFB69 uniFBAF by uniFE92_uniFB69_uniFBAF.liga;
+    sub uniFE92 uniFE8C uniFBAF by uniFE92_uniFE8C_uniFBAF.liga;
+    sub uniFE92 uniFB59 uniFBAF by uniFE92_uniFB59_uniFBAF.liga;
+    sub uniFE92 uniFE9C uniFBAF by uniFE92_uniFE9C_uniFBAF.liga;
+    sub uniFE92 uniFBFF uniFBAF by uniFE92_uniFEF4_uniFBAF.liga;
+    sub uniFE92 uniFE98 uniFBAF by uniFE92_uniFE98_uniFBAF.liga;
+    sub uniFE92 uniFEE8 uniFBAF by uniFE92_uniFEE8_uniFBAF.liga;
+    sub uniFE92 uniFE92 uniFBAF by uniFE92_uniFE92_uniFBAF.liga;
+    sub uniFE97 uniFB69 uniFBAF by uniFE97_uniFB69_uniFBAF.liga;
+    sub uniFE97 uniFE8C uniFBAF by uniFE97_uniFE8C_uniFBAF.liga;
+    sub uniFE97 uniFB59 uniFBAF by uniFE97_uniFB59_uniFBAF.liga;
+    sub uniFE97 uniFE9C uniFBAF by uniFE97_uniFE9C_uniFBAF.liga;
+    sub uniFE97 uniFBFF uniFBAF by uniFE97_uniFEF4_uniFBAF.liga;
+    sub uniFE97 uniFE98 uniFBAF by uniFE97_uniFE98_uniFBAF.liga;
+    sub uniFE97 uniFEE8 uniFBAF by uniFE97_uniFEE8_uniFBAF.liga;
+    sub uniFE97 uniFE92 uniFBAF by uniFE97_uniFE92_uniFBAF.liga;
+    sub uniFE97 uniFEEC uniFBAF by uniFE97_uniFBAD_uniFBAF.liga;
+    sub uniFE97 uniFBAB by uniFE97_uniFBAB.liga;
+    sub uniFE97 uniFBB1 by uni062A06D3.isol;
+    sub uniFE97 uniFBAF by uni062A06D2.isol;
+    sub uniFE98 uniFB69 uniFBAF by uniFE98_uniFB69_uniFBAF.liga;
+    sub uniFE98 uniFE8C uniFBAF by uniFE98_uniFE8C_uniFBAF.liga;
+    sub uniFE98 uniFB59 uniFBAF by uniFE98_uniFB59_uniFBAF.liga;
+    sub uniFE98 uniFE9C uniFBAF by uniFE98_uniFE9C_uniFBAF.liga;
+    sub uniFE98 uniFBFF uniFBAF by uniFE98_uniFEF4_uniFBAF.liga;
+    sub uniFE98 uniFE98 uniFBAF by uniFE98_uniFE98_uniFBAF.liga;
+    sub uniFE98 uniFE92 uniFBAF by uniFE98_uniFE92_uniFBAF.liga;
+    sub uniFE98 uniFEE8 uniFBAF by uniFE98_uniFEE8_uniFBAF.liga;
+    sub uniFE9B uniFB69 uniFBAF by uniFE9B_uniFB69_uniFBAF.liga;
+    sub uniFE9B uniFE8C uniFBAF by uniFE9B_uniFE8C_uniFBAF.liga;
+    sub uniFE9B uniFB59 uniFBAF by uniFE9B_uniFB59_uniFBAF.liga;
+    sub uniFE9B uniFE9C uniFBAF by uniFE9B_uniFE9C_uniFBAF.liga;
+    sub uniFE9B uniFBFF uniFBAF by uniFE9B_uniFEF4_uniFBAF.liga;
+    sub uniFE9B uniFE98 uniFBAF by uniFE9B_uniFE98_uniFBAF.liga;
+    sub uniFE9B uniFE92 uniFBAF by uniFE9B_uniFE92_uniFBAF.liga;
+    sub uniFE9B uniFEE8 uniFBAF by uniFE9B_uniFEE8_uniFBAF.liga;
+    sub uniFE9B uniFEEC uniFBAF by uniFE9B_uniFBAD_uniFBAF.liga;
+    sub uniFE9B uniFBB1 by uni062B06D3.isol;
+    sub uniFE9B uniFBAF by uni062B06D2.isol;
+    sub uniFE9C uniFB69 uniFBAF by uniFE9C_uniFB69_uniFBAF.liga;
+    sub uniFE9C uniFE8C uniFBAF by uniFE9C_uniFE8C_uniFBAF.liga;
+    sub uniFE9C uniFB59 uniFBAF by uniFE9C_uniFB59_uniFBAF.liga;
+    sub uniFE9C uniFE9C uniFBAF by uniFE9C_uniFE9C_uniFBAF.liga;
+    sub uniFE9C uniFBFF uniFBAF by uniFE9C_uniFEF4_uniFBAF.liga;
+    sub uniFE9C uniFE98 uniFBAF by uniFE9C_uniFE98_uniFBAF.liga;
+    sub uniFE9C uniFE92 uniFBAF by uniFE9C_uniFE92_uniFBAF.liga;
+    sub uniFE9C uniFEE8 uniFBAF by uniFE9C_uniFEE8_uniFBAF.liga;
+    sub uniFE9F uniFEEC uniFBAF by uni062C06BE06D2.isol;
+    sub uniFE9F uniFEE4 uniFBAF by uni062C064506D2.isol;
+    sub uniFE9F uniFBAB by uniFE9F_uniFBAB.liga;
+    sub uniFE9F uniFEEC by uniFE9F_uniFBAD.liga;
+    sub uniFE9F uniFBB1 by uni062C06D3.isol;
+    sub uniFE9F uniFBAF by uni062C06D2.isol;
+    sub uniFEA0 uniFEEC uniFBAF by uni062C06BE06D2.fina;
+    sub uniFEA0 uniFBAF by uni062C06D2.fina;
+    sub uniFEA0 uniFBB1 by uni062C06D3.fina;
+    sub uniFEA3 uniFEEC uniFBAF by uni062D06BE06D2.isol;
+    sub uniFEA3 uniFEEC by uniFEA3_uniFBAD.liga;
+    sub uniFEA3 uniFBAF by uni062D06D2.isol;
+    sub uniFEA4 uniFEEC uniFBAF by uni062D06BE06D2.fina;
+    sub uniFEA4 uniFBAF by uni062D06D2.fina;
+    sub uniFEA7 uniFEEC uniFBAF by uniKheHaYehB;
+    sub uniFEA7 uniFEEC by uniFEA7_uniFBAD.liga;
+    sub uniFEA7 uniFBAF by uni062E06D2.isol;
+    sub uniFEB3 uniFEC4 uniFBAF by uniSeenToiYehB;
+    sub uniFEB3 uniFBAF by uni063306D2.isol;
+    sub uniFEB4 uniFBAF by uni063306D2.fina;
+    sub uniFEB7 uniFEC4 uniFBAF by uniSheenToiYehB;
+    sub uniFEB7 uniFBAF by uni063406D2.isol;
+    sub uniFEBB uniFBAF by uni063506D2.isol;
+    sub uniFEBF uniFBAF by uni063606D2.isol;
+    sub uniFEC3 uniFBAF by uni063706D2.isol;
+    sub uniFEC7 uniFBAF by uni063806D2.isol;
+    sub uniFECB uniFBB1 by uni063906D3.isol;
+    sub uniFECB uniFBAF by uni063906D2.isol;
+    sub uniFECF uniFBB1 by uni063A06D3.isol;
+    sub uniFECF uniFBAF by uni063A06D2.isol;
+    sub uniFED3 uniFBB1 by uni064106D3.isol;
+    sub uniFED3 uniFBAF by uni064106D2.isol;
+    sub uniFED7 uniFBB1 by uni064206D3.isol;
+    sub uniFED7 uniFBAF by uni064206D2.isol;
+    sub uniFEDB uniFBAB by uniFEDB_uniFBAB.liga;
+    sub uniFEDB uniFBB1 by uni06A906D3.isol;
+    sub uniFEDB uniFBAF by uni06A906D2.isol;
+    sub uniFEDF uniFBFF uniFBAF by uni064406CC06D2.isol;
+    sub uniFEDF uniFBB1 by uni064406D3.isol;
+    sub uniFEDF uniFBAF by uni064406D2.isol;
+    sub uniFEE3 uniFEE0 uniFBAF by uni0645064406D2.isol;
+    sub uniFEE3 uniFBB1 by uni064506D3.isol;
+    sub uniFEE3 uniFBAF by uni064506D2.isol;
+    sub uniFEE7 uniFB69 uniFBAF by uniFEE7_uniFB69_uniFBAF.liga;
+    sub uniFEE7 uniFE8C uniFBAF by uniFEE7_uniFE8C_uniFBAF.liga;
+    sub uniFEE7 uniFB59 uniFBAF by uniFEE7_uniFB59_uniFBAF.liga;
+    sub uniFEE7 uniFE9C uniFBAF by uniFEE7_uniFE9C_uniFBAF.liga;
+    sub uniFEE7 uniFBFF uniFBAF by uniFEE7_uniFEF4_uniFBAF.liga;
+    sub uniFEE7 uniFE98 uniFBAF by uniFEE7_uniFE98_uniFBAF.liga;
+    sub uniFEE7 uniFEE8 uniFBAF by uniFEE7_uniFEE8_uniFBAF.liga;
+    sub uniFEE7 uniFE92 uniFBAF by uniFEE7_uniFE92_uniFBAF.liga;
+    sub uniFEE7 uniFEEC uniFBAF by uniFEE7_uniFBAD_uniFBAF.liga;
+    sub uniFEE7 uniFBAB by uniFEE7_uniFBAB.liga;
+    sub uniFEE7 uniFBB1 by uni064606D3.isol;
+    sub uniFEE7 uniFBAF by uni064606D2.isol;
+    sub uniFEE8 uniFB69 uniFBAF by uniFEE8_uniFB69_uniFBAF.liga;
+    sub uniFEE8 uniFE8C uniFBAF by uniFEE8_uniFE8C_uniFBAF.liga;
+    sub uniFEE8 uniFB59 uniFBAF by uniFEE8_uniFB59_uniFBAF.liga;
+    sub uniFEE8 uniFE9C uniFBAF by uniFEE8_uniFE9C_uniFBAF.liga;
+    sub uniFEE8 uniFBFF uniFBAF by uniFEE8_uniFEF4_uniFBAF.liga;
+    sub uniFEE8 uniFE98 uniFBAF by uniFEE8_uniFE98_uniFBAF.liga;
+    sub uniFEE8 uniFEE8 uniFBAF by uniFEE8_uniFEE8_uniFBAF.liga;
+    sub uniFEE8 uniFE92 uniFBAF by uniFEE8_uniFE92_uniFBAF.liga;
+    sub uniFEEB uniFEB8 uniFBAF by uniFEEB_uniFEB8_uniFBAF.liga;
+    sub uniFEEB uniFEB4 uniFBAF by uniFEEB_uniFEB4_uniFBAF.liga;
+    sub uniFEEB uniFEE8 uniFBAF by uni06BE064606D2.isol;
+    sub uniFEEB uniFE98 uniFBAF by uni06BE062A06D2.isol;
+    sub uniFEEB uniFBB1 by uni06BE06D3.isol;
+    sub uniFEEB uniFBAF by uni06BE06D2.isol;
+    sub uniFEEC uniFBAF by uni06BE06D2.fina;
+    sub uniFEF3.tall uniFEB4 uniFBAF by uni06CC063306D2.isol;
+    sub uniFEF4.tall uniFEB4 uniFBAF by uni06CC063306D2.fina;
+    sub glyph2264 uniFBAF by uni062806D2.isol;
+    sub glyph2265 uniFBAF by uni062806D2.isol;
+    sub glyph2266 uniFBAF by uni062806D2.isol;
+    sub glyph2267 uniFBAF by uniFEF3_uniFBAF.liga;
+    sub glyph2268 uniFBAF by uniFEF3_uniFBAF.liga;
+    sub glyph2269 uniFBAF by uniFEF3_uniFBAF.liga;
+    sub glyph2270 uniFBAF by uni067E06D2.isol;
+    sub glyph2271 uniFBAF by uni067E06D2.isol;
+    sub glyph2272 uniFBAF by uni067E06D2.isol;
+  } liga_arab_9;
+
+
+  lookup liga_arab_10 {
+  # GSUB lookup 21, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub [uniFB59 uniFBFF uniFE92 uniFE92.tall uniFEF4.tall uniFB59.tall]' lookup liga_arab_11 [uniFBAF uniFBB1];
+    sub [uniFB59 uniFBFF uniFE92 uniFE92.tall uniFEF4.tall uniFB59.tall]' lookup liga_arab_11 @liga2 [uniFBAF uniFBB1];
+  } liga_arab_10;
+
+
+  lookup liga_arab_12 {
+  # GSUB lookup 23, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB94 uniFE94 by uniFB94_uniFE94.liga;
+    sub uniFB94 uniFEEA by uniFEDB_uniFEEA.liga;
+    sub uniFB94 uniFBAD by uni06AF06BE.init;
+    sub uniFB94 uniFEEC by uni06AF06BE.init;
+    sub uniFB94 uniFBAB by uni06AF06BE.isol;
+    sub uniFB95 uniFE8E by uniFB95_uniFE8E.liga;
+    sub uniFB95 uniFBAD by uni06AF06BE.medi;
+    sub uniFB95 uniFEEC by uni06AF06BE.medi;
+    sub uniFEDB uni0640 uni0640 by uni06AA.init;
+    sub uniFEDB uniFE94 by uniFEDB_uniFE94.liga;
+    sub uniFEDB uniFEEA by uniFEDB_uniFEEA.liga;
+    sub uniFEDB uniFBA9 by uniFEDB_uniFEEC.liga;
+    sub uniFEDC uniFEDC_uniFEEC.liga by uniFEDC_uniFEEC.liga;
+  } liga_arab_12;
+
+
+  lookup liga_arab_13 {
+  # GSUB lookup 24, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uniFB58 uniFEE4 by uni067D0645.init;
+    sub uniFB68 uniFEE4 by uni06790645.init;
+    sub uniFB94 uniFEE4 uniFE8E by glyphgaaf2;
+    sub uniFB94 uniFEE4 uniFE8E.short by glyphgaaf;
+    sub uniFB94 uniFEE4 by uniFB94_uniFEE4.liga;
+    sub uniFB94 uniFEE2 by uniFB94_uniFEE2.liga;
+    sub uniFB95 uniFEE4 by uniFB95_uniFEE4.liga;
+    sub uniFB95 uniFEE2 by uniFB95_uniFEE2.liga;
+    sub uniFBFE uniFEE4 by uniFCDD;
+    sub uniFBFF uniFEE4 uniFE8E by uni064A06450627.fina;
+    sub uniFE8B uniFEE4 by uniFC9A;
+    sub uniFE8C uniFEE4 uniFE8E by uni062606450627.fina;
+    sub uniFE91 uniFEE4 by uniFC9F;
+    sub uniFE92 uniFEE4 uniFE8E by uni062806450627.fina;
+    sub uniFE97 uniFEE4 by uniFCA4;
+    sub uniFE98 uniFEE4 uniFE8E by uni062A06450627.fina;
+    sub uniFE9B uniFEE4 by uniFCA6;
+    sub uniFE9C uniFEE4 uniFE8E by uni062B06450627.fina;
+    sub uniFEB3 uniFEE4 uniFE8E by uniFEB3_uniFEE4_uniFE8E.liga;
+    sub uniFEB4 uniFEE2 by uniFEB4_uniFEE2.liga;
+    sub uniFEB7 uniFEE4 uniFE8E by uniFEB7_uniFEE4_uniFE8E.liga;
+    sub uniFEB8 uniFEE2 by uniFEB8_uniFEE2.liga;
+    sub uniFEBB uniFEE4 uniFE8E by uniFEBB_uniFEE4_uniFE8E.liga;
+    sub uniFEBF uniFEE4 uniFE8E by uniFEBF_uniFEE4_uniFE8E.liga;
+    sub uniFECB uniFEA0 by uniFCBA;
+    sub uniFECB uniFE9E by uniFC29;
+    sub uniFECF uniFEA0 by uniFCBC;
+    sub uniFECF uniFE9E by uniFC2B;
+    sub uniFED3 uniFEE4 by uniFCC1;
+    sub uniFED3 uniFEA8 by uniFCC0;
+    sub uniFED3 uniFEA4 by uniFCBF;
+    sub uniFED3 uniFEA0 by uniFCBE;
+    sub uniFED3 uniFEE2 by uniFC30;
+    sub uniFED3 uniFEA6 by uniFC2F;
+    sub uniFED3 uniFEA2 by uniFC2E;
+    sub uniFED3 uniFE9E by uniFC2D;
+    sub uniFED7 uniFEE4 by uniFCC3;
+    sub uniFED7 uniFEA4 by uniFCC2;
+    sub uniFED7 uniFEE2 by uniFC34;
+    sub uniFED7 uniFEA2 by uniFC33;
+    sub uniFEDB uniFEE4 uniFE8E.short by uni064306450627.isolshort;
+    sub uniFEDB uniFEE4 uniFE8E by uni064306450627.isol;
+    sub uniFEDB uniFEE4 by uniFCC8;
+    sub uniFEDB uniFEE2 by uniFC3C;
+    sub uniFEDC uniFEE4 by uniFCEC;
+    sub uniFEDC uniFEE2 by uniFC82;
+    sub uniFEDF uniFEE4 uniFEA8 by uni06440645062E.init;
+    sub uniFEDF uniFEE4 uniFEA0 by uni06440645062C.init;
+    sub uniFEDF uniFEA0 uniFEE4 by uniFDBA;
+    sub uniFEDF uniFEA4 uniFEE4 by uniFDB5;
+    sub uniFEDF uniFEE4 uniFEA4 by uniFD88;
+    sub uniFEDF uniFEA8 uniFEE4 by uniFD86;
+    sub uniFEDF uniFEEC by uniFCCD;
+    sub uniFEDF uniFEE4 by uniFCCC;
+    sub uniFEDF uniFEA8 by uniFCCB;
+    sub uniFEDF uniFEA4 by uniFCCA;
+    sub uniFEDF uniFEA0 by uniFCC9;
+    sub uniFEDF uniFEE2 by uniFC42;
+    sub uniFEDF uniFEA6 by uniFC41;
+    sub uniFEDF uniFEA2 by uniFC40;
+    sub uniFEDF uniFE9E by uniFC3F;
+    sub uniFEE3 uniFEE4 by uniFCD1;
+    sub uniFEE4 uniFE8E by uniFC88;
+    sub uniFEE7 uniFEE4 by uniFCD5;
+    sub uniFEE8 uniFEE4 uniFE8E by uni064606450627.fina;
+    sub uniFEEB uniFEA0 by uniFCD7;
+    sub uniFEEB uniFE9E by uniFC51;
+    sub uniFEEC uniFEE2 by uniFEEC_uniFEE2.liga;
+  } liga_arab_13;
+
+
+  lookup liga_arab_14 {
+  # GSUB lookup 25, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFECB uniFEF2 by uniFECB_uniFEF2.liga;
+    sub uniFECB uniFEF0 by uniFECB_uniFEF0.liga;
+    sub uniFECB uniFEE4 by uniFCBB;
+    sub uniFECB uniFEE2 by uniFC2A;
+    sub uniFECF uniFEF2 by uniFECF_uniFEF2.liga;
+    sub uniFECF uniFEF0 by uniFECF_uniFEF0.liga;
+    sub uniFECF uniFEE4 by uniFCBD;
+    sub uniFECF uniFEE2 by uniFC2C;
+    sub uniFEDF uniFEE0 uniFEEA by uniFDF2;
+  } liga_arab_14;
+
+
+  lookup liga_arab_15 {
+  # GSUB lookup 26, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uniFEDF.alt1 uniFEE0 uniFEEA by uniFDF2;
+  } liga_arab_15;
+
+
+  lookup liga_arab_16 {
+  # GSUB lookup 27, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFEDF.alt1 uniFEE0 uniFEEA by uni064406440647.isol;
+  } liga_arab_16;
+
+
+  lookup liga_arab_17 {
+  # GSUB lookup 28, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB94 uniFEF0 by uniFB94_uniFEF0.liga;
+    sub uniFB94 uniFEF2 by uniFB94_uniFEF0.liga;
+    sub uniFB94 uniFEE0 by uniFB94_uniFEE0.liga;
+    sub uniFB94 uniFEDE by uniFB94_uniFEDE.liga;
+    sub uniFB94 uniFE8E.short by uniFB94_uniFE8E.short.liga;
+    sub uniFB94 uniFE8E by uniFB94_uniFE8E.liga;
+    sub uniFB95 uniFEF2 by uniFB95_uniFEF2.liga;
+    sub uniFB95 uniFEE0 by uniFB95_uniFEE0.liga;
+    sub uniFB95 uniFEDE by uniFB95_uniFEDE.liga;
+    sub uniFB95 uniFEFC.alt1 by uniFB95_uniFEFC.alt1.liga;
+    sub uniFB95 uniFEFC by uniFB95_uniFEFC.liga;
+    sub uniFEC3 uniFEF2 by uniFEC3_uniFEF2.liga;
+    sub uniFEC3 uniFEF0 by uniFEC3_uniFEF0.liga;
+    sub uniFEC4 uniFEF2 by uniFEC4_uniFEF2.liga;
+    sub uniFEC4 uniFEF0 by uniFEC4_uniFEF0.liga;
+    sub uniFEC7 uniFEF0 by uniFEC7_uniFEF0.liga;
+    sub uniFEC7 uniFEF2 by uniFEC7_uniFEF2.liga;
+    sub uniFEC8 uniFEF2 by uniFEC8_uniFEF2.liga;
+    sub uniFEC8 uniFEF0 by uniFEC8_uniFEF0.liga;
+    sub uniFECC uniFEF2 by uniFECC_uniFEF2.liga;
+    sub uniFECC uniFEF0 by uniFECC_uniFEF0.liga;
+    sub uniFED0 uniFEF2 by uniFED0_uniFEF2.liga;
+    sub uniFED0 uniFEF0 by uniFED0_uniFEF0.liga;
+    sub uniFED3 uniFE8A by uni06410626.isol;
+    sub uniFED3 uniFEF2 by uniFC32;
+    sub uniFED3 uniFEF0 by uniFC31;
+    sub uniFED4 uniFEF2 by uniFED4_uniFEF2.liga;
+    sub uniFED4 uniFEF0 by uniFED4_uniFEF0.liga;
+    sub uniFED7 uniFE8A by uni06420626.isol;
+    sub uniFED7 uniFEF2 by uniFC36;
+    sub uniFED7 uniFEF0 by uniFC35;
+    sub uniFED8 uniFEF2 by uniFED8_uniFEF2.liga;
+    sub uniFED8 uniFEF0 by uniFED8_uniFEF0.liga;
+    sub uniFEDB uniFEFC.alt1 by uni064306440627.isolshort;
+    sub uniFEDB uniFEFC by uni064306440627.isol;
+    sub uniFEDB uniFE8E.short by uni06430627.isolshort;
+    sub uniFEDB uniFEE0 by uniFCC7;
+    sub uniFEDB uniFEF2 by uniFC3E;
+    sub uniFEDB uniFEF0 by uniFC3D;
+    sub uniFEDB uniFEDE by uniFC3B;
+    sub uniFEDB uniFE8E by uniFC37;
+    sub uniFEDC uniFEFC.alt1 by uni064306440627.finashort;
+    sub uniFEDC uniFEFC by uni064306440627.fina;
+    sub uniFEDC uniFE8E.short by uni06430627.finashort;
+    sub uniFEDC uniFEE0 by uniFCEB;
+    sub uniFEDC uniFEF2 by uniFC84;
+    sub uniFEDC uniFEF0 by uniFC83;
+    sub uniFEDC uniFEDE by uniFC81;
+    sub uniFEDC uniFE8E by uniFC80;
+    sub uniFEDF uniFBA9 by glyph2143;
+    sub uniFEDF uniFEF2 by uniFC44;
+    sub uniFEDF uniFEF0 by uniFC43;
+    sub uniFEE0 uniFBA9 by glyph2144;
+    sub uniFEE0 uniFEF2 by uniFC87;
+    sub uniFEE0 uniFEF0 by uniFC86;
+    sub uniFEE3 uniFEA8 by uniFCD0;
+    sub uniFEE3 uniFEA4 by uniFCCF;
+    sub uniFEE3 uniFEA0 by uniFCCE;
+    sub uniFEE3 uniFEF2 by uniFC4A;
+    sub uniFEE3 uniFEF0 by uniFC49;
+    sub uniFEE3 uniFEE2 by uniFC48;
+    sub uniFEEB uniFEE4 by uniFCD8;
+    sub uniFEEB uniFEF2 by uniFC54;
+    sub uniFEEB uniFEF0 by uniFC53;
+    sub uniFEEB uniFEE2 by uniFC52;
+  } liga_arab_17;
+
+
+  lookup liga_arab_18 {
+  # GSUB lookup 29, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uniFB7C uniFEE4 by uni06860645.init;
+    sub uniFB7C uniFEE2 by uni06860645.isol;
+    sub uniFB7C uniFEF0 by uniFB7C_uniFEF0.liga;
+    sub uniFB7C uniFEF2 by uniFB7C_uniFEF2.liga;
+    sub uniFE9F uniFEF0 by uniFE9F_uniFEF0.liga;
+    sub uniFE9F uniFEF2 by uniFE9F_uniFEF2.liga;
+    sub uniFE9F uniFEE4 by uniFCA8;
+    sub uniFE9F uniFEA4 by uniFCA7;
+    sub uniFE9F uniFEE2 by uniFC16;
+    sub uniFE9F uniFEA2 by uniFC15;
+    sub uniFEA3 uniFEF2 by uniFEA3_uniFEF2.liga;
+    sub uniFEA3 uniFEF0 by uniFEA3_uniFEF0.liga;
+    sub uniFEA3 uniFEE4 by uniFCAA;
+    sub uniFEA3 uniFEA0 by uniFCA9;
+    sub uniFEA3 uniFEE2 by uniFC18;
+    sub uniFEA3 uniFE9E by uniFC17;
+    sub uniFEA7 uniFEF2 by uniFEA7_uniFEF2.liga;
+    sub uniFEA7 uniFEF0 by uniFEA7_uniFEF0.liga;
+    sub uniFEA7 uniFEE4 by uniFCAC;
+    sub uniFEA7 uniFEA0 by uniFCAB;
+    sub uniFEA7 uniFEE2 by uniFC1B;
+    sub uniFEA7 uniFEA2 by uniFC1A;
+    sub uniFEA7 uniFE9E by uniFC19;
+  } liga_arab_18;
+
+
+  lookup liga_arab_19 {
+  # GSUB lookup 30, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFEBB uniFEE4 uniFE8E by uniFEBB_uniFEE4_uniFE8E.liga;
+    sub uniFEBB uniFEB0 by uni06350632.isol;
+    sub uniFEBB uniFEA0 by uni0635062C.init;
+    sub uniFEBB uniFEA6 by uni0635062E.isol;
+    sub uniFEBB uniFE9E by uni0635062C.isol;
+    sub uniFEBB uniFEAE by uniFD0F;
+    sub uniFEBB uniFEF2 by uniFD06;
+    sub uniFEBB uniFEF0 by uniFD05;
+    sub uniFEBB uniFEE4 by uniFCB3;
+    sub uniFEBB uniFEA8 by uniFCB2;
+    sub uniFEBB uniFEA4 by uniFCB1;
+    sub uniFEBB uniFEE2 by uniFC21;
+    sub uniFEBB uniFEA2 by uniFC20;
+    sub uniFEBC uniFEB0 by uni06350632.fina;
+    sub uniFEBC uniFEAE by uniFD2B;
+    sub uniFEBC uniFEF2 by uniFD22;
+    sub uniFEBC uniFEF0 by uniFD21;
+    sub uniFEBF uniFEE4 uniFE8E by uniFEBF_uniFEE4_uniFE8E.liga;
+    sub uniFEBF uniFEB0 by uni06360632.isol;
+    sub uniFEBF uniFEAE by uniFD10;
+    sub uniFEBF uniFEF2 by uniFD08;
+    sub uniFEBF uniFEF0 by uniFD07;
+    sub uniFEBF uniFEE4 by uniFCB7;
+    sub uniFEBF uniFEA8 by uniFCB6;
+    sub uniFEBF uniFEA4 by uniFCB5;
+    sub uniFEBF uniFEA0 by uniFCB4;
+    sub uniFEBF uniFEE2 by uniFC25;
+    sub uniFEBF uniFEA6 by uniFC24;
+    sub uniFEBF uniFEA2 by uniFC23;
+    sub uniFEBF uniFE9E by uniFC22;
+    sub uniFEC0 uniFEB0 by uni06360632.fina;
+    sub uniFEC0 uniFEAE by uniFD2C;
+    sub uniFEC0 uniFEF2 by uniFD24;
+    sub uniFEC0 uniFEF0 by uniFD23;
+    sub uniFEC3 uniFEE4 by uniFEC3_uniFEE4.liga;
+    sub uniFEC7 uniFEE4 by uniFEC7_uniFEE4.liga;
+  } liga_arab_19;
+
+
+  lookup liga_arab_20 {
+  # GSUB lookup 31, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFEB3 uniFEE4 uniFE8E by uniFEB3_uniFEE4_uniFE8E.liga;
+    sub uniFEB3 uniFEB0 by uni06330632.isol;
+    sub uniFEB3 uniFEAE by uniFD0E;
+    sub uniFEB3 uniFEF2 by uniFCFC;
+    sub uniFEB3 uniFBFD by uniFCFB;
+    sub uniFEB3 uniFEF0 by uniFCFB;
+    sub uniFEB3 uniFEE4 by uniFCB0;
+    sub uniFEB3 uniFEA8 by uniFCAF;
+    sub uniFEB3 uniFEA4 by uniFCAE;
+    sub uniFEB3 uniFEA0 by uniFCAD;
+    sub uniFEB3 uniFEE2 by uniFC1F;
+    sub uniFEB3 uniFEA6 by uniFC1E;
+    sub uniFEB3 uniFEA2 by uniFC1D;
+    sub uniFEB3 uniFE9E by uniFC1C;
+    sub uniFEB4 uniFEB0 by uni06330632.fina;
+    sub uniFEB4 uniFEAE by uniFD2A;
+    sub uniFEB4 uniFEF2 by uniFD18;
+    sub uniFEB4 uniFBFD by uniFD17;
+    sub uniFEB4 uniFEF0 by uniFD17;
+    sub uniFEB7 uniFEE4 uniFE8E by uniFEB7_uniFEE4_uniFE8E.liga;
+    sub uniFEB7 uniFEB0 by uni06340632.isol;
+    sub uniFEB7 uniFEE4 by uniFD30;
+    sub uniFEB7 uniFEA8 by uniFD2F;
+    sub uniFEB7 uniFEA4 by uniFD2E;
+    sub uniFEB7 uniFEA0 by uniFD2D;
+    sub uniFEB7 uniFEAE by uniFD0D;
+    sub uniFEB7 uniFEE2 by uniFD0C;
+    sub uniFEB7 uniFEA6 by uniFD0B;
+    sub uniFEB7 uniFEA2 by uniFD0A;
+    sub uniFEB7 uniFE9E by uniFD09;
+    sub uniFEB7 uniFEF2 by uniFCFE;
+    sub uniFEB7 uniFBFD by uniFCFD;
+    sub uniFEB7 uniFEF0 by uniFCFD;
+    sub uniFEB8 uniFEB0 by uni06340632.fina;
+    sub uniFEB8 uniFEAE by uniFD29;
+    sub uniFEB8 uniFEF2 by uniFD1A;
+    sub uniFEB8 uniFEF0 by uniFD19;
+  } liga_arab_20;
+
+
+  lookup liga_arab_21 {
+  # GSUB lookup 32, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB58 uniFB7D uniFEE4 by uniFB58_uniFB7D_uniFEE4.liga;
+    sub uniFB58 uniFEA8 uniFEE4 by uniFB58_uniFEA8_uniFEE4.liga;
+    sub uniFB58 uniFEA0 uniFEE4 by uniFB58_uniFEA0_uniFEE4.liga;
+    sub uniFB58 uniFEA4 uniFEE4 by uniFB58_uniFEA4_uniFEE4.liga;
+    sub uniFB58 uniFB7D by uni067D0686.init;
+    sub uniFB58 uniFEA8 by uni067D062E.init;
+    sub uniFB58 uniFEA4 by uni067D062D.init;
+    sub uniFB58 uniFEA0 by uni067D062C.init;
+    sub uniFB58 uniFB7B by uni067D0686.isol;
+    sub uniFB58 uniFEA6 by uni067D062E.isol;
+    sub uniFB58 uniFEA2 by uni067D062D.isol;
+    sub uniFB58 uniFE9E by uni067D062C.isol;
+    sub uniFB68 uniFB7D uniFEE4 by uniFB68_uniFB7D_uniFEE4.liga;
+    sub uniFB68 uniFEA8 uniFEE4 by uniFB68_uniFEA8_uniFEE4.liga;
+    sub uniFB68 uniFEA0 uniFEE4 by uniFB68_uniFEA0_uniFEE4.liga;
+    sub uniFB68 uniFEA4 uniFEE4 by uniFB68_uniFEA4_uniFEE4.liga;
+    sub uniFB68 uniFB7D by uni06790686.init;
+    sub uniFB68 uniFEA8 by uni0679062E.init;
+    sub uniFB68 uniFEA4 by uni0679062D.init;
+    sub uniFB68 uniFEA0 by uni0679062C.init;
+    sub uniFB68 uniFB7B by uni06790686.isol;
+    sub uniFB68 uniFEA6 by uni0679062E.isol;
+    sub uniFB68 uniFEA2 by uni0679062D.isol;
+    sub uniFB68 uniFE9E by uni0679062C.isol;
+    sub uniFBFE uniFB7D uniFEE4 by uniFEF3_uniFB7D_uniFEE4.liga;
+    sub uniFBFE uniFEA8 uniFEE4 by uniFEF3_uniFEA8_uniFEE4.liga;
+    sub uniFBFE uniFEA0 uniFEE4 by uniFEF3_uniFEA0_uniFEE4.liga;
+    sub uniFBFE uniFEA4 uniFEE4 by uniFEF3_uniFEA4_uniFEE4.liga;
+    sub uniFBFE uniFB7D by uni064A0686.init;
+    sub uniFBFE uniFB7B by uni064A0686.isol;
+    sub uniFBFE uniFEA8 by uniFCDC;
+    sub uniFBFE uniFEA4 by uniFCDB;
+    sub uniFBFE uniFEA0 by uniFCDA;
+    sub uniFBFE uniFEA6 by uniFC57;
+    sub uniFBFE uniFEA2 by uniFC56;
+    sub uniFBFE uniFE9E by uniFC55;
+    sub uniFE8B uniFB7D uniFEE4 by uniFE8B_uniFB7D_uniFEE4.liga;
+    sub uniFE8B uniFEA8 uniFEE4 by uniFE8B_uniFEA8_uniFEE4.liga;
+    sub uniFE8B uniFEA0 uniFEE4 by uniFE8B_uniFEA0_uniFEE4.liga;
+    sub uniFE8B uniFEA4 uniFEE4 by uniFE8B_uniFEA4_uniFEE4.liga;
+    sub uniFE8B uniFB7D by uni06260686.init;
+    sub uniFE8B uniFB7B by uni06260686.isol;
+    sub uniFE8B uniFEA6 by uni0626062E.isol;
+    sub uniFE8B uniFEA8 by uniFC99;
+    sub uniFE8B uniFEA4 by uniFC98;
+    sub uniFE8B uniFEA0 by uniFC97;
+    sub uniFE8B uniFEA2 by uniFC01;
+    sub uniFE8B uniFE9E by uniFC00;
+    sub uniFE91 uniFB7D uniFEE4 by uniFE91_uniFB7D_uniFEE4.liga;
+    sub uniFE91 uniFEA8 uniFEE4 by uniFE91_uniFEA8_uniFEE4.liga;
+    sub uniFE91 uniFEA0 uniFEE4 by uniFE91_uniFEA0_uniFEE4.liga;
+    sub uniFE91 uniFEA4 uniFEE4 by uniFE91_uniFEA4_uniFEE4.liga;
+    sub uniFE91 uniFB7D by uni06280686.init;
+    sub uniFE91 uniFB7B by uni06280686.isol;
+    sub uniFE91 uniFEA8 by uniFC9E;
+    sub uniFE91 uniFEA4 by uniFC9D;
+    sub uniFE91 uniFEA0 by uniFC9C;
+    sub uniFE91 uniFEA6 by uniFC07;
+    sub uniFE91 uniFEA2 by uniFC06;
+    sub uniFE91 uniFE9E by uniFC05;
+    sub uniFE97 uniFB7D uniFEE4 by uniFE97_uniFB7D_uniFEE4.liga;
+    sub uniFE97 uniFEA8 uniFEE4 by uniFE97_uniFEA8_uniFEE4.liga;
+    sub uniFE97 uniFEA0 uniFEE4 by uniFE97_uniFEA0_uniFEE4.liga;
+    sub uniFE97 uniFEA4 uniFEE4 by uniFE97_uniFEA4_uniFEE4.liga;
+    sub uniFE97 uniFB7D by uni062A0686.init;
+    sub uniFE97 uniFB7B by uni062A0686.isol;
+    sub uniFE97 uniFEA8 by uniFCA3;
+    sub uniFE97 uniFEA4 by uniFCA2;
+    sub uniFE97 uniFEA0 by uniFCA1;
+    sub uniFE97 uniFEA6 by uniFC0D;
+    sub uniFE97 uniFEA2 by uniFC0C;
+    sub uniFE97 uniFE9E by uniFC0B;
+    sub uniFE9B uniFB7D uniFEE4 by uniFE9B_uniFB7D_uniFEE4.liga;
+    sub uniFE9B uniFEA8 uniFEE4 by uniFE9B_uniFEA8_uniFEE4.liga;
+    sub uniFE9B uniFEA0 uniFEE4 by uniFE9B_uniFEA0_uniFEE4.liga;
+    sub uniFE9B uniFEA4 uniFEE4 by uniFE9B_uniFEA4_uniFEE4.liga;
+    sub uniFE9B uniFB7D by uni062B0686.init;
+    sub uniFE9B uniFEA8 by uni062B062E.init;
+    sub uniFE9B uniFEA4 by uni062B062D.init;
+    sub uniFE9B uniFEA0 by uni062B062C.init;
+    sub uniFE9B uniFB7B by uni062B0686.isol;
+    sub uniFE9B uniFEA6 by uni062B062E.isol;
+    sub uniFE9B uniFEA2 by uni062B062D.isol;
+    sub uniFE9B uniFE9E by uniFC11;
+    sub uniFEE7 uniFB7D uniFEE4 by uniFEE7_uniFB7D_uniFEE4.liga;
+    sub uniFEE7 uniFEA8 uniFEE4 by uniFEE7_uniFEA8_uniFEE4.liga;
+    sub uniFEE7 uniFEA0 uniFEE4 by uniFEE7_uniFEA0_uniFEE4.liga;
+    sub uniFEE7 uniFEA4 uniFEE4 by uniFEE7_uniFEA4_uniFEE4.liga;
+    sub uniFEE7 uniFB7D by uni06460686.init;
+    sub uniFEE7 uniFB7B by uni06460686.isol;
+    sub uniFEE7 uniFEA8 by uniFCD4;
+    sub uniFEE7 uniFEA4 by uniFCD3;
+    sub uniFEE7 uniFEA0 by uniFCD2;
+    sub uniFEE7 uniFEA6 by uniFC4D;
+    sub uniFEE7 uniFEA2 by uniFC4C;
+    sub uniFEE7 uniFE9E by uniFC4B;
+    sub glyph2264 uniFB7D uniFEE4 by uniFE91_uniFB7D_uniFEE4.liga;
+    sub glyph2264 uniFEA8 uniFEE4 by uniFE91_uniFEA8_uniFEE4.liga;
+    sub glyph2264 uniFEA0 uniFEE4 by uniFE91_uniFEA0_uniFEE4.liga;
+    sub glyph2264 uniFEA4 uniFEE4 by uniFE91_uniFEA4_uniFEE4.liga;
+    sub glyph2264 uniFB7D by uni06280686.init;
+    sub glyph2264 uniFB7B by uni06280686.isol;
+    sub glyph2264 uniFEA8 by uniFC9E;
+    sub glyph2264 uniFEA4 by uniFC9D;
+    sub glyph2264 uniFEA0 by uniFC9C;
+    sub glyph2264 uniFEA6 by uniFC07;
+    sub glyph2264 uniFEA2 by uniFC06;
+    sub glyph2264 uniFE9E by uniFC05;
+    sub glyph2265 uniFB7D uniFEE4 by uniFE91_uniFB7D_uniFEE4.liga;
+    sub glyph2265 uniFEA8 uniFEE4 by uniFE91_uniFEA8_uniFEE4.liga;
+    sub glyph2265 uniFEA0 uniFEE4 by uniFE91_uniFEA0_uniFEE4.liga;
+    sub glyph2265 uniFEA4 uniFEE4 by uniFE91_uniFEA4_uniFEE4.liga;
+    sub glyph2265 uniFE91 uniFB7D by uni06280686.init;
+    sub glyph2265 uniFB7B by uni06280686.isol;
+    sub glyph2265 uniFEA8 by uniFC9E;
+    sub glyph2265 uniFEA4 by uniFC9D;
+    sub glyph2265 uniFEA0 by uniFC9C;
+    sub glyph2265 uniFEA6 by uniFC07;
+    sub glyph2265 uniFEA2 by uniFC06;
+    sub glyph2265 uniFE9E by uniFC05;
+    sub glyph2266 uniFB7D uniFEE4 by uniFE91_uniFB7D_uniFEE4.liga;
+    sub glyph2266 uniFEA8 uniFEE4 by uniFE91_uniFEA8_uniFEE4.liga;
+    sub glyph2266 uniFEA0 uniFEE4 by uniFE91_uniFEA0_uniFEE4.liga;
+    sub glyph2266 uniFEA4 uniFEE4 by uniFE91_uniFEA4_uniFEE4.liga;
+    sub glyph2266 uniFB7D by uni06280686.init;
+    sub glyph2266 uniFB7B by uni06280686.isol;
+    sub glyph2266 uniFEA8 by uniFC9E;
+    sub glyph2266 uniFEA4 by uniFC9D;
+    sub glyph2266 uniFEA0 by uniFC9C;
+    sub glyph2266 uniFEA6 by uniFC07;
+    sub glyph2266 uniFEA2 by uniFC06;
+    sub glyph2266 uniFE9E by uniFC05;
+    sub glyph2267 uniFB7D uniFEE4 by uniFEF3_uniFB7D_uniFEE4.liga;
+    sub glyph2267 uniFEA8 uniFEE4 by uniFEF3_uniFEA8_uniFEE4.liga;
+    sub glyph2267 uniFEA0 uniFEE4 by uniFEF3_uniFEA0_uniFEE4.liga;
+    sub glyph2267 uniFEA4 uniFEE4 by uniFEF3_uniFEA4_uniFEE4.liga;
+    sub glyph2267 uniFB7D by uni064A0686.init;
+    sub glyph2267 uniFB7B by uni064A0686.isol;
+    sub glyph2267 uniFEA8 by uniFCDC;
+    sub glyph2267 uniFEA4 by uniFCDB;
+    sub glyph2267 uniFEA0 by uniFCDA;
+    sub glyph2267 uniFEA2 by uniFC56;
+    sub glyph2267 uniFE9E by uniFC55;
+    sub glyph2268 uniFB7D uniFEE4 by uniFEF3_uniFB7D_uniFEE4.liga;
+    sub glyph2268 uniFEA8 uniFEE4 by uniFEF3_uniFEA8_uniFEE4.liga;
+    sub glyph2268 uniFEA0 uniFEE4 by uniFEF3_uniFEA0_uniFEE4.liga;
+    sub glyph2268 uniFEA4 uniFEE4 by uniFEF3_uniFEA4_uniFEE4.liga;
+    sub glyph2268 uniFB7D by uni064A0686.init;
+    sub glyph2268 uniFB7B by uni064A0686.isol;
+    sub glyph2268 uniFEA8 by uniFCDC;
+    sub glyph2268 uniFEA4 by uniFCDB;
+    sub glyph2268 uniFEA0 by uniFCDA;
+    sub glyph2268 uniFEA2 by uniFC56;
+    sub glyph2268 uniFE9E by uniFC55;
+    sub glyph2269 uniFB7D uniFEE4 by uniFEF3_uniFB7D_uniFEE4.liga;
+    sub glyph2269 uniFEA8 uniFEE4 by uniFEF3_uniFEA8_uniFEE4.liga;
+    sub glyph2269 uniFEA0 uniFEE4 by uniFEF3_uniFEA0_uniFEE4.liga;
+    sub glyph2269 uniFEA4 uniFEE4 by uniFEF3_uniFEA4_uniFEE4.liga;
+    sub glyph2269 uniFB7D by uni064A0686.init;
+    sub glyph2269 uniFEA8 by uniFCDC;
+    sub glyph2269 uniFEA4 by uniFCDB;
+    sub glyph2269 uniFEA0 by uniFCDA;
+    sub glyph2269 uniFEA2 by uniFC56;
+    sub glyph2269 uniFE9E by uniFC55;
+    sub glyph2270 uniFB7D uniFEE4 by uniFB58_uniFB7D_uniFEE4.liga;
+    sub glyph2270 uniFEA8 uniFEE4 by uniFB58_uniFEA8_uniFEE4.liga;
+    sub glyph2270 uniFEA0 uniFEE4 by uniFB58_uniFEA0_uniFEE4.liga;
+    sub glyph2270 uniFEA4 uniFEE4 by uniFB58_uniFEA4_uniFEE4.liga;
+    sub glyph2270 uniFB7D by uni067D0686.init;
+    sub glyph2270 uniFEA8 by uni067D062E.init;
+    sub glyph2270 uniFEA4 by uni067D062D.init;
+    sub glyph2270 uniFEA0 by uni067D062C.init;
+    sub glyph2270 uniFB7B by uni067D0686.isol;
+    sub glyph2270 uniFEA2 by uni067D062D.isol;
+    sub glyph2270 uniFE9E by uni067D062C.isol;
+    sub glyph2270 uniFEA6 by uniFC57;
+    sub glyph2271 uniFB7D uniFEE4 by uniFB58_uniFB7D_uniFEE4.liga;
+    sub glyph2271 uniFEA8 uniFEE4 by uniFB58_uniFEA8_uniFEE4.liga;
+    sub glyph2271 uniFEA0 uniFEE4 by uniFB58_uniFEA0_uniFEE4.liga;
+    sub glyph2271 uniFEA4 uniFEE4 by uniFB58_uniFEA4_uniFEE4.liga;
+    sub glyph2271 uniFB7D by uni067D0686.init;
+    sub glyph2271 uniFEA8 by uni067D062E.init;
+    sub glyph2271 uniFEA4 by uni067D062D.init;
+    sub glyph2271 uniFEA0 by uni067D062C.init;
+    sub glyph2271 uniFB7B by uni067D0686.isol;
+    sub glyph2271 uniFEA2 by uni067D062D.isol;
+    sub glyph2271 uniFE9E by uni067D062C.isol;
+    sub glyph2271 uniFEA6 by uniFC57;
+    sub glyph2272 uniFB7D uniFEE4 by uniFB58_uniFB7D_uniFEE4.liga;
+    sub glyph2272 uniFEA8 uniFEE4 by uniFB58_uniFEA8_uniFEE4.liga;
+    sub glyph2272 uniFEA0 uniFEE4 by uniFB58_uniFEA0_uniFEE4.liga;
+    sub glyph2272 uniFEA4 uniFEE4 by uniFB58_uniFEA4_uniFEE4.liga;
+    sub glyph2272 uniFB7D by uni067D0686.init;
+    sub glyph2272 uniFEA8 by uni067D062E.init;
+    sub glyph2272 uniFEA4 by uni067D062D.init;
+    sub glyph2272 uniFEA0 by uni067D062C.init;
+    sub glyph2272 uniFB7B by uni067D0686.isol;
+    sub glyph2272 uniFEA2 by uni067D062D.isol;
+    sub glyph2272 uniFE9E by uni067D062C.isol;
+    sub glyph2272 uniFEA6 by uniFC57;
+  } liga_arab_21;
+
+
+  lookup liga_arab_22 {
+  # GSUB lookup 33, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB58 uniFEE2 by uni067D0645.isol;
+    sub uniFB59 uniFEE2 by uni067D0645.fina;
+    sub uniFB68 uniFEE2 by uni06790645.isol;
+    sub uniFB69 uniFEE2 by uni06790645.fina_;
+    sub uniFBFE uniFEE2 by uniFC58;
+    sub uniFBFF uniFEE2 by uniFC93;
+    sub uniFE8B uniFEE2 by uniFC02;
+    sub uniFE8C uniFEE2 by uniFC66;
+    sub uniFE91 uniFEE2 by uniFC08;
+    sub uniFE92 uniFEE2 by uniFC6C;
+    sub uniFE97 uniFEE2 by uniFC0E;
+    sub uniFE98 uniFEE2 by uniFC72;
+    sub uniFE9B uniFEE2 by uniFC12;
+    sub uniFE9C uniFEE2 by uniFC78;
+    sub uniFEE0 uniFEE2 by uniFC85;
+    sub uniFEE7 uniFEE2 by uniFC4E;
+    sub uniFEE8 uniFEE2 by uniFC8C;
+    sub uniFE8C.tall uniFEE2 by uniFC66;
+    sub uniFE92.tall uniFEE2 by uniFC6C;
+    sub uniFE98.tall uniFEE2 by uniFC72;
+    sub uniFE9C.tall uniFEE2 by uniFC78;
+    sub uniFEE8.tall uniFEE2 by uniFC8C;
+    sub uniFEF4.tall uniFEE2 by uniFC93;
+    sub uniFB69.tall uniFEE2 by uni06790645.fina_;
+    sub uniFB59.tall uniFEE2 by uni067D0645.fina;
+    sub glyph2264 uniFEE2 by uniFC08;
+    sub glyph2265 uniFEE2 by uniFC08;
+    sub glyph2266 uniFEE2 by uniFC08;
+    sub glyph2267 uniFEE2 by uniFC58;
+    sub glyph2268 uniFEE2 by uniFC58;
+    sub glyph2269 uniFEE2 by uniFC58;
+    sub glyph2270 uniFEE2 by uni067D0645.isol;
+    sub glyph2271 uniFEE2 by uni067D0645.isol;
+    sub glyph2272 uniFEE2 by uni067D0645.isol;
+  } liga_arab_22;
+
+
+  lookup liga_arab_23 {
+  # GSUB lookup 34, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB59 uniFB9F by uni067D06BA.fina;
+    sub uniFB59 uniFEE6 by uni067D0646.fina;
+    sub uniFB69 uniFB9F by uni067906BA.fina;
+    sub uniFB69 uniFEE6 by uni06790646.fina;
+    sub uniFBFF uniFB9F by uni064A06BA.fina;
+    sub uniFBFF uniFEE6 by uniFC94;
+    sub uniFE8C uniFB9F by uni062606BA.fina;
+    sub uniFE8C uniFEE6 by uniFC67;
+    sub uniFE92 uniFB9F by uni062806BA.fina;
+    sub uniFE92 uniFEE6 by uniFC6D;
+    sub uniFE98 uniFB9F by uni062A06BA.fina;
+    sub uniFE98 uniFEE6 by uniFC73;
+    sub uniFE9C uniFB9F by uni062B06BA.fina;
+    sub uniFE9C uniFEE6 by uniFC79;
+    sub uniFEE8 uniFB9F by uni064606BA.fina;
+    sub uniFEE8 uniFEE6 by uniFC8D;
+    sub uniFE8C.tall uniFB9F by uni062606BA.fina;
+    sub uniFE8C.tall uniFEE6 by uniFC67;
+    sub uniFE92.tall uniFB9F by uni062806BA.fina;
+    sub uniFE92.tall uniFEE6 by uniFC6D;
+    sub uniFE98.tall uniFB9F by uni062A06BA.fina;
+    sub uniFE98.tall uniFEE6 by uniFC73;
+    sub uniFE9C.tall uniFB9F by uni062B06BA.fina;
+    sub uniFE9C.tall uniFEE6 by uniFC79;
+    sub uniFEE8.tall uniFB9F by uni064606BA.fina;
+    sub uniFEE8.tall uniFEE6 by uniFC8D;
+    sub uniFEF4.tall uniFB9F by uni064A06BA.fina;
+    sub uniFEF4.tall uniFEE6 by uniFC94;
+    sub uniFB69.tall uniFB9F by uni067906BA.fina;
+    sub uniFB69.tall uniFEE6 by uni06790646.fina;
+  } liga_arab_23;
+
+
+  lookup liga_arab_24 {
+  # GSUB lookup 35, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB59 uniFB8D by uni067D0691.fina;
+    sub uniFB59 uniFEB0 by uni067D0632.fina;
+    sub uniFB59 uniFEAE by uni067D0631.fina;
+    sub uniFB69 uniFB8D by uni06790691.fina;
+    sub uniFB69 uniFEB0 by uni06790632.fina;
+    sub uniFB69 uniFEAE by uni06790631.fina;
+    sub uniFBFF uniFB8D by uni064A0691.fina;
+    sub uniFBFF uniFEB0 by uniFC92;
+    sub uniFBFF uniFEAE by uniFC91;
+    sub uniFE8C uniFB8D by uni06260691.fina;
+    sub uniFE8C uniFEB0 by uniFC65;
+    sub uniFE8C uniFEAE by uniFC64;
+    sub uniFE92 uniFB8D by uni06280691.fina;
+    sub uniFE92 uniFEB0 by uniFC6B;
+    sub uniFE92 uniFEAE by uniFC6A;
+    sub uniFE98 uniFB8D by uni062A0691.fina;
+    sub uniFE98 uniFEB0 by uniFC71;
+    sub uniFE98 uniFEAE by uniFC70;
+    sub uniFE9C uniFB8D by uni062B0691.fina;
+    sub uniFE9C uniFEB0 by uniFC77;
+    sub uniFE9C uniFEAE by uniFC76;
+    sub uniFEE8 uniFB8D by uni06460691.fina;
+    sub uniFEE8 uniFEB0 by uniFC8B;
+    sub uniFEE8 uniFEAE by uniFC8A;
+    sub uniFE8C.tall uniFB8D by uni06260691.fina;
+    sub uniFE8C.tall uniFEB0 by uniFC65;
+    sub uniFE8C.tall uniFEAE by uniFC64;
+    sub uniFE92.tall uniFB8D by uni06280691.fina;
+    sub uniFE92.tall uniFEB0 by uniFC6B;
+    sub uniFE92.tall uniFEAE by uniFC6A;
+    sub uniFE98.tall uniFB8D by uni062A0691.fina;
+    sub uniFE98.tall uniFEB0 by uniFC71;
+    sub uniFE98.tall uniFEAE by uniFC70;
+    sub uniFE9C.tall uniFB8D by uni062B0691.fina;
+    sub uniFE9C.tall uniFEB0 by uniFC77;
+    sub uniFE9C.tall uniFEAE by uniFC76;
+    sub uniFEE8.tall uniFB8D by uni06460691.fina;
+    sub uniFEE8.tall uniFEB0 by uniFC8B;
+    sub uniFEE8.tall uniFEAE by uniFC8A;
+    sub uniFEF4.tall uniFB8D by uni064A0691.fina;
+    sub uniFEF4.tall uniFEB0 by uniFC92;
+    sub uniFEF4.tall uniFEAE by uniFC91;
+    sub uniFB69.tall uniFB8D by uni06790691.fina;
+    sub uniFB69.tall uniFEB0 by uni06790632.fina;
+    sub uniFB69.tall uniFEAE by uni06790631.fina;
+    sub uniFB59.tall uniFB8D by uni067D0691.fina;
+    sub uniFB59.tall uniFEB0 by uni067D0632.fina;
+    sub uniFB59.tall uniFEAE by uni067D0631.fina;
+  } liga_arab_24;
+
+
+  lookup liga_arab_25 {
+  # GSUB lookup 36, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub @isol_liga3 [uni0631 uni0632 uni0691]' lookup liga_arab_11;
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 [uniFEB3 uniFEB4 uniFEB7 uniFEB8];
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 uni0633;
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 uni0634;
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 uni0648;
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 uni0677;
+    sub [uni0631 uni0632 uni0691]' lookup liga_arab_11 uni0676;
+  } liga_arab_25;
+
+
+  lookup liga_arab_26 {
+  # GSUB lookup 37, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFB58 uniFEF2 by uni067D064A.isol;
+    sub uniFB58 uniFBFD by uni067D0649.isol;
+    sub uniFB58 uniFEF0 by uni067D0649.isol;
+    sub uniFB59 uniFEF2 by uni067D064A.fina;
+    sub uniFB59 uniFBFD by uni067D0649.fina;
+    sub uniFB59 uniFEF0 by uni067D0649.fina;
+    sub uniFB68 uniFE8A by uni06790626.isol;
+    sub uniFB68 uniFEF2 by uni0679064A.isol;
+    sub uniFB68 uniFBFD by uni06790649.isol;
+    sub uniFB68 uniFEF0 by uni06790649.isol;
+    sub uniFB69 uniFE8A by uni06790626.fina;
+    sub uniFB69 uniFEF2 by uni0679064A.fina;
+    sub uniFB69 uniFBFD by uni06790649.fina;
+    sub uniFB69 uniFEF0 by uni06790649.fina;
+    sub uniFBFE uniFE8A by uni064A0626.isol;
+    sub uniFBFE uniFEF2 by uniFC5A;
+    sub uniFBFE uniFBFD by uniFC59;
+    sub uniFBFE uniFEF0 by uniFC59;
+    sub uniFBFF uniFE8A by uni064A0626.fina;
+    sub uniFBFF uniFEF2 by uniFC96;
+    sub uniFBFF uniFBFD by uniFC95;
+    sub uniFBFF uniFEF0 by uniFC95;
+    sub uniFE8B uniFE8A by uni06260626.isol;
+    sub uniFE8B uniFEF2 by uniFC04;
+    sub uniFE8B uniFBFD by uniFC03;
+    sub uniFE8B uniFEF0 by uniFC03;
+    sub uniFE8C uniFE8A by uni06260626.fina;
+    sub uniFE8C uniFEF2 by uniFC69;
+    sub uniFE8C uniFBFD by uniFC68;
+    sub uniFE8C uniFEF0 by uniFC68;
+    sub uniFE91 uniFE8A by uni06280626.isol;
+    sub uniFE91 uniFEF2 by uniFC0A;
+    sub uniFE91 uniFEF0 by uniFC09;
+    sub uniFE92 uniFE8A by uni06280626.fina;
+    sub uniFE92 uniFEF2 by uniFC6F;
+    sub uniFE92 uniFBFD by uniFC6E;
+    sub uniFE92 uniFEF0 by uniFC6E;
+    sub uniFE97 uniFE8A by uni062A0626.isol;
+    sub uniFE97 uniFEF2 by uniFC10;
+    sub uniFE97 uniFBFD by uniFC0F;
+    sub uniFE97 uniFEF0 by uniFC0F;
+    sub uniFE98 uniFE8A by uni062A0626.fina;
+    sub uniFE98 uniFEF2 by uniFC75;
+    sub uniFE98 uniFBFD by uniFC74;
+    sub uniFE98 uniFEF0 by uniFC74;
+    sub uniFE9B uniFE8A by uni062B0626.isol;
+    sub uniFE9B uniFEF2 by uniFC14;
+    sub uniFE9B uniFBFD by uniFC13;
+    sub uniFE9B uniFEF0 by uniFC13;
+    sub uniFE9C uniFE8A by uni062B0626.fina;
+    sub uniFE9C uniFEF2 by uniFC7B;
+    sub uniFE9C uniFBFD by uniFC7A;
+    sub uniFE9C uniFEF0 by uniFC7A;
+    sub uniFEE7 uniFE8A by uni06460626.isol;
+    sub uniFEE7 uniFEF2 by uniFC50;
+    sub uniFEE7 uniFBFD by uniFC4F;
+    sub uniFEE7 uniFEF0 by uniFC4F;
+    sub uniFEE8 uniFE8A by uni06460626.fina;
+    sub uniFEE8 uniFEF2 by uniFC8F;
+    sub uniFEE8 uniFBFD by uniFC8E;
+    sub uniFEE8 uniFEF0 by uniFC8E;
+    sub uniFE8C.tall uniFE8A by uni06260626.fina;
+    sub uniFE8C.tall uniFEF2 by uniFC69;
+    sub uniFE8C.tall uniFBFD by uniFC68;
+    sub uniFE8C.tall uniFEF0 by uniFC68;
+    sub uniFE92.tall uniFE8A by uni06280626.fina;
+    sub uniFE92.tall uniFEF2 by uniFC6F;
+    sub uniFE92.tall uniFBFD by uniFC6E;
+    sub uniFE92.tall uniFEF0 by uniFC6E;
+    sub uniFE98.tall uniFE8A by uni062A0626.fina;
+    sub uniFE98.tall uniFEF2 by uniFC75;
+    sub uniFE98.tall uniFBFD by uniFC74;
+    sub uniFE98.tall uniFEF0 by uniFC74;
+    sub uniFE9C.tall uniFE8A by uni062B0626.fina;
+    sub uniFE9C.tall uniFEF2 by uniFC7B;
+    sub uniFE9C.tall uniFBFD by uniFC7A;
+    sub uniFE9C.tall uniFEF0 by uniFC7A;
+    sub uniFEE8.tall uniFE8A by uni06460626.fina;
+    sub uniFEE8.tall uniFEF2 by uniFC8F;
+    sub uniFEE8.tall uniFBFD by uniFC8E;
+    sub uniFEE8.tall uniFEF0 by uniFC8E;
+    sub uniFEF4.tall uniFE8A by uni064A0626.fina;
+    sub uniFEF4.tall uniFEF2 by uniFC96;
+    sub uniFEF4.tall uniFBFD by uniFC95;
+    sub uniFEF4.tall uniFEF0 by uniFC95;
+    sub uniFB69.tall uniFE8A by uni06790626.fina;
+    sub uniFB69.tall uniFEF2 by uni0679064A.fina;
+    sub uniFB69.tall uniFBFD by uni06790649.fina;
+    sub uniFB69.tall uniFEF0 by uni06790649.fina;
+    sub uniFB59.tall uniFEF2 by uni067D064A.fina;
+    sub uniFB59.tall uniFBFD by uni067D0649.fina;
+    sub uniFB59.tall uniFEF0 by uni067D0649.fina;
+    sub glyph2264 uniFEF2 by uniFC0A;
+    sub glyph2264 uniFEF0 by uniFC09;
+    sub glyph2265 uniFEF2 by uniFC0A;
+    sub glyph2265 uniFEF0 by uniFC09;
+    sub glyph2266 uniFEF2 by uniFC0A;
+    sub glyph2266 uniFEF0 by uniFC09;
+    sub glyph2267 uniFEF2 by uniFC5A;
+    sub glyph2267 uniFEF0 by uniFC59;
+    sub glyph2268 uniFEF2 by uniFC5A;
+    sub glyph2268 uniFEF0 by uniFC59;
+    sub glyph2269 uniFEF2 by uniFC5A;
+    sub glyph2269 uniFEF0 by uniFC59;
+  } liga_arab_26;
+
+
+  lookup liga_arab_27 {
+  # GSUB lookup 38, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uniFB94 glyph1941 by glyph1943;
+    sub uniFEDB glyph1941 by uniFEDB_uniFBAB.liga;
+  } liga_arab_27;
+
+
+  lookup liga_arab_28 {
+  # GSUB lookup 39, type 14 (Ligature)
+    lookupflag RightToLeft;
+    sub uniFB7C glyph1941 by uniFE9F_uniFBAB.liga;
+    sub uniFE9F glyph1941 by uniFE9F_uniFBAB.liga;
+    sub uniFEA3 glyph1941 by uniFE9F_uniFBAB.liga;
+    sub uniFEA7 glyph1941 by uniFE9F_uniFBAB.liga;
+  } liga_arab_28;
+
+
+  lookup liga_arab_29 {
+  # GSUB lookup 40, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub @liga3' lookup liga_arab_11 @liga11;
+  } liga_arab_29;
+
+
+  lookup liga_arab_30 {
+  # GSUB lookup 41, type 16 (Chaining Context)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @liga2 @liga2' lookup liga_arab_31 @liga2;
+  } liga_arab_30;
+
+
+  lookup liga_arab_32 {
+  # GSUB lookup 43, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub @liga3' lookup liga_arab_31 @liga12;
+  } liga_arab_32;
+
+
+  lookup liga_arab_33 {
+  # GSUB lookup 44, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub @liga9' lookup liga_arab_31 @liga13;
+    sub @liga3 @liga9' lookup liga_arab_31 @liga2 uniFEF0;
+    sub @liga2 @liga9' lookup liga_arab_31 @liga2 uniFEF0;
+    sub @liga3 @liga9' lookup liga_arab_31 @liga2 uniFEF2;
+    sub @liga2 @liga9' lookup liga_arab_31 @liga2 uniFEF2;
+    sub @liga9' lookup liga_arab_31 @liga2 uniFEE2;
+    sub @liga9' lookup liga_arab_31 [uniFB59 uniFBFF uniFE92] uniFEE2;
+    sub @liga9' lookup liga_arab_31 @liga2 uniFEAE;
+    sub @liga9' lookup liga_arab_31 @liga2 uniFEB0;
+    sub @liga9' lookup liga_arab_31 @liga2 uniFB8D;
+    sub @liga9' lookup liga_arab_31 @liga2 uniFB9F;
+    sub @liga9' lookup liga_arab_31 @liga14;
+  } liga_arab_33;
+
+
+  lookup liga_arab_34 {
+  # GSUB lookup 45, type 16 (Chaining Context)
+    lookupflag RightToLeft;
+    sub uni0627 uniFEFB' lookup liga_arab_31 space;
+  } liga_arab_34;";
+tag = liga;
+},
+{
+code = "# GSUB feature: Medial Forms
+# Lookups: 1
+
+  script arab; # Arabic
+
+  lookup medi_arab_1 {
+  # GSUB lookup 46, type 11 (Single)
+    lookupflag IgnoreMarks RightToLeft;
+    sub @init_medi by @medi;
+  } medi_arab_1;";
+tag = medi;
+},
+{
+code = "# GSUB feature: Required Ligatures
+# Lookups: 1
+
+  script arab; # Arabic
+
+  lookup rlig_arab_1 {
+  # GSUB lookup 47, type 14 (Ligature)
+    lookupflag IgnoreMarks RightToLeft;
+    sub uniFEDF uniFE8E by uniFEFB;
+    sub uniFEDF uniFE88 by uniFEF9;
+    sub uniFEDF uniFE84 by uniFEF7;
+    sub uniFEDF uniFE82 by uniFEF5;
+    sub uniFEDF uniFE8E.short by uniFEFB.alt1;
+    sub uniFEE0 uniFE8E.short by uniFEFC.alt1;
+    sub uniFEE0 uniFE8E by uniFEFC;
+    sub uniFEE0 uniFE88 by uniFEFA;
+    sub uniFEE0 uniFE84 by uniFEF8;
+    sub uniFEE0 uniFE82 by uniFEF6;
+  } rlig_arab_1;";
+tag = rlig;
+},
+{
+code = "# GPOS feature: Mark Positioning
+# Lookups: 1
+
+  script arab; # Arabic
+
+  lookup mark_arab_1 {
+  # GPOS lookup 1, type 4 (MarkToBase attachment)
+    lookupflag RightToLeft;
+    markClass uni064B <anchor 114 0> @t.uni064B;
+    markClass uni064C <anchor 171 0> @t.uni064B;
+    markClass uni064E <anchor 114 0> @t.uni064B;
+    markClass uni064F <anchor 100 0> @t.uni064B;
+    markClass uni0651 <anchor 128 0> @t.uni064B;
+    markClass uni0652 <anchor 71 0> @t.uni064B;
+    markClass uni0653 <anchor 228 0> @t.uni064B;
+    markClass uni0654 <anchor 128 0> @t.uni064B;
+    markClass uni0670 <anchor -200 -200> @t.uni064B;
+    markClass uni06D6 <anchor 0 0> @t.uni064B;
+    markClass uni06D7 <anchor 0 0> @t.uni064B;
+    markClass uni06D8 <anchor 0 0> @t.uni064B;
+    markClass uni06D9 <anchor 0 -29> @t.uni064B;
+    markClass uni06DA <anchor 0 0> @t.uni064B;
+    markClass uni06DB <anchor 0 0> @t.uni064B;
+    markClass uni06DC <anchor 0 0> @t.uni064B;
+    markClass uni06DF <anchor 0 0> @t.uni064B;
+    markClass uni06E0 <anchor 0 0> @t.uni064B;
+    markClass uni06E1 <anchor 0 0> @t.uni064B;
+    markClass uni06E2 <anchor 0 0> @t.uni064B;
+    markClass uni06E4 <anchor 0 0> @t.uni064B;
+    markClass uni06E7 <anchor 0 0> @t.uni064B;
+    markClass uni06E8 <anchor 0 0> @t.uni064B;
+    markClass uni06EB <anchor 0 0> @t.uni064B;
+    markClass uni06EC <anchor 0 0> @t.uni064B;
+    markClass uni0651064B <anchor 128 0> @t.uni064B;
+    markClass uni0651064C <anchor 128 0> @t.uni064B;
+    markClass uni0651064D <anchor 128 -214> @t.uni064B;
+    markClass uni0651064E <anchor 128 0> @t.uni064B;
+    markClass uni0651064F <anchor 128 0> @t.uni064B;
+    markClass uni06510650 <anchor 128 -128> @t.uni064B;
+    markClass uni06510670 <anchor 128 0> @t.uni064B;
+    markClass uni0654064E <anchor 128 0> @t.uni064B;
+    markClass uni0654064F <anchor 128 0> @t.uni064B;
+    markClass uni06540652 <anchor 128 0> @t.uni064B;
+    markClass uni064D <anchor 114 0> @b.uni064D_1;
+    markClass uni0650 <anchor 114 0> @b.uni064D_1;
+    markClass uni0655 <anchor 143 0> @b.uni064D_1;
+    markClass uni06E3 <anchor 114 71> @b.uni064D_1;
+    markClass uni06EA <anchor 71 0> @b.uni064D_1;
+    markClass uni06ED <anchor 0 0> @b.uni064D_1;
+    markClass uni06550650 <anchor 114 0> @b.uni064D_1;
+    pos base uni0621
+        <anchor 186 785> mark @t.uni064B
+        <anchor 314 -257> mark @b.uni064D_1;
+    pos base uni0622
+        <anchor 43 1470> mark @t.uni064B
+        <anchor 114 -228> mark @b.uni064D_1;
+    pos base uni0623
+        <anchor 14 1899> mark @t.uni064B
+        <anchor 114 -143> mark @b.uni064D_1;
+    pos base uni0624
+        <anchor 171 1442> mark @t.uni064B
+        <anchor 114 -628> mark @b.uni064D_1;
+    pos base uni0625
+        <anchor 100 1599> mark @t.uni064B
+        <anchor 57 -457> mark @b.uni064D_1;
+    pos base uni0626
+        <anchor 385 1171> mark @t.uni064B
+        <anchor 428 -400> mark @b.uni064D_1;
+    pos base uni0627
+        <anchor 14 1542> mark @t.uni064B
+        <anchor 157 -186> mark @b.uni064D_1;
+    pos base uni0628
+        <anchor 571 761> mark @t.uni064B
+        <anchor 585 -557> mark @b.uni064D_1;
+    pos base uni0629
+        <anchor 214 1318> mark @t.uni064B
+        <anchor 200 -271> mark @b.uni064D_1;
+    pos base uni062A
+        <anchor 571 1156> mark @t.uni064B
+        <anchor 542 -343> mark @b.uni064D_1;
+    pos base uni062B
+        <anchor 628 1385> mark @t.uni064B
+        <anchor 585 -300> mark @b.uni064D_1;
+    pos base uni062C
+        <anchor 528 918> mark @t.uni064B
+        <anchor 561 -1042> mark @b.uni064D_1;
+    pos base uni062D
+        <anchor 500 961> mark @t.uni064B
+        <anchor 533 -1085> mark @b.uni064D_1;
+    pos base uni062E
+        <anchor 514 1561> mark @t.uni064B
+        <anchor 490 -1028> mark @b.uni064D_1;
+    pos base uni062F
+        <anchor 257 799> mark @t.uni064B
+        <anchor 271 -200> mark @b.uni064D_1;
+    pos base uni0630
+        <anchor 300 1356> mark @t.uni064B
+        <anchor 271 -200> mark @b.uni064D_1;
+    pos base uni0631
+        <anchor 300 642> mark @t.uni064B
+        <anchor 29 -657> mark @b.uni064D_1;
+    pos base uni0632
+        <anchor 200 1228> mark @t.uni064B
+        <anchor 14 -757> mark @b.uni064D_1;
+    pos base uni0633
+        <anchor 914 714> mark @t.uni064B
+        <anchor 757 -671> mark @b.uni064D_1;
+    pos base uni0634
+        <anchor 1028 1213> mark @t.uni064B
+        <anchor 757 -642> mark @b.uni064D_1;
+    pos base uni0635
+        <anchor 1213 1075> mark @t.uni064B
+        <anchor 585 -714> mark @b.uni064D_1;
+    pos base uni0636
+        <anchor 1171 1142> mark @t.uni064B
+        <anchor 714 -771> mark @b.uni064D_1;
+    pos base uni0637
+        <anchor 542 1485> mark @t.uni064B
+        <anchor 443 -233> mark @b.uni064D_1;
+    pos base uni0638
+        <anchor 557 1527> mark @t.uni064B
+        <anchor 528 -390> mark @b.uni064D_1;
+    pos base uni0639
+        <anchor 271 1461> mark @t.uni064B
+        <anchor 457 -928> mark @b.uni064D_1;
+    pos base uni063A
+        <anchor 471 1642> mark @t.uni064B
+        <anchor 471 -942> mark @b.uni064D_1;
+    pos base uni0640
+        <anchor 128 666> mark @t.uni064B
+        <anchor 128 -200> mark @b.uni064D_1;
+    pos base uni0641
+        <anchor 523 942> mark @t.uni064B
+        <anchor 557 -200> mark @b.uni064D_1;
+    pos base uni0642
+        <anchor 428 1042> mark @t.uni064B
+        <anchor 371 -500> mark @b.uni064D_1;
+    pos base uni0643
+        <anchor 471 1199> mark @t.uni064B
+        <anchor 457 -200> mark @b.uni064D_1;
+    pos base uni0644
+        <anchor 314 1285> mark @t.uni064B
+        <anchor 385 -343> mark @b.uni064D_1;
+    pos base uni0645
+        <anchor 228 666> mark @t.uni064B
+        <anchor 171 -1014> mark @b.uni064D_1;
+    pos base uni0646
+        <anchor 385 1413> mark @t.uni064B
+        <anchor 385 -500> mark @b.uni064D_1;
+    pos base uni0647
+        <anchor 228 1009> mark @t.uni064B
+        <anchor 228 -300> mark @b.uni064D_1;
+    pos base uni0648
+        <anchor 257 780> mark @t.uni064B
+        <anchor 43 -642> mark @b.uni064D_1;
+    pos base uni0649
+        <anchor 443 799> mark @t.uni064B
+        <anchor 414 -400> mark @b.uni064D_1;
+    pos base uni064A
+        <anchor 443 799> mark @t.uni064B
+        <anchor 371 -799> mark @b.uni064D_1;
+    pos base uni0671
+        <anchor 57 1670> mark @t.uni064B
+        <anchor 86 -300> mark @b.uni064D_1;
+    pos base uni0672
+        <anchor 14 1899> mark @t.uni064B
+        <anchor 128 -286> mark @b.uni064D_1;
+    pos base uni0673
+        <anchor 0 1542> mark @t.uni064B
+        <anchor 86 -614> mark @b.uni064D_1;
+    pos base uni0674
+        <anchor 29 1642> mark @t.uni064B
+        <anchor 143 -200> mark @b.uni064D_1;
+    pos base uni0675
+        <anchor 29 1984> mark @t.uni064B
+        <anchor 86 -343> mark @b.uni064D_1;
+    pos base uni0676
+        <anchor 71 1385> mark @t.uni064B
+        <anchor 143 -542> mark @b.uni064D_1;
+    pos base uni0677
+        <anchor 57 1370> mark @t.uni064B
+        <anchor 71 -585> mark @b.uni064D_1;
+    pos base uni0678
+        <anchor 814 1242> mark @t.uni064B
+        <anchor 457 -400> mark @b.uni064D_1;
+    pos base uni0679
+        <anchor 428 1399> mark @t.uni064B
+        <anchor 485 -328> mark @b.uni064D_1;
+    pos base uni067E
+        <anchor 471 971> mark @t.uni064B
+        <anchor 471 -828> mark @b.uni064D_1;
+    pos base uni0686
+        <anchor 514 1018> mark @t.uni064B
+        <anchor 576 -1071> mark @b.uni064D_1;
+    pos base uni0688
+        <anchor 257 1299> mark @t.uni064B
+        <anchor 271 -343> mark @b.uni064D_1;
+    pos base uni0691
+        <anchor 228 1370> mark @t.uni064B
+        <anchor 29 -671> mark @b.uni064D_1;
+    pos base uni06A1
+        <anchor 571 761> mark @t.uni064B
+        <anchor 528 -200> mark @b.uni064D_1;
+    pos base uni06A9
+        <anchor 452 1190> mark @t.uni064B
+        <anchor 600 -357> mark @b.uni064D_1;
+    pos base uni06AF
+        <anchor 423 1247> mark @t.uni064B
+        <anchor 514 -300> mark @b.uni064D_1;
+    pos base uni06BA
+        <anchor 385 1028> mark @t.uni064B
+        <anchor 457 -528> mark @b.uni064D_1;
+    pos base uni06BE
+        <anchor 471 904> mark @t.uni064B
+        <anchor 485 -414> mark @b.uni064D_1;
+    pos base uni06C0
+        <anchor 257 899> mark @t.uni064B
+        <anchor 286 -200> mark @b.uni064D_1;
+    pos base uni06C1
+        <anchor 300 1099> mark @t.uni064B
+        <anchor 485 -428> mark @b.uni064D_1;
+    pos base uni06CC
+        <anchor 485 999> mark @t.uni064B
+        <anchor 428 -400> mark @b.uni064D_1;
+    pos base uni06D2
+        <anchor 309 880> mark @t.uni064B
+        <anchor 500 -400> mark @b.uni064D_1;
+    pos base uni06D3
+        <anchor 423 1413> mark @t.uni064B
+        <anchor 514 -457> mark @b.uni064D_1;
+    pos base uni06D5
+        <anchor 214 1113> mark @t.uni064B
+        <anchor 214 -271> mark @b.uni064D_1;
+    pos base uni25CC
+        <anchor 300 1113> mark @t.uni064B
+        <anchor 457 -190> mark @b.uni064D_1;
+    pos base uniFB51
+        <anchor 14 1899> mark @t.uni064B
+        <anchor 228 -200> mark @b.uni064D_1;
+    pos base uniFB57
+        <anchor 514 714> mark @t.uni064B
+        <anchor 642 -828> mark @b.uni064D_1;
+    pos base uniFB58
+        <anchor -14 1028> mark @t.uni064B
+        <anchor 100 -814> mark @b.uni064D_1;
+    pos base uniFB59
+        <anchor 29 885> mark @t.uni064B
+        <anchor 128 -942> mark @b.uni064D_1;
+    pos base uniFB67
+        <anchor 514 1213> mark @t.uni064B
+        <anchor 528 -200> mark @b.uni064D_1;
+    pos base uniFB68
+        <anchor 14 1285> mark @t.uni064B
+        <anchor 29 -371> mark @b.uni064D_1;
+    pos base uniFB69
+        <anchor 14 1228> mark @t.uni064B
+        <anchor 100 -428> mark @b.uni064D_1;
+    pos base uniFB7B
+        <anchor 412 1071> mark @t.uni064B
+        <anchor 583 -999> mark @b.uni064D_1;
+    pos base uniFB7C
+        <anchor 228 899> mark @t.uni064B
+        <anchor 400 -557> mark @b.uni064D_1;
+    pos base uniFB7D
+        <anchor 314 1099> mark @t.uni064B
+        <anchor 400 -557> mark @b.uni064D_1;
+    pos base uniFB89
+        <anchor 414 1542> mark @t.uni064B
+        <anchor 414 -300> mark @b.uni064D_1;
+    pos base uniFB8D
+        <anchor 271 1313> mark @t.uni064B
+        <anchor 157 -714> mark @b.uni064D_1;
+    pos base uniFB8F
+        <anchor 414 1599> mark @t.uni064B
+        <anchor 585 -300> mark @b.uni064D_1;
+    pos base uniFB90
+        <anchor 86 1556> mark @t.uni064B
+        <anchor 57 -371> mark @b.uni064D_1;
+    pos base uniFB91
+        <anchor 71 1656> mark @t.uni064B
+        <anchor 157 -343> mark @b.uni064D_1;
+    pos base uniFB93
+        <anchor 385 1071> mark @t.uni064B
+        <anchor 542 -314> mark @b.uni064D_1;
+    pos base uniFB94
+        <anchor 143 1656> mark @t.uni064B
+        <anchor 157 -300> mark @b.uni064D_1;
+    pos base uniFB95
+        <anchor 29 1913> mark @t.uni064B
+        <anchor 186 -400> mark @b.uni064D_1;
+    pos base uniFB9F
+        <anchor 400 600> mark @t.uni064B
+        <anchor 414 -628> mark @b.uni064D_1;
+    pos base uniFBA1
+        <anchor 385 771> mark @t.uni064B
+        <anchor 371 -485> mark @b.uni064D_1;
+    pos base uniFBA5
+        <anchor 300 1056> mark @t.uni064B
+        <anchor 286 -200> mark @b.uni064D_1;
+    pos base uniFBA8
+        <anchor 186 628> mark @t.uni064B
+        <anchor 171 -514> mark @b.uni064D_1;
+    pos base uniFBA9
+        <anchor 243 842> mark @t.uni064B
+        <anchor 243 -699> mark @b.uni064D_1;
+    pos base uniFBAB
+        <anchor 414 685> mark @t.uni064B
+        <anchor 457 -485> mark @b.uni064D_1;
+    pos base uniFBAC
+        <anchor 214 1085> mark @t.uni064B
+        <anchor 214 -200> mark @b.uni064D_1;
+    pos base uniFBAD
+        <anchor 128 1099> mark @t.uni064B
+        <anchor 186 -585> mark @b.uni064D_1;
+    pos base uniFBAF
+        <anchor 286 371> mark @t.uni064B
+        <anchor 414 -457> mark @b.uni064D_1;
+    pos base uniFBB1
+        <anchor 241 899> mark @t.uni064B
+        <anchor 355 -528> mark @b.uni064D_1;
+    pos base uniFBD8
+        <anchor 414 828> mark @t.uni064B
+        <anchor 271 -514> mark @b.uni064D_1;
+    pos base uniFBE8
+        <anchor 171 628> mark @t.uni064B
+        <anchor 171 -200> mark @b.uni064D_1;
+    pos base uniFBE9
+        <anchor 186 585> mark @t.uni064B
+        <anchor 186 -200> mark @b.uni064D_1;
+    pos base uniFBFD
+        <anchor 400 471> mark @t.uni064B
+        <anchor 400 -600> mark @b.uni064D_1;
+    pos base uniFBFE
+        <anchor 14 842> mark @t.uni064B
+        <anchor 29 -714> mark @b.uni064D_1;
+    pos base uniFBFF
+        <anchor 86 757> mark @t.uni064B
+        <anchor 86 -771> mark @b.uni064D_1;
+    pos base uniFE82
+        <anchor 100 1756> mark @t.uni064B
+        <anchor 228 -200> mark @b.uni064D_1;
+    pos base uniFE84
+        <anchor 43 2027> mark @t.uni064B
+        <anchor 200 -200> mark @b.uni064D_1;
+    pos base uniFE86
+        <anchor 228 1270> mark @t.uni064B
+        <anchor 157 -685> mark @b.uni064D_1;
+    pos base uniFE88
+        <anchor 43 1570> mark @t.uni064B
+        <anchor 243 -714> mark @b.uni064D_1;
+    pos base uniFE8A
+        <anchor 414 899> mark @t.uni064B
+        <anchor 457 -771> mark @b.uni064D_1;
+    pos base uniFE8B
+        <anchor 14 1413> mark @t.uni064B
+        <anchor 14 -443> mark @b.uni064D_1;
+    pos base uniFE8C
+        <anchor 43 1256> mark @t.uni064B
+        <anchor 57 -514> mark @b.uni064D_1;
+    pos base uniFE8E
+        <anchor 0 1670> mark @t.uni064B
+        <anchor 157 -271> mark @b.uni064D_1;
+    pos base uniFE90
+        <anchor 514 1137> mark @t.uni064B
+        <anchor 514 -614> mark @b.uni064D_1;
+    pos base uniFE91
+        <anchor 29 1085> mark @t.uni064B
+        <anchor 29 -671> mark @b.uni064D_1;
+    pos base uniFE92
+        <anchor 0 942> mark @t.uni064B
+        <anchor 29 -728> mark @b.uni064D_1;
+    pos base uniFE94
+        <anchor 300 1499> mark @t.uni064B
+        <anchor 286 -200> mark @b.uni064D_1;
+    pos base uniFE96
+        <anchor 614 1128> mark @t.uni064B
+        <anchor 557 -200> mark @b.uni064D_1;
+    pos base uniFE97
+        <anchor 14 1299> mark @t.uni064B
+        <anchor 29 -385> mark @b.uni064D_1;
+    pos base uniFE98
+        <anchor 14 1228> mark @t.uni064B
+        <anchor 71 -471> mark @b.uni064D_1;
+    pos base uniFE9A
+        <anchor 600 1171> mark @t.uni064B
+        <anchor 600 -271> mark @b.uni064D_1;
+    pos base uniFE9B
+        <anchor 29 1385> mark @t.uni064B
+        <anchor 14 -357> mark @b.uni064D_1;
+    pos base uniFE9C
+        <anchor 29 1470> mark @t.uni064B
+        <anchor 43 -471> mark @b.uni064D_1;
+    pos base uniFE9E
+        <anchor 435 1128> mark @t.uni064B
+        <anchor 426 -999> mark @b.uni064D_1;
+    pos base uniFE9F
+        <anchor 271 880> mark @t.uni064B
+        <anchor 314 -600> mark @b.uni064D_1;
+    pos base uniFEA0
+        <anchor 243 1094> mark @t.uni064B
+        <anchor 343 -714> mark @b.uni064D_1;
+    pos base uniFEA2
+        <anchor 423 1071> mark @t.uni064B
+        <anchor 500 -999> mark @b.uni064D_1;
+    pos base uniFEA3
+        <anchor 257 823> mark @t.uni064B
+        <anchor 343 -300> mark @b.uni064D_1;
+    pos base uniFEA4
+        <anchor 286 909> mark @t.uni064B
+        <anchor 385 -200> mark @b.uni064D_1;
+    pos base uniFEA6
+        <anchor 492 1513> mark @t.uni064B
+        <anchor 511 -1028> mark @b.uni064D_1;
+    pos base uniFEA7
+        <anchor 257 1180> mark @t.uni064B
+        <anchor 357 -186> mark @b.uni064D_1;
+    pos base uniFEA8
+        <anchor 314 1209> mark @t.uni064B
+        <anchor 343 -200> mark @b.uni064D_1;
+    pos base uniFEAA
+        <anchor 428 1066> mark @t.uni064B
+        <anchor 371 -200> mark @b.uni064D_1;
+    pos base uniFEAC
+        <anchor 414 1428> mark @t.uni064B
+        <anchor 371 -200> mark @b.uni064D_1;
+    pos base uniFEAE
+        <anchor 224 814> mark @t.uni064B
+        <anchor 128 -742> mark @b.uni064D_1;
+    pos base uniFEB0
+        <anchor 138 1199> mark @t.uni064B
+        <anchor 114 -685> mark @b.uni064D_1;
+    pos base uniFEB2
+        <anchor 885 885> mark @t.uni064B
+        <anchor 714 -614> mark @b.uni064D_1;
+    pos base uniFEB3
+        <anchor 228 971> mark @t.uni064B
+        <anchor 228 -286> mark @b.uni064D_1;
+    pos base uniFEB4
+        <anchor 271 828> mark @t.uni064B
+        <anchor 400 -428> mark @b.uni064D_1;
+    pos base uniFEB6
+        <anchor 1085 1142> mark @t.uni064B
+        <anchor 857 -657> mark @b.uni064D_1;
+    pos base uniFEB7
+        <anchor 328 1213> mark @t.uni064B
+        <anchor 300 -343> mark @b.uni064D_1;
+    pos base uniFEB8
+        <anchor 385 1171> mark @t.uni064B
+        <anchor 400 -328> mark @b.uni064D_1;
+    pos base uniFEBA
+        <anchor 971 928> mark @t.uni064B
+        <anchor 1042 -514> mark @b.uni064D_1;
+    pos base uniFEBB
+        <anchor 357 742> mark @t.uni064B
+        <anchor 357 -385> mark @b.uni064D_1;
+    pos base uniFEBC
+        <anchor 357 742> mark @t.uni064B
+        <anchor 343 -300> mark @b.uni064D_1;
+    pos base uniFEBE
+        <anchor 1128 1199> mark @t.uni064B
+        <anchor 871 -642> mark @b.uni064D_1;
+    pos base uniFEBF
+        <anchor 485 1285> mark @t.uni064B
+        <anchor 385 -200> mark @b.uni064D_1;
+    pos base uniFEC0
+        <anchor 457 1313> mark @t.uni064B
+        <anchor 385 -200> mark @b.uni064D_1;
+    pos base uniFEC2
+        <anchor 757 1142> mark @t.uni064B
+        <anchor 557 -371> mark @b.uni064D_1;
+    pos base uniFEC3
+        <anchor 404 1485> mark @t.uni064B
+        <anchor 228 -200> mark @b.uni064D_1;
+    pos base uniFEC4
+        <anchor 305 1527> mark @t.uni064B
+        <anchor 243 -200> mark @b.uni064D_1;
+    pos base uniFEC6
+        <anchor 742 1313> mark @t.uni064B
+        <anchor 414 -200> mark @b.uni064D_1;
+    pos base uniFEC7
+        <anchor 433 1228> mark @t.uni064B
+        <anchor 228 -200> mark @b.uni064D_1;
+    pos base uniFEC8
+        <anchor 447 1299> mark @t.uni064B
+        <anchor 243 -200> mark @b.uni064D_1;
+    pos base uniFECA
+        <anchor 286 771> mark @t.uni064B
+        <anchor 500 -1156> mark @b.uni064D_1;
+    pos base uniFECB
+        <anchor 86 1171> mark @t.uni064B
+        <anchor 200 -414> mark @b.uni064D_1;
+    pos base uniFECC
+        <anchor 100 1014> mark @t.uni064B
+        <anchor 228 -357> mark @b.uni064D_1;
+    pos base uniFECE
+        <anchor 285 1256> mark @t.uni064B
+        <anchor 456 -1242> mark @b.uni064D_1;
+    pos base uniFECF
+        <anchor 157 1485> mark @t.uni064B
+        <anchor 171 -343> mark @b.uni064D_1;
+    pos base uniFED0
+        <anchor 128 1256> mark @t.uni064B
+        <anchor 243 -357> mark @b.uni064D_1;
+    pos base uniFED2
+        <anchor 585 1142> mark @t.uni064B
+        <anchor 528 -328> mark @b.uni064D_1;
+    pos base uniFED3
+        <anchor -43 1470> mark @t.uni064B
+        <anchor 57 -428> mark @b.uni064D_1;
+    pos base uniFED4
+        <anchor 171 1313> mark @t.uni064B
+        <anchor 171 -428> mark @b.uni064D_1;
+    pos base uniFED6
+        <anchor 528 1071> mark @t.uni064B
+        <anchor 414 -685> mark @b.uni064D_1;
+    pos base uniFED7
+        <anchor 0 1428> mark @t.uni064B
+        <anchor 57 -357> mark @b.uni064D_1;
+    pos base uniFED8
+        <anchor 128 1299> mark @t.uni064B
+        <anchor 171 -371> mark @b.uni064D_1;
+    pos base uniFEDA
+        <anchor 485 1099> mark @t.uni064B
+        <anchor 457 -314> mark @b.uni064D_1;
+    pos base uniFEDB
+        <anchor 29 1413> mark @t.uni064B
+        <anchor 143 -286> mark @b.uni064D_1;
+    pos base uniFEDC
+        <anchor 57 1770> mark @t.uni064B
+        <anchor 171 -357> mark @b.uni064D_1;
+    pos base uniFEDE
+        <anchor 228 1385> mark @t.uni064B
+        <anchor 385 -514> mark @b.uni064D_1;
+    pos base uniFEDF
+        <anchor 14 1527> mark @t.uni064B
+        <anchor 57 -357> mark @b.uni064D_1;
+    pos base uniFEE0
+        <anchor 71 1513> mark @t.uni064B
+        <anchor 171 -343> mark @b.uni064D_1;
+    pos base uniFEE2
+        <anchor 286 828> mark @t.uni064B
+        <anchor 414 -357> mark @b.uni064D_1;
+    pos base uniFEE3
+        <anchor 71 942> mark @t.uni064B
+        <anchor 128 -400> mark @b.uni064D_1;
+    pos base uniFEE4
+        <anchor 86 928> mark @t.uni064B
+        <anchor 243 -214> mark @b.uni064D_1;
+    pos base uniFEE6
+        <anchor 400 1270> mark @t.uni064B
+        <anchor 414 -757> mark @b.uni064D_1;
+    pos base uniFEE7
+        <anchor -43 1299> mark @t.uni064B
+        <anchor 29 -328> mark @b.uni064D_1;
+    pos base uniFEE8
+        <anchor 57 1256> mark @t.uni064B
+        <anchor 71 -428> mark @b.uni064D_1;
+    pos base uniFEE9
+        <anchor 128 1099> mark @t.uni064B
+        <anchor 200 -300> mark @b.uni064D_1;
+    pos base uniFEEA
+        <anchor 214 1228> mark @t.uni064B
+        <anchor 286 -200> mark @b.uni064D_1;
+    pos base uniFEEC
+        <anchor 128 1199> mark @t.uni064B
+        <anchor 286 -414> mark @b.uni064D_1;
+    pos base uniFEEE
+        <anchor 228 814> mark @t.uni064B
+        <anchor 286 -585> mark @b.uni064D_1;
+    pos base uniFEF0
+        <anchor 457 500> mark @t.uni064B
+        <anchor 457 -757> mark @b.uni064D_1;
+    pos base uniFEF2
+        <anchor 443 500> mark @t.uni064B
+        <anchor 143 -642> mark @b.uni064D_1;
+    pos base uni0627.short
+        <anchor 29 1594> mark @t.uni064B
+        <anchor 86 -171> mark @b.uni064D_1;
+    pos base uniFE8B.tall
+        <anchor 14 1499> mark @t.uni064B
+        <anchor 29 -414> mark @b.uni064D_1;
+    pos base uniFE8B.short
+        <anchor 0 1385> mark @t.uni064B
+        <anchor 0 -357> mark @b.uni064D_1;
+    pos base uniFE8C.tall
+        <anchor 14 1542> mark @t.uni064B
+        <anchor 143 -328> mark @b.uni064D_1;
+    pos base uniFE8E.short
+        <anchor 0 1556> mark @t.uni064B
+        <anchor 186 -328> mark @b.uni064D_1;
+    pos base uniFE91.tall
+        <anchor -14 1199> mark @t.uni064B
+        <anchor 29 -685> mark @b.uni064D_1;
+    pos base uniFE91.short
+        <anchor 29 1042> mark @t.uni064B
+        <anchor 14 -699> mark @b.uni064D_1;
+    pos base uniFE92.tall
+        <anchor 43 1113> mark @t.uni064B
+        <anchor 114 -600> mark @b.uni064D_1;
+    pos base uniFE97.tall
+        <anchor 14 1428> mark @t.uni064B
+        <anchor 14 -428> mark @b.uni064D_1;
+    pos base uniFE97.short
+        <anchor 0 1342> mark @t.uni064B
+        <anchor 29 -443> mark @b.uni064D_1;
+    pos base uniFE98.tall
+        <anchor 14 1513> mark @t.uni064B
+        <anchor 114 -328> mark @b.uni064D_1;
+    pos base uniFE9B.tall
+        <anchor 29 1456> mark @t.uni064B
+        <anchor 29 -371> mark @b.uni064D_1;
+    pos base uniFE9B.short
+        <anchor 14 1328> mark @t.uni064B
+        <anchor 14 -385> mark @b.uni064D_1;
+    pos base uniFE9C.tall
+        <anchor 14 1527> mark @t.uni064B
+        <anchor 157 -400> mark @b.uni064D_1;
+    pos base uni0640.twotimes
+        <anchor 71 814> mark @t.uni064B
+        <anchor 186 -300> mark @b.uni064D_1;
+    pos base uni0640.threetimes
+        <anchor 186 814> mark @t.uni064B
+        <anchor 343 -328> mark @b.uni064D_1;
+    pos base uniFEE7.tall
+        <anchor 14 1356> mark @t.uni064B
+        <anchor 57 -300> mark @b.uni064D_1;
+    pos base uniFEE7.short
+        <anchor 29 1171> mark @t.uni064B
+        <anchor 29 -328> mark @b.uni064D_1;
+    pos base uniFEE8.tall
+        <anchor 71 1285> mark @t.uni064B
+        <anchor 200 -300> mark @b.uni064D_1;
+    pos base uniFEEC.alt
+        <anchor 214 871> mark @t.uni064B
+        <anchor 328 -728> mark @b.uni064D_1;
+    pos base uniFEF3.tall
+        <anchor -14 928> mark @t.uni064B
+        <anchor -14 -657> mark @b.uni064D_1;
+    pos base uniFEF3.short
+        <anchor 43 942> mark @t.uni064B
+        <anchor 29 -685> mark @b.uni064D_1;
+    pos base uniFEF4.tall
+        <anchor -29 971> mark @t.uni064B
+        <anchor 243 -671> mark @b.uni064D_1;
+    pos base uni0672.fina
+        <anchor 14 2013> mark @t.uni064B
+        <anchor 228 -200> mark @b.uni064D_1;
+    pos base uni0673.fina
+        <anchor 43 1585> mark @t.uni064B
+        <anchor 243 -614> mark @b.uni064D_1;
+    pos base uni0675.fina
+        <anchor 14 1699> mark @t.uni064B
+        <anchor 257 -186> mark @b.uni064D_1;
+    pos base uni0676.fina
+        <anchor 114 1456> mark @t.uni064B
+        <anchor 257 -514> mark @b.uni064D_1;
+    pos base uni0678.fina
+        <anchor 485 1056> mark @t.uni064B
+        <anchor 428 -757> mark @b.uni064D_1;
+    pos base uniFB68.tall
+        <anchor 57 1328> mark @t.uni064B
+        <anchor 43 -414> mark @b.uni064D_1;
+    pos base uniFB68.short
+        <anchor 0 1256> mark @t.uni064B
+        <anchor 29 -414> mark @b.uni064D_1;
+    pos base uniFB69.tall
+        <anchor 57 1328> mark @t.uni064B
+        <anchor 143 -343> mark @b.uni064D_1;
+    pos base uniFB58.tall
+        <anchor 43 1113> mark @t.uni064B
+        <anchor 86 -742> mark @b.uni064D_1;
+    pos base uniFB58.short
+        <anchor 0 1028> mark @t.uni064B
+        <anchor 43 -699> mark @b.uni064D_1;
+    pos base uniFB59.tall
+        <anchor 43 1113> mark @t.uni064B
+        <anchor 171 -828> mark @b.uni064D_1;
+    pos base uni06A1.fina
+        <anchor 542 785> mark @t.uni064B
+        <anchor 514 -200> mark @b.uni064D_1;
+    pos base uni06A1.init
+        <anchor 186 671> mark @t.uni064B
+        <anchor 171 -200> mark @b.uni064D_1;
+    pos base uni06A1.medi
+        <anchor 200 657> mark @t.uni064B
+        <anchor 171 -200> mark @b.uni064D_1;
+    pos base uni06AA.fina
+        <anchor 528 999> mark @t.uni064B
+        <anchor 585 -186> mark @b.uni064D_1;
+    pos base uni06AA.init
+        <anchor 257 1399> mark @t.uni064B
+        <anchor 414 -357> mark @b.uni064D_1;
+    pos base uni06AA.medi
+        <anchor 243 985> mark @t.uni064B
+        <anchor 0 0> mark @b.uni064D_1;
+    pos base uni06B6.fina
+        <anchor 400 1142> mark @t.uni064B
+        <anchor 357 -443> mark @b.uni064D_1;
+    pos base uniFBE8.short
+        <anchor 157 600> mark @t.uni064B
+        <anchor 157 -200> mark @b.uni064D_1;
+    pos base uniFBE8.tall
+        <anchor 143 757> mark @t.uni064B
+        <anchor 157 -200> mark @b.uni064D_1;
+    pos base uniFBE9.tall
+        <anchor 200 728> mark @t.uni064B
+        <anchor 200 -200> mark @b.uni064D_1;
+    pos base uniFE92.low
+        <anchor 190 571> mark @t.uni064B
+        <anchor 143 -571> mark @b.uni064D_1;
+    pos base uniFEF4.low
+        <anchor 190 571> mark @t.uni064B
+        <anchor 114 -699> mark @b.uni064D_1;
+    pos base uniFB59.low
+        <anchor 190 571> mark @t.uni064B
+        <anchor 186 -685> mark @b.uni064D_1;
+    pos base uniFE92.lowtall
+        <anchor 190 966> mark @t.uni064B
+        <anchor 171 -571> mark @b.uni064D_1;
+    pos base uniFEF4.lowtall
+        <anchor 162 1094> mark @t.uni064B
+        <anchor 186 -585> mark @b.uni064D_1;
+    pos base uniFB59.lowtall
+        <anchor 133 1152> mark @t.uni064B
+        <anchor 214 -685> mark @b.uni064D_1;
+    pos base uniFE9F.low
+        <anchor 190 952> mark @t.uni064B
+        <anchor 357 -557> mark @b.uni064D_1;
+    pos base uniFB7C.low
+        <anchor 205 1080> mark @t.uni064B
+        <anchor 343 -699> mark @b.uni064D_1;
+    pos base uniFEA0.low
+        <anchor 205 952> mark @t.uni064B
+        <anchor 400 -571> mark @b.uni064D_1;
+    pos base uniFB7D.low
+        <anchor 262 1137> mark @t.uni064B
+        <anchor 343 -699> mark @b.uni064D_1;
+  } mark_arab_1;";
+tag = mark;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 2152;
+},
+{
+name = typoDescender;
+value = -1100;
+},
+{
+name = typoLineGap;
+value = -252;
+},
+{
+name = winAscent;
+value = 2220;
+},
+{
+name = winDescent;
+value = 1100;
+},
+{
+name = underlineThickness;
+value = 19;
+},
+{
+name = underlinePosition;
+value = -434;
+},
+{
+name = strikeoutPosition;
+value = 504;
+},
+{
+name = strikeoutSize;
+value = 97;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1365;
+},
+{
+name = subscriptYOffset;
+value = 279;
+},
+{
+name = subscriptYSize;
+value = 1267;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1365;
+},
+{
+name = superscriptYOffset;
+value = 883;
+},
+{
+name = superscriptYSize;
+value = 1267;
+},
+{
+name = hheaAscender;
+value = 2152;
+},
+{
+name = hheaDescender;
+value = -1100;
+},
+{
+name = hheaLineGap;
+value = -252;
+}
+);
+guides = (
+{
+position = "{0, 250}";
+},
+{
+position = "{0, 512}";
+}
+);
+id = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+metricValues = (
+{
+pos = 2152;
+},
+{
+pos = 1025;
+},
+{
+pos = -1100;
+},
+{
+pos = 0;
+},
+{
+pos = 762;
+}
+);
+}
+);
+kerningLTR = {
+"2441F43B-8F16-461C-A4B8-C785D6A342D3" = {
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+type = "x-height";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights reserved.";
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.nujoomapps.com";
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Sh Moiz Sh Zohair bhai";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "These fonts are created by the developers of Al Fatemi fonts and it is a mark of marvel. \nWe do not claim any rights to this font. We have just reprogrammed it to comply with the standards of Windows 8 and with the typing habit of Old Fatemi fonts (Double key typing).\nThis font is compatible with nearly all existing devices which support Arabic typing: iOS, Android, Mac, Linux etc.";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Hatim Masvi";
+}
+);
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"2441F43B-8F16-461C-A4B8-C785D6A342D3" = {
+HV = 167;
+HH = 132;
+OV = 167;
+OH = 136;
+oV = 164;
+oH = 131;
+nV = 167;
+tH = 123;
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}

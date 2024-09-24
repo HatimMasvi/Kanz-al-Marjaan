@@ -1,0 +1,23 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,23,l),
+(233,-224,l),
+(148,-224,l),
+(148,7,l),
+(148,219,l),
+(322,219,l)
+);
+}
+);
+width = 474;
+}
+);
+unicode = 8218;
+}

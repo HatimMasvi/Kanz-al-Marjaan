@@ -1,0 +1,26 @@
+{
+glyphname = uniFCA3;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.behhahinit;
+},
+{
+alignment = -1;
+pos = (441,1218);
+ref = dot.twohoriz;
+},
+{
+alignment = -1;
+pos = (26,904);
+ref = dot.one;
+}
+);
+width = 993;
+}
+);
+unicode = 64675;
+}

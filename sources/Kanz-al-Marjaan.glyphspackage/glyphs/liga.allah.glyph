@@ -1,0 +1,35 @@
+{
+glyphname = liga.allah;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = uni064406440647.isol;
+},
+{
+alignment = -1;
+ref = uni064406440647.isol;
+},
+{
+alignment = -1;
+ref = uni064406440647.isol;
+},
+{
+alignment = -1;
+pos = (853,787);
+ref = uni0651;
+scale = (0.8,0.8);
+},
+{
+alignment = -1;
+pos = (971,1126);
+ref = uni0670;
+scale = (0.9,0.9);
+}
+);
+width = 1702;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+glyphname = uniFC2D;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.fehhahisol;
+},
+{
+alignment = -1;
+pos = (475,1618);
+ref = dot.one;
+},
+{
+alignment = -1;
+pos = (556,-433);
+ref = dot.one;
+}
+);
+width = 1193;
+}
+);
+unicode = 64557;
+}

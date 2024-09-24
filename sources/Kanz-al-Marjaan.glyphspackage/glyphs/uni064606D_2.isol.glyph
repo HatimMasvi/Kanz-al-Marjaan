@@ -1,0 +1,21 @@
+{
+glyphname = uni064606D2.isol;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+pos = (-7,10);
+ref = uni064906D2.isol;
+},
+{
+alignment = -1;
+pos = (434,1245);
+ref = dot.one;
+}
+);
+width = 1696;
+}
+);
+}

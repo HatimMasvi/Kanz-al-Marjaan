@@ -1,0 +1,20 @@
+{
+glyphname = uni062606450627.fina;
+layers = (
+{
+layerId = "2441F43B-8F16-461C-A4B8-C785D6A342D3";
+shapes = (
+{
+alignment = -1;
+ref = liga.behmeemaleffina;
+},
+{
+alignment = -1;
+pos = (511,905);
+ref = uni0654;
+}
+);
+width = 1063;
+}
+);
+}
