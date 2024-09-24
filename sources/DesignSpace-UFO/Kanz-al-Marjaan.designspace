@@ -1,13 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
- <axes/>
+ <axes>
+  <axis minimum="1" tag="wght" maximum="1000" default="400" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="1" output="1"/>
+   <map input="400" output="400"/>
+   <map input="1000" output="1000"/>
+  </axis>
+ </axes>
  <sources>
-  <source filename="masters/Kanz-al-Marjaan-Regular.ufo" name="Regular" stylename="Regular" familyname="Kanz-al-Marjaan">
+  <source filename="masters/Kanz-al-Marjaan-Regular.ufo" familyname="Kanz-al-Marjaan" stylename="Regular" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
-   <location/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
   </source>
  </sources>
 </designspace>
