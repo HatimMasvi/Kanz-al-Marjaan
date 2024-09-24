@@ -7,7 +7,7 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - Kanz-al-Marjaan.glyphs
+
   - DesignSpace-UFO/Kanz-al-Marjaan.designspace
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
