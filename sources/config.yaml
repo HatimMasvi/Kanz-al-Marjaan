@@ -18,9 +18,9 @@ familyName: "Kanz-al-Marjaan"
 # especially if you are planning to upload your font to Google Fonts.
 
 outputDir: ../fonts
-# vfDir: $outputDir/variable
-# ttDir: $outputDir/ttf
-# otDir: $outputDir/otf
+vfDir: $outputDir/variable
+ttDir: $outputDir/ttf
+otDir: $outputDir/otf
 # woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
@@ -28,7 +28,7 @@ outputDir: ../fonts
 
 buildVariable: true
 buildStatic: true
-# buildTTF: false
+buildTTF: false
 buildOTF: true
 
 # buildSmallCap: false
