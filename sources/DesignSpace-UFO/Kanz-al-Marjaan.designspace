@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
+ <axes/>
  <sources>
   <source filename="masters/Kanz-al-Marjaan-Regular.ufo" name="Regular" stylename="Regular" familyname="Kanz-al-Marjaan">
    <lib copy="1"/>
