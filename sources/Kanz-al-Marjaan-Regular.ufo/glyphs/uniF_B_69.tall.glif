@@ -2,7 +2,7 @@
 <glyph name="uniFB69.tall" format="2">
   <advance width="581"/>
   <anchor x="57" y="1328" name="t.uni064B"/>
-  <anchor x="143" y="-343" name="b.uni064D_1"/>
+  <anchor x="143" y="-343" name="b.uni064D"/>
   <outline>
     <component base="uniFBE9.tall"/>
     <component base="smalltaa" xOffset="24" yOffset="872"/>

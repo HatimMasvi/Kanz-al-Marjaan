@@ -2,7 +2,7 @@
 <glyph name="uni0676.fina" format="2">
   <advance width="684"/>
   <anchor x="114" y="1456" name="t.uni064B"/>
-  <anchor x="257" y="-514" name="b.uni064D_1"/>
+  <anchor x="257" y="-514" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="338" y="340" type="line"/>

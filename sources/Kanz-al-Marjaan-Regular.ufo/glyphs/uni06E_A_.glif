@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni06EA" format="2">
   <unicode hex="06EA"/>
-  <anchor x="71" y="0" name="_b.uni064D_1"/>
+  <anchor x="71" y="0" name="_b.uni064D"/>
   <outline>
     <contour>
       <point x="135" y="-96"/>

@@ -2,7 +2,7 @@
 <glyph name="uniFEEC.alt" format="2">
   <advance width="800"/>
   <anchor x="214" y="871" name="t.uni064B"/>
-  <anchor x="328" y="-728" name="b.uni064D_1"/>
+  <anchor x="328" y="-728" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="367" y="412"/>

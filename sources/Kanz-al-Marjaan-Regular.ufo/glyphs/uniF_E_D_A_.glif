@@ -3,7 +3,7 @@
   <advance width="1543"/>
   <unicode hex="FEDA"/>
   <anchor x="485" y="1099" name="t.uni064B"/>
-  <anchor x="457" y="-314" name="b.uni064D_1"/>
+  <anchor x="457" y="-314" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="1194" y="1482" type="qcurve"/>

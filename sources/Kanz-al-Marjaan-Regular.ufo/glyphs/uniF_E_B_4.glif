@@ -3,7 +3,7 @@
   <advance width="960"/>
   <unicode hex="FEB4"/>
   <anchor x="271" y="828" name="t.uni064B"/>
-  <anchor x="400" y="-428" name="b.uni064D_1"/>
+  <anchor x="400" y="-428" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="687" y="160" type="line"/>

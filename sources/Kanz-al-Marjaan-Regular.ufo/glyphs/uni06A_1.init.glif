@@ -2,7 +2,7 @@
 <glyph name="uni06A1.init" format="2">
   <advance width="472"/>
   <anchor x="186" y="671" name="t.uni064B"/>
-  <anchor x="171" y="-200" name="b.uni064D_1"/>
+  <anchor x="171" y="-200" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="155" y="784"/>
