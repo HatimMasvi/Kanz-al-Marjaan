@@ -13,6 +13,8 @@ buildStatic: true    # Changed to true since we're building static fonts
 buildTTF: true
 buildOTF: false
 
+includeSourceFixes: true
+
 stat:
   Kanz-al-Marjaan-Regular.ttf:
     - name: Weight
