@@ -15,6 +15,9 @@ buildOTF: false
 
 includeSourceFixes: true
 
+postprocessFlags:
+  - "--no-overlap-removal"
+
 stat:
   Kanz-al-Marjaan-Regular.ttf:
     - name: Weight
