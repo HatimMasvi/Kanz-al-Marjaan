@@ -2,7 +2,7 @@
 <glyph name="uni06B6.fina" format="2">
   <advance width="1093"/>
   <anchor x="400" y="1142" name="t.uni064B"/>
-  <anchor x="357" y="-443" name="b.uni064D_1"/>
+  <anchor x="357" y="-443" name="b.uni064D"/>
   <outline>
     <component base="uniFEDE"/>
     <component base="dot.one" xOffset="599" yOffset="1099"/>

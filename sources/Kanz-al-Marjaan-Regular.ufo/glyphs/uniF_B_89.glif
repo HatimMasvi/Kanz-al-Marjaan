@@ -3,7 +3,7 @@
   <advance width="1081"/>
   <unicode hex="FB89"/>
   <anchor x="414" y="1542" name="t.uni064B"/>
-  <anchor x="414" y="-300" name="b.uni064D_1"/>
+  <anchor x="414" y="-300" name="b.uni064D"/>
   <outline>
     <component base="uniFEAA"/>
     <component base="smalltaa" xOffset="438" yOffset="1114"/>

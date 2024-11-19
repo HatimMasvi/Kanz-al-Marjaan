@@ -2,7 +2,7 @@
 <glyph name="uniFE9C.tall" format="2">
   <advance width="575"/>
   <anchor x="14" y="1527" name="t.uni064B"/>
-  <anchor x="157" y="-400" name="b.uni064D_1"/>
+  <anchor x="157" y="-400" name="b.uni064D"/>
   <outline>
     <component base="uniFBE9.tall"/>
     <component base="dot.threeup" xOffset="4" yOffset="882"/>

@@ -3,7 +3,7 @@
   <advance width="1163"/>
   <unicode hex="FED6"/>
   <anchor x="528" y="1071" name="t.uni064B"/>
-  <anchor x="414" y="-685" name="b.uni064D_1"/>
+  <anchor x="414" y="-685" name="b.uni064D"/>
   <outline>
     <component base="base.qaffina" yOffset="4"/>
     <component base="dot.twohoriz" xOffset="639" yOffset="713"/>
