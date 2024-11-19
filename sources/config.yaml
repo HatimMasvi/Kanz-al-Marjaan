@@ -1,17 +1,22 @@
 sources:
-  - Kanz-al-Marjaan.designspace
+  - Kanz-al-Marjaan-Regular.ufo
+
 familyName: "Kanz-al-Marjaan"
 
-output:
-  - variable
-buildVariable: false
-buildStatic: false
+outputDir: fonts
+vfDir: $outputDir/variable
+ttDir: $outputDir/ttf
+otDir: $outputDir/otf
+
+buildVariable: false  # Changed to false since we're building from UFO directly
+buildStatic: true    # Changed to true since we're building static fonts
+buildTTF: true
+buildOTF: false
 
 stat:
-  Kanz-al-Marjaan[wght].ttf:
+  Kanz-al-Marjaan-Regular.ttf:
     - name: Weight
       tag: wght
       values:
       - name: Regular
         value: 400
-        flags: 2
