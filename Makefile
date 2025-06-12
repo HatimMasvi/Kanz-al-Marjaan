@@ -29,16 +29,16 @@ build.stamp: venv sources/config.yaml $(SOURCES)
 	for config in sources/config*.yaml; do \
 	  . venv/bin/activate; \
 	  ufo=$$(python3 - <<EOF
-import yaml
-cfg = yaml.safe_load(open("$$config"))
-print(cfg["sources"][0])
-EOF
-); \
-	  mkdir -p "$$ufo/features"; \
-	  cp features/*.fea "$$ufo/features/"; \
-	  gftools builder "$$config"; \
-	done
-	touch build.stamp
+	import yaml
+	cfg = yaml.safe_load(open("$$config"))
+	print(cfg["sources"][0])
+	EOF
+	); \
+		mkdir -p "$$ufo/features"; \
+		cp features/*.fea "$$ufo/features/"; \
+		gftools builder "$$config"; \
+		done
+		touch build.stamp
 
 # ------------------------------------------------------------------
 
