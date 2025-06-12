@@ -41,6 +41,8 @@ jobs:
     #     do
     #       bumpfontversion sources/$src --new-version $TAG_NAME;
     #     done
+    - name: Install system dependencies
+      run: sudo apt-get update && sudo apt-get install -y libcairo2-dev
 
     - name: Build font
       run: make build
