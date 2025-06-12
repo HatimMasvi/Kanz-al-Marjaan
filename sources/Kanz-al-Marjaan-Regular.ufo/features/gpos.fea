@@ -1,0 +1,487 @@
+# GPOS 
+
+
+lookup mark_arab_1 {
+  lookupflag RightToLeft;
+  markClass [\uni064D \uni0650 \uni06550650 ] <anchor 114 0> @b.uni064D_1;
+  markClass [\uni0655 ] <anchor 143 0> @b.uni064D_1;
+  markClass [\uni06E3 ] <anchor 114 71> @b.uni064D_1;
+  markClass [\uni06EA ] <anchor 71 0> @b.uni064D_1;
+  markClass [\uni06ED ] <anchor 0 0> @b.uni064D_1;
+  markClass [\uni064B \uni064E ] <anchor 114 0> @t.uni064B;
+  markClass [\uni064C ] <anchor 171 0> @t.uni064B;
+  markClass [\uni064F ] <anchor 100 0> @t.uni064B;
+  markClass [\uni0651 \uni0651064B \uni0651064C \uni0651064E \uni0651064F \uni06510670 \uni0654 \uni0654064E \uni0654064F \uni06540652 ] <anchor 128 0> @t.uni064B;
+  markClass [\uni0651064D ] <anchor 128 -214> @t.uni064B;
+  markClass [\uni06510650 ] <anchor 128 -128> @t.uni064B;
+  markClass [\uni0652 ] <anchor 71 0> @t.uni064B;
+  markClass [\uni0653 ] <anchor 228 0> @t.uni064B;
+  markClass [\uni0670 ] <anchor -200 -200> @t.uni064B;
+  markClass [\uni06D6 \uni06D7 \uni06D8 \uni06DA \uni06DB \uni06DC \uni06DF \uni06E0 \uni06E1 \uni06E2 \uni06E4 \uni06E7 \uni06E8 \uni06EB \uni06EC ] <anchor 0 0> @t.uni064B;
+  markClass [\uni06D9 ] <anchor 0 -29> @t.uni064B;
+  pos base [\uni0621 ] <anchor 186 785> mark @t.uni064B
+	<anchor 314 -257> mark @b.uni064D_1;
+  pos base [\uni0622 ] <anchor 43 1470> mark @t.uni064B
+	<anchor 114 -228> mark @b.uni064D_1;
+  pos base [\uni0623 ] <anchor 14 1899> mark @t.uni064B
+	<anchor 114 -143> mark @b.uni064D_1;
+  pos base [\uni0624 ] <anchor 171 1442> mark @t.uni064B
+	<anchor 114 -628> mark @b.uni064D_1;
+  pos base [\uni0625 ] <anchor 100 1599> mark @t.uni064B
+	<anchor 57 -457> mark @b.uni064D_1;
+  pos base [\uni0626 ] <anchor 385 1171> mark @t.uni064B
+	<anchor 428 -400> mark @b.uni064D_1;
+  pos base [\uni0627 ] <anchor 14 1542> mark @t.uni064B
+	<anchor 157 -186> mark @b.uni064D_1;
+  pos base [\uni0627.short ] <anchor 29 1594> mark @t.uni064B
+	<anchor 86 -171> mark @b.uni064D_1;
+  pos base [\uni0628 ] <anchor 571 761> mark @t.uni064B
+	<anchor 585 -557> mark @b.uni064D_1;
+  pos base [\uni0629 ] <anchor 214 1318> mark @t.uni064B
+	<anchor 200 -271> mark @b.uni064D_1;
+  pos base [\uni062A ] <anchor 571 1156> mark @t.uni064B
+	<anchor 542 -343> mark @b.uni064D_1;
+  pos base [\uni062B ] <anchor 628 1385> mark @t.uni064B
+	<anchor 585 -300> mark @b.uni064D_1;
+  pos base [\uni062C ] <anchor 528 918> mark @t.uni064B
+	<anchor 561 -1042> mark @b.uni064D_1;
+  pos base [\uni062D ] <anchor 500 961> mark @t.uni064B
+	<anchor 533 -1085> mark @b.uni064D_1;
+  pos base [\uni062E ] <anchor 514 1561> mark @t.uni064B
+	<anchor 490 -1028> mark @b.uni064D_1;
+  pos base [\uni062F ] <anchor 257 799> mark @t.uni064B
+	<anchor 271 -200> mark @b.uni064D_1;
+  pos base [\uni0630 ] <anchor 300 1356> mark @t.uni064B
+	<anchor 271 -200> mark @b.uni064D_1;
+  pos base [\uni0631 ] <anchor 300 642> mark @t.uni064B
+	<anchor 29 -657> mark @b.uni064D_1;
+  pos base [\uni0632 ] <anchor 200 1228> mark @t.uni064B
+	<anchor 14 -757> mark @b.uni064D_1;
+  pos base [\uni0633 ] <anchor 914 714> mark @t.uni064B
+	<anchor 757 -671> mark @b.uni064D_1;
+  pos base [\uni0634 ] <anchor 1028 1213> mark @t.uni064B
+	<anchor 757 -642> mark @b.uni064D_1;
+  pos base [\uni0635 ] <anchor 1213 1075> mark @t.uni064B
+	<anchor 585 -714> mark @b.uni064D_1;
+  pos base [\uni0636 ] <anchor 1171 1142> mark @t.uni064B
+	<anchor 714 -771> mark @b.uni064D_1;
+  pos base [\uni0637 ] <anchor 542 1485> mark @t.uni064B
+	<anchor 443 -233> mark @b.uni064D_1;
+  pos base [\uni0638 ] <anchor 557 1527> mark @t.uni064B
+	<anchor 528 -390> mark @b.uni064D_1;
+  pos base [\uni0639 ] <anchor 271 1461> mark @t.uni064B
+	<anchor 457 -928> mark @b.uni064D_1;
+  pos base [\uni063A ] <anchor 471 1642> mark @t.uni064B
+	<anchor 471 -942> mark @b.uni064D_1;
+  pos base [\uni0640 ] <anchor 128 666> mark @t.uni064B
+	<anchor 128 -200> mark @b.uni064D_1;
+  pos base [\uni0640.threetimes ] <anchor 186 814> mark @t.uni064B
+	<anchor 343 -328> mark @b.uni064D_1;
+  pos base [\uni0640.twotimes ] <anchor 71 814> mark @t.uni064B
+	<anchor 186 -300> mark @b.uni064D_1;
+  pos base [\uni0641 ] <anchor 523 942> mark @t.uni064B
+	<anchor 557 -200> mark @b.uni064D_1;
+  pos base [\uni0642 ] <anchor 428 1042> mark @t.uni064B
+	<anchor 371 -500> mark @b.uni064D_1;
+  pos base [\uni0643 ] <anchor 471 1199> mark @t.uni064B
+	<anchor 457 -200> mark @b.uni064D_1;
+  pos base [\uni0644 ] <anchor 314 1285> mark @t.uni064B
+	<anchor 385 -343> mark @b.uni064D_1;
+  pos base [\uni0645 ] <anchor 228 666> mark @t.uni064B
+	<anchor 171 -1014> mark @b.uni064D_1;
+  pos base [\uni0646 ] <anchor 385 1413> mark @t.uni064B
+	<anchor 385 -500> mark @b.uni064D_1;
+  pos base [\uni0647 ] <anchor 228 1009> mark @t.uni064B
+	<anchor 228 -300> mark @b.uni064D_1;
+  pos base [\uni0648 ] <anchor 257 780> mark @t.uni064B
+	<anchor 43 -642> mark @b.uni064D_1;
+  pos base [\uni0649 ] <anchor 443 799> mark @t.uni064B
+	<anchor 414 -400> mark @b.uni064D_1;
+  pos base [\uni064A ] <anchor 443 799> mark @t.uni064B
+	<anchor 371 -799> mark @b.uni064D_1;
+  pos base [\uni0671 ] <anchor 57 1670> mark @t.uni064B
+	<anchor 86 -300> mark @b.uni064D_1;
+  pos base [\uni0672 ] <anchor 14 1899> mark @t.uni064B
+	<anchor 128 -286> mark @b.uni064D_1;
+  pos base [\uni0672.fina ] <anchor 14 2013> mark @t.uni064B
+	<anchor 228 -200> mark @b.uni064D_1;
+  pos base [\uni0673 ] <anchor 0 1542> mark @t.uni064B
+	<anchor 86 -614> mark @b.uni064D_1;
+  pos base [\uni0673.fina ] <anchor 43 1585> mark @t.uni064B
+	<anchor 243 -614> mark @b.uni064D_1;
+  pos base [\uni0674 ] <anchor 29 1642> mark @t.uni064B
+	<anchor 143 -200> mark @b.uni064D_1;
+  pos base [\uni0675 ] <anchor 29 1984> mark @t.uni064B
+	<anchor 86 -343> mark @b.uni064D_1;
+  pos base [\uni0675.fina ] <anchor 14 1699> mark @t.uni064B
+	<anchor 257 -186> mark @b.uni064D_1;
+  pos base [\uni0676 ] <anchor 71 1385> mark @t.uni064B
+	<anchor 143 -542> mark @b.uni064D_1;
+  pos base [\uni0676.fina ] <anchor 114 1456> mark @t.uni064B
+	<anchor 257 -514> mark @b.uni064D_1;
+  pos base [\uni0677 ] <anchor 57 1370> mark @t.uni064B
+	<anchor 71 -585> mark @b.uni064D_1;
+  pos base [\uni0678 ] <anchor 814 1242> mark @t.uni064B
+	<anchor 457 -400> mark @b.uni064D_1;
+  pos base [\uni0678.fina ] <anchor 485 1056> mark @t.uni064B
+	<anchor 428 -757> mark @b.uni064D_1;
+  pos base [\uni0679 ] <anchor 428 1399> mark @t.uni064B
+	<anchor 485 -328> mark @b.uni064D_1;
+  pos base [\uni067E ] <anchor 471 971> mark @t.uni064B
+	<anchor 471 -828> mark @b.uni064D_1;
+  pos base [\uni0686 ] <anchor 514 1018> mark @t.uni064B
+	<anchor 576 -1071> mark @b.uni064D_1;
+  pos base [\uni0688 ] <anchor 257 1299> mark @t.uni064B
+	<anchor 271 -343> mark @b.uni064D_1;
+  pos base [\uni0691 ] <anchor 228 1370> mark @t.uni064B
+	<anchor 29 -671> mark @b.uni064D_1;
+  pos base [\uni06A1 ] <anchor 571 761> mark @t.uni064B
+	<anchor 528 -200> mark @b.uni064D_1;
+  pos base [\uni06A1.fina ] <anchor 542 785> mark @t.uni064B
+	<anchor 514 -200> mark @b.uni064D_1;
+  pos base [\uni06A1.init ] <anchor 186 671> mark @t.uni064B
+	<anchor 171 -200> mark @b.uni064D_1;
+  pos base [\uni06A1.medi ] <anchor 200 657> mark @t.uni064B
+	<anchor 171 -200> mark @b.uni064D_1;
+  pos base [\uni06A9 ] <anchor 452 1190> mark @t.uni064B
+	<anchor 600 -357> mark @b.uni064D_1;
+  pos base [\uni06AA.fina ] <anchor 528 999> mark @t.uni064B
+	<anchor 585 -186> mark @b.uni064D_1;
+  pos base [\uni06AA.init ] <anchor 257 1399> mark @t.uni064B
+	<anchor 414 -357> mark @b.uni064D_1;
+  pos base [\uni06AA.medi ] <anchor 243 985> mark @t.uni064B
+	<anchor 0 0> mark @b.uni064D_1;
+  pos base [\uni06AF ] <anchor 423 1247> mark @t.uni064B
+	<anchor 514 -300> mark @b.uni064D_1;
+  pos base [\uni06B6.fina ] <anchor 400 1142> mark @t.uni064B
+	<anchor 357 -443> mark @b.uni064D_1;
+  pos base [\uni06BA ] <anchor 385 1028> mark @t.uni064B
+	<anchor 457 -528> mark @b.uni064D_1;
+  pos base [\uni06BE ] <anchor 471 904> mark @t.uni064B
+	<anchor 485 -414> mark @b.uni064D_1;
+  pos base [\uni06C0 ] <anchor 257 899> mark @t.uni064B
+	<anchor 286 -200> mark @b.uni064D_1;
+  pos base [\uni06C1 ] <anchor 300 1099> mark @t.uni064B
+	<anchor 485 -428> mark @b.uni064D_1;
+  pos base [\uni06CC ] <anchor 485 999> mark @t.uni064B
+	<anchor 428 -400> mark @b.uni064D_1;
+  pos base [\uni06D2 ] <anchor 309 880> mark @t.uni064B
+	<anchor 500 -400> mark @b.uni064D_1;
+  pos base [\uni06D3 ] <anchor 423 1413> mark @t.uni064B
+	<anchor 514 -457> mark @b.uni064D_1;
+  pos base [\uni06D5 ] <anchor 214 1113> mark @t.uni064B
+	<anchor 214 -271> mark @b.uni064D_1;
+  pos base [\uni25CC ] <anchor 300 1113> mark @t.uni064B
+	<anchor 457 -190> mark @b.uni064D_1;
+  pos base [\uniFB51 ] <anchor 14 1899> mark @t.uni064B
+	<anchor 228 -200> mark @b.uni064D_1;
+  pos base [\uniFB57 ] <anchor 514 714> mark @t.uni064B
+	<anchor 642 -828> mark @b.uni064D_1;
+  pos base [\uniFB58 ] <anchor -14 1028> mark @t.uni064B
+	<anchor 100 -814> mark @b.uni064D_1;
+  pos base [\uniFB58.short ] <anchor 0 1028> mark @t.uni064B
+	<anchor 43 -699> mark @b.uni064D_1;
+  pos base [\uniFB58.tall ] <anchor 43 1113> mark @t.uni064B
+	<anchor 86 -742> mark @b.uni064D_1;
+  pos base [\uniFB59 ] <anchor 29 885> mark @t.uni064B
+	<anchor 128 -942> mark @b.uni064D_1;
+  pos base [\uniFB59.low ] <anchor 190 571> mark @t.uni064B
+	<anchor 186 -685> mark @b.uni064D_1;
+  pos base [\uniFB59.lowtall ] <anchor 133 1152> mark @t.uni064B
+	<anchor 214 -685> mark @b.uni064D_1;
+  pos base [\uniFB59.tall ] <anchor 43 1113> mark @t.uni064B
+	<anchor 171 -828> mark @b.uni064D_1;
+  pos base [\uniFB67 ] <anchor 514 1213> mark @t.uni064B
+	<anchor 528 -200> mark @b.uni064D_1;
+  pos base [\uniFB68 ] <anchor 14 1285> mark @t.uni064B
+	<anchor 29 -371> mark @b.uni064D_1;
+  pos base [\uniFB68.short ] <anchor 0 1256> mark @t.uni064B
+	<anchor 29 -414> mark @b.uni064D_1;
+  pos base [\uniFB68.tall ] <anchor 57 1328> mark @t.uni064B
+	<anchor 43 -414> mark @b.uni064D_1;
+  pos base [\uniFB69 ] <anchor 14 1228> mark @t.uni064B
+	<anchor 100 -428> mark @b.uni064D_1;
+  pos base [\uniFB69.tall ] <anchor 57 1328> mark @t.uni064B
+	<anchor 143 -343> mark @b.uni064D_1;
+  pos base [\uniFB7B ] <anchor 412 1071> mark @t.uni064B
+	<anchor 583 -999> mark @b.uni064D_1;
+  pos base [\uniFB7C ] <anchor 228 899> mark @t.uni064B
+	<anchor 400 -557> mark @b.uni064D_1;
+  pos base [\uniFB7C.low ] <anchor 205 1080> mark @t.uni064B
+	<anchor 343 -699> mark @b.uni064D_1;
+  pos base [\uniFB7D ] <anchor 314 1099> mark @t.uni064B
+	<anchor 400 -557> mark @b.uni064D_1;
+  pos base [\uniFB7D.low ] <anchor 262 1137> mark @t.uni064B
+	<anchor 343 -699> mark @b.uni064D_1;
+  pos base [\uniFB89 ] <anchor 414 1542> mark @t.uni064B
+	<anchor 414 -300> mark @b.uni064D_1;
+  pos base [\uniFB8D ] <anchor 271 1313> mark @t.uni064B
+	<anchor 157 -714> mark @b.uni064D_1;
+  pos base [\uniFB8F ] <anchor 414 1599> mark @t.uni064B
+	<anchor 585 -300> mark @b.uni064D_1;
+  pos base [\uniFB90 ] <anchor 86 1556> mark @t.uni064B
+	<anchor 57 -371> mark @b.uni064D_1;
+  pos base [\uniFB91 ] <anchor 71 1656> mark @t.uni064B
+	<anchor 157 -343> mark @b.uni064D_1;
+  pos base [\uniFB93 ] <anchor 385 1071> mark @t.uni064B
+	<anchor 542 -314> mark @b.uni064D_1;
+  pos base [\uniFB94 ] <anchor 143 1656> mark @t.uni064B
+	<anchor 157 -300> mark @b.uni064D_1;
+  pos base [\uniFB95 ] <anchor 29 1913> mark @t.uni064B
+	<anchor 186 -400> mark @b.uni064D_1;
+  pos base [\uniFB9F ] <anchor 400 600> mark @t.uni064B
+	<anchor 414 -628> mark @b.uni064D_1;
+  pos base [\uniFBA1 ] <anchor 385 771> mark @t.uni064B
+	<anchor 371 -485> mark @b.uni064D_1;
+  pos base [\uniFBA5 ] <anchor 300 1056> mark @t.uni064B
+	<anchor 286 -200> mark @b.uni064D_1;
+  pos base [\uniFBA8 ] <anchor 186 628> mark @t.uni064B
+	<anchor 171 -514> mark @b.uni064D_1;
+  pos base [\uniFBA9 ] <anchor 243 842> mark @t.uni064B
+	<anchor 243 -699> mark @b.uni064D_1;
+  pos base [\uniFBAB ] <anchor 414 685> mark @t.uni064B
+	<anchor 457 -485> mark @b.uni064D_1;
+  pos base [\uniFBAC ] <anchor 214 1085> mark @t.uni064B
+	<anchor 214 -200> mark @b.uni064D_1;
+  pos base [\uniFBAD ] <anchor 128 1099> mark @t.uni064B
+	<anchor 186 -585> mark @b.uni064D_1;
+  pos base [\uniFBAF ] <anchor 286 371> mark @t.uni064B
+	<anchor 414 -457> mark @b.uni064D_1;
+  pos base [\uniFBB1 ] <anchor 241 899> mark @t.uni064B
+	<anchor 355 -528> mark @b.uni064D_1;
+  pos base [\uniFBD8 ] <anchor 414 828> mark @t.uni064B
+	<anchor 271 -514> mark @b.uni064D_1;
+  pos base [\uniFBE8 ] <anchor 171 628> mark @t.uni064B
+	<anchor 171 -200> mark @b.uni064D_1;
+  pos base [\uniFBE8.short ] <anchor 157 600> mark @t.uni064B
+	<anchor 157 -200> mark @b.uni064D_1;
+  pos base [\uniFBE8.tall ] <anchor 143 757> mark @t.uni064B
+	<anchor 157 -200> mark @b.uni064D_1;
+  pos base [\uniFBE9 ] <anchor 186 585> mark @t.uni064B
+	<anchor 186 -200> mark @b.uni064D_1;
+  pos base [\uniFBE9.tall ] <anchor 200 728> mark @t.uni064B
+	<anchor 200 -200> mark @b.uni064D_1;
+  pos base [\uniFBFD ] <anchor 400 471> mark @t.uni064B
+	<anchor 400 -600> mark @b.uni064D_1;
+  pos base [\uniFBFE ] <anchor 14 842> mark @t.uni064B
+	<anchor 29 -714> mark @b.uni064D_1;
+  pos base [\uniFBFF ] <anchor 86 757> mark @t.uni064B
+	<anchor 86 -771> mark @b.uni064D_1;
+  pos base [\uniFE82 ] <anchor 100 1756> mark @t.uni064B
+	<anchor 228 -200> mark @b.uni064D_1;
+  pos base [\uniFE84 ] <anchor 43 2027> mark @t.uni064B
+	<anchor 200 -200> mark @b.uni064D_1;
+  pos base [\uniFE86 ] <anchor 228 1270> mark @t.uni064B
+	<anchor 157 -685> mark @b.uni064D_1;
+  pos base [\uniFE88 ] <anchor 43 1570> mark @t.uni064B
+	<anchor 243 -714> mark @b.uni064D_1;
+  pos base [\uniFE8A ] <anchor 414 899> mark @t.uni064B
+	<anchor 457 -771> mark @b.uni064D_1;
+  pos base [\uniFE8B ] <anchor 14 1413> mark @t.uni064B
+	<anchor 14 -443> mark @b.uni064D_1;
+  pos base [\uniFE8B.short ] <anchor 0 1385> mark @t.uni064B
+	<anchor 0 -357> mark @b.uni064D_1;
+  pos base [\uniFE8B.tall ] <anchor 14 1499> mark @t.uni064B
+	<anchor 29 -414> mark @b.uni064D_1;
+  pos base [\uniFE8C ] <anchor 43 1256> mark @t.uni064B
+	<anchor 57 -514> mark @b.uni064D_1;
+  pos base [\uniFE8C.tall ] <anchor 14 1542> mark @t.uni064B
+	<anchor 143 -328> mark @b.uni064D_1;
+  pos base [\uniFE8E ] <anchor 0 1670> mark @t.uni064B
+	<anchor 157 -271> mark @b.uni064D_1;
+  pos base [\uniFE8E.short ] <anchor 0 1556> mark @t.uni064B
+	<anchor 186 -328> mark @b.uni064D_1;
+  pos base [\uniFE90 ] <anchor 514 1137> mark @t.uni064B
+	<anchor 514 -614> mark @b.uni064D_1;
+  pos base [\uniFE91 ] <anchor 29 1085> mark @t.uni064B
+	<anchor 29 -671> mark @b.uni064D_1;
+  pos base [\uniFE91.short ] <anchor 29 1042> mark @t.uni064B
+	<anchor 14 -699> mark @b.uni064D_1;
+  pos base [\uniFE91.tall ] <anchor -14 1199> mark @t.uni064B
+	<anchor 29 -685> mark @b.uni064D_1;
+  pos base [\uniFE92 ] <anchor 0 942> mark @t.uni064B
+	<anchor 29 -728> mark @b.uni064D_1;
+  pos base [\uniFE92.low ] <anchor 190 571> mark @t.uni064B
+	<anchor 143 -571> mark @b.uni064D_1;
+  pos base [\uniFE92.lowtall ] <anchor 190 966> mark @t.uni064B
+	<anchor 171 -571> mark @b.uni064D_1;
+  pos base [\uniFE92.tall ] <anchor 43 1113> mark @t.uni064B
+	<anchor 114 -600> mark @b.uni064D_1;
+  pos base [\uniFE94 ] <anchor 300 1499> mark @t.uni064B
+	<anchor 286 -200> mark @b.uni064D_1;
+  pos base [\uniFE96 ] <anchor 614 1128> mark @t.uni064B
+	<anchor 557 -200> mark @b.uni064D_1;
+  pos base [\uniFE97 ] <anchor 14 1299> mark @t.uni064B
+	<anchor 29 -385> mark @b.uni064D_1;
+  pos base [\uniFE97.short ] <anchor 0 1342> mark @t.uni064B
+	<anchor 29 -443> mark @b.uni064D_1;
+  pos base [\uniFE97.tall ] <anchor 14 1428> mark @t.uni064B
+	<anchor 14 -428> mark @b.uni064D_1;
+  pos base [\uniFE98 ] <anchor 14 1228> mark @t.uni064B
+	<anchor 71 -471> mark @b.uni064D_1;
+  pos base [\uniFE98.tall ] <anchor 14 1513> mark @t.uni064B
+	<anchor 114 -328> mark @b.uni064D_1;
+  pos base [\uniFE9A ] <anchor 600 1171> mark @t.uni064B
+	<anchor 600 -271> mark @b.uni064D_1;
+  pos base [\uniFE9B ] <anchor 29 1385> mark @t.uni064B
+	<anchor 14 -357> mark @b.uni064D_1;
+  pos base [\uniFE9B.short ] <anchor 14 1328> mark @t.uni064B
+	<anchor 14 -385> mark @b.uni064D_1;
+  pos base [\uniFE9B.tall ] <anchor 29 1456> mark @t.uni064B
+	<anchor 29 -371> mark @b.uni064D_1;
+  pos base [\uniFE9C ] <anchor 29 1470> mark @t.uni064B
+	<anchor 43 -471> mark @b.uni064D_1;
+  pos base [\uniFE9C.tall ] <anchor 14 1527> mark @t.uni064B
+	<anchor 157 -400> mark @b.uni064D_1;
+  pos base [\uniFE9E ] <anchor 435 1128> mark @t.uni064B
+	<anchor 426 -999> mark @b.uni064D_1;
+  pos base [\uniFE9F ] <anchor 271 880> mark @t.uni064B
+	<anchor 314 -600> mark @b.uni064D_1;
+  pos base [\uniFE9F.low ] <anchor 190 952> mark @t.uni064B
+	<anchor 357 -557> mark @b.uni064D_1;
+  pos base [\uniFEA0 ] <anchor 243 1094> mark @t.uni064B
+	<anchor 343 -714> mark @b.uni064D_1;
+  pos base [\uniFEA0.low ] <anchor 205 952> mark @t.uni064B
+	<anchor 400 -571> mark @b.uni064D_1;
+  pos base [\uniFEA2 ] <anchor 423 1071> mark @t.uni064B
+	<anchor 500 -999> mark @b.uni064D_1;
+  pos base [\uniFEA3 ] <anchor 257 823> mark @t.uni064B
+	<anchor 343 -300> mark @b.uni064D_1;
+  pos base [\uniFEA4 ] <anchor 286 909> mark @t.uni064B
+	<anchor 385 -200> mark @b.uni064D_1;
+  pos base [\uniFEA6 ] <anchor 492 1513> mark @t.uni064B
+	<anchor 511 -1028> mark @b.uni064D_1;
+  pos base [\uniFEA7 ] <anchor 257 1180> mark @t.uni064B
+	<anchor 357 -186> mark @b.uni064D_1;
+  pos base [\uniFEA8 ] <anchor 314 1209> mark @t.uni064B
+	<anchor 343 -200> mark @b.uni064D_1;
+  pos base [\uniFEAA ] <anchor 428 1066> mark @t.uni064B
+	<anchor 371 -200> mark @b.uni064D_1;
+  pos base [\uniFEAC ] <anchor 414 1428> mark @t.uni064B
+	<anchor 371 -200> mark @b.uni064D_1;
+  pos base [\uniFEAE ] <anchor 224 814> mark @t.uni064B
+	<anchor 128 -742> mark @b.uni064D_1;
+  pos base [\uniFEB0 ] <anchor 138 1199> mark @t.uni064B
+	<anchor 114 -685> mark @b.uni064D_1;
+  pos base [\uniFEB2 ] <anchor 885 885> mark @t.uni064B
+	<anchor 714 -614> mark @b.uni064D_1;
+  pos base [\uniFEB3 ] <anchor 228 971> mark @t.uni064B
+	<anchor 228 -286> mark @b.uni064D_1;
+  pos base [\uniFEB4 ] <anchor 271 828> mark @t.uni064B
+	<anchor 400 -428> mark @b.uni064D_1;
+  pos base [\uniFEB6 ] <anchor 1085 1142> mark @t.uni064B
+	<anchor 857 -657> mark @b.uni064D_1;
+  pos base [\uniFEB7 ] <anchor 328 1213> mark @t.uni064B
+	<anchor 300 -343> mark @b.uni064D_1;
+  pos base [\uniFEB8 ] <anchor 385 1171> mark @t.uni064B
+	<anchor 400 -328> mark @b.uni064D_1;
+  pos base [\uniFEBA ] <anchor 971 928> mark @t.uni064B
+	<anchor 1042 -514> mark @b.uni064D_1;
+  pos base [\uniFEBB ] <anchor 357 742> mark @t.uni064B
+	<anchor 357 -385> mark @b.uni064D_1;
+  pos base [\uniFEBC ] <anchor 357 742> mark @t.uni064B
+	<anchor 343 -300> mark @b.uni064D_1;
+  pos base [\uniFEBE ] <anchor 1128 1199> mark @t.uni064B
+	<anchor 871 -642> mark @b.uni064D_1;
+  pos base [\uniFEBF ] <anchor 485 1285> mark @t.uni064B
+	<anchor 385 -200> mark @b.uni064D_1;
+  pos base [\uniFEC0 ] <anchor 457 1313> mark @t.uni064B
+	<anchor 385 -200> mark @b.uni064D_1;
+  pos base [\uniFEC2 ] <anchor 757 1142> mark @t.uni064B
+	<anchor 557 -371> mark @b.uni064D_1;
+  pos base [\uniFEC3 ] <anchor 404 1485> mark @t.uni064B
+	<anchor 228 -200> mark @b.uni064D_1;
+  pos base [\uniFEC4 ] <anchor 305 1527> mark @t.uni064B
+	<anchor 243 -200> mark @b.uni064D_1;
+  pos base [\uniFEC6 ] <anchor 742 1313> mark @t.uni064B
+	<anchor 414 -200> mark @b.uni064D_1;
+  pos base [\uniFEC7 ] <anchor 433 1228> mark @t.uni064B
+	<anchor 228 -200> mark @b.uni064D_1;
+  pos base [\uniFEC8 ] <anchor 447 1299> mark @t.uni064B
+	<anchor 243 -200> mark @b.uni064D_1;
+  pos base [\uniFECA ] <anchor 286 771> mark @t.uni064B
+	<anchor 500 -1156> mark @b.uni064D_1;
+  pos base [\uniFECB ] <anchor 86 1171> mark @t.uni064B
+	<anchor 200 -414> mark @b.uni064D_1;
+  pos base [\uniFECC ] <anchor 100 1014> mark @t.uni064B
+	<anchor 228 -357> mark @b.uni064D_1;
+  pos base [\uniFECE ] <anchor 285 1256> mark @t.uni064B
+	<anchor 456 -1242> mark @b.uni064D_1;
+  pos base [\uniFECF ] <anchor 157 1485> mark @t.uni064B
+	<anchor 171 -343> mark @b.uni064D_1;
+  pos base [\uniFED0 ] <anchor 128 1256> mark @t.uni064B
+	<anchor 243 -357> mark @b.uni064D_1;
+  pos base [\uniFED2 ] <anchor 585 1142> mark @t.uni064B
+	<anchor 528 -328> mark @b.uni064D_1;
+  pos base [\uniFED3 ] <anchor -43 1470> mark @t.uni064B
+	<anchor 57 -428> mark @b.uni064D_1;
+  pos base [\uniFED4 ] <anchor 171 1313> mark @t.uni064B
+	<anchor 171 -428> mark @b.uni064D_1;
+  pos base [\uniFED6 ] <anchor 528 1071> mark @t.uni064B
+	<anchor 414 -685> mark @b.uni064D_1;
+  pos base [\uniFED7 ] <anchor 0 1428> mark @t.uni064B
+	<anchor 57 -357> mark @b.uni064D_1;
+  pos base [\uniFED8 ] <anchor 128 1299> mark @t.uni064B
+	<anchor 171 -371> mark @b.uni064D_1;
+  pos base [\uniFEDA ] <anchor 485 1099> mark @t.uni064B
+	<anchor 457 -314> mark @b.uni064D_1;
+  pos base [\uniFEDB ] <anchor 29 1413> mark @t.uni064B
+	<anchor 143 -286> mark @b.uni064D_1;
+  pos base [\uniFEDC ] <anchor 57 1770> mark @t.uni064B
+	<anchor 171 -357> mark @b.uni064D_1;
+  pos base [\uniFEDE ] <anchor 228 1385> mark @t.uni064B
+	<anchor 385 -514> mark @b.uni064D_1;
+  pos base [\uniFEDF ] <anchor 14 1527> mark @t.uni064B
+	<anchor 57 -357> mark @b.uni064D_1;
+  pos base [\uniFEE0 ] <anchor 71 1513> mark @t.uni064B
+	<anchor 171 -343> mark @b.uni064D_1;
+  pos base [\uniFEE2 ] <anchor 286 828> mark @t.uni064B
+	<anchor 414 -357> mark @b.uni064D_1;
+  pos base [\uniFEE3 ] <anchor 71 942> mark @t.uni064B
+	<anchor 128 -400> mark @b.uni064D_1;
+  pos base [\uniFEE4 ] <anchor 86 928> mark @t.uni064B
+	<anchor 243 -214> mark @b.uni064D_1;
+  pos base [\uniFEE6 ] <anchor 400 1270> mark @t.uni064B
+	<anchor 414 -757> mark @b.uni064D_1;
+  pos base [\uniFEE7 ] <anchor -43 1299> mark @t.uni064B
+	<anchor 29 -328> mark @b.uni064D_1;
+  pos base [\uniFEE7.short ] <anchor 29 1171> mark @t.uni064B
+	<anchor 29 -328> mark @b.uni064D_1;
+  pos base [\uniFEE7.tall ] <anchor 14 1356> mark @t.uni064B
+	<anchor 57 -300> mark @b.uni064D_1;
+  pos base [\uniFEE8 ] <anchor 57 1256> mark @t.uni064B
+	<anchor 71 -428> mark @b.uni064D_1;
+  pos base [\uniFEE8.tall ] <anchor 71 1285> mark @t.uni064B
+	<anchor 200 -300> mark @b.uni064D_1;
+  pos base [\uniFEE9 ] <anchor 128 1099> mark @t.uni064B
+	<anchor 200 -300> mark @b.uni064D_1;
+  pos base [\uniFEEA ] <anchor 214 1228> mark @t.uni064B
+	<anchor 286 -200> mark @b.uni064D_1;
+  pos base [\uniFEEC ] <anchor 128 1199> mark @t.uni064B
+	<anchor 286 -414> mark @b.uni064D_1;
+  pos base [\uniFEEC.alt ] <anchor 214 871> mark @t.uni064B
+	<anchor 328 -728> mark @b.uni064D_1;
+  pos base [\uniFEEE ] <anchor 228 814> mark @t.uni064B
+	<anchor 286 -585> mark @b.uni064D_1;
+  pos base [\uniFEF0 ] <anchor 457 500> mark @t.uni064B
+	<anchor 457 -757> mark @b.uni064D_1;
+  pos base [\uniFEF2 ] <anchor 443 500> mark @t.uni064B
+	<anchor 143 -642> mark @b.uni064D_1;
+  pos base [\uniFEF3.short ] <anchor 43 942> mark @t.uni064B
+	<anchor 29 -685> mark @b.uni064D_1;
+  pos base [\uniFEF3.tall ] <anchor -14 928> mark @t.uni064B
+	<anchor -14 -657> mark @b.uni064D_1;
+  pos base [\uniFEF4.low ] <anchor 190 571> mark @t.uni064B
+	<anchor 114 -699> mark @b.uni064D_1;
+  pos base [\uniFEF4.lowtall ] <anchor 162 1094> mark @t.uni064B
+	<anchor 186 -585> mark @b.uni064D_1;
+  pos base [\uniFEF4.tall ] <anchor -29 971> mark @t.uni064B
+	<anchor 243 -671> mark @b.uni064D_1;
+} mark_arab_1;
+
+feature mark {
+
+ script arab;
+     language dflt ;
+      lookup mark_arab_1;
+} mark;

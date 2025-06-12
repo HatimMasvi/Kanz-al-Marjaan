@@ -23,9 +23,24 @@ venv-test: venv-test/touchfile
 customize: venv
 	. venv/bin/activate; python3 scripts/customize.py
 
+# --- updated build.stamp rule: stage features/*.fea into each UFO ---
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
-	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+	for config in sources/config*.yaml; do \
+	  . venv/bin/activate; \
+	  ufo=$$(python3 - <<EOF
+import yaml
+cfg = yaml.safe_load(open("$$config"))
+print(cfg["sources"][0])
+EOF
+); \
+	  mkdir -p "$$ufo/features"; \
+	  cp features/*.fea "$$ufo/features/"; \
+	  gftools builder "$$config"; \
+	done
+	touch build.stamp
+
+# ------------------------------------------------------------------
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
@@ -38,10 +53,26 @@ venv-test/touchfile: requirements-test.txt
 	touch venv-test/touchfile
 
 test: venv-test build.stamp
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/fontbakery-report.html --ghmarkdown out/fontbakery/fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
+	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); \
+	if [ -z "$$TOCHECK" ]; then \
+	  TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); \
+	fi; \
+	. venv-test/bin/activate; \
+	mkdir -p out/ out/fontbakery; \
+	fontbakery check-googlefonts -l WARN --full-lists --succinct \
+	  --badges out/badges \
+	  --html out/fontbakery/fontbakery-report.html \
+	  --ghmarkdown out/fontbakery/fontbakery-report.md $$TOCHECK \
+	  || echo '::warning file=sources/config.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
 proof: venv build.stamp
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
+	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); \
+	if [ -z "$$TOCHECK" ]; then \
+	  TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); \
+	fi; \
+	. venv/bin/activate; \
+	mkdir -p out/ out/proof; \
+	diffenator2 proof $$TOCHECK -o out/proof
 
 images: venv $(DRAWBOT_OUTPUT)
 
@@ -57,8 +88,6 @@ update-project-template:
 
 update: venv venv-test
 	venv/bin/pip install --upgrade pip-tools
-	# See https://pip-tools.readthedocs.io/en/latest/#a-note-on-resolvers for
-	# the `--resolver` flag below.
 	venv/bin/pip-compile --upgrade --verbose --resolver=backtracking requirements.in
 	venv/bin/pip-sync requirements.txt
 
