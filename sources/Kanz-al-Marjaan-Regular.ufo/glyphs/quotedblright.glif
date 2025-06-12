@@ -7,7 +7,6 @@
       <point x="284" y="1111" type="line"/>
       <point x="196" y="807" type="line"/>
       <point x="111" y="807" type="line"/>
-      <point x="111" y="1109" type="line"/>
       <point x="111" y="1281" type="line"/>
       <point x="284" y="1281" type="line"/>
     </contour>
@@ -15,7 +14,6 @@
       <point x="580" y="1111" type="line"/>
       <point x="491" y="807" type="line"/>
       <point x="407" y="807" type="line"/>
-      <point x="407" y="1109" type="line"/>
       <point x="407" y="1281" type="line"/>
       <point x="580" y="1281" type="line"/>
     </contour>

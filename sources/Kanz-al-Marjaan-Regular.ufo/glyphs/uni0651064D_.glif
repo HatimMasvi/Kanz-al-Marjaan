@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0651064D" format="2">
+  <advance width="0"/>
   <anchor x="128" y="-214" name="_t.uni064B"/>
   <outline>
     <component base="uni0651"/>

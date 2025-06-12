@@ -4,17 +4,18 @@
   <unicode hex="0323"/>
   <outline>
     <contour>
-      <point x="267" y="-120"/>
-      <point x="266" y="-179"/>
-      <point x="303" y="-216"/>
-      <point x="333" y="-216" type="qcurve" smooth="yes"/>
-      <point x="363" y="-216"/>
-      <point x="402" y="-179"/>
-      <point x="402" y="-119"/>
-      <point x="364" y="-82"/>
-      <point x="333" y="-82" type="qcurve"/>
-      <point x="304" y="-83"/>
-      <point x="285" y="-101" type="qcurve"/>
+      <point x="333" y="-82" type="curve" smooth="yes"/>
+      <point x="374.815" y="-82"/>
+      <point x="402" y="-108.978"/>
+      <point x="402" y="-149" type="curve" smooth="yes"/>
+      <point x="402" y="-190.751"/>
+      <point x="371.718" y="-216"/>
+      <point x="333" y="-216" type="curve" smooth="yes"/>
+      <point x="292.757" y="-216"/>
+      <point x="266.487" y="-189.234"/>
+      <point x="266.487" y="-151.045" type="curve" smooth="yes"/>
+      <point x="266.487" y="-87.1763"/>
+      <point x="322.828" y="-82.3508"/>
     </contour>
   </outline>
 </glyph>
