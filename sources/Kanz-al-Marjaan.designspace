@@ -9,7 +9,7 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/Kanz-al-Marjaan-Regular.ufo" familyname="Kanz-al-Marjaan" stylename="Regular" name="Regular">
+  <source filename="Kanz-al-Marjaan-Regular.ufo" familyname="Kanz-al-Marjaan" stylename="Regular" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
