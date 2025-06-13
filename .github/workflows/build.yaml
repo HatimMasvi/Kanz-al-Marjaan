@@ -48,6 +48,11 @@ jobs:
       #       bumpfontversion sources/$src --new-version $TAG_NAME;
       #     done
 
+      - name: clean
+        run: make clean
+        continue-on-error: true
+
+
       - name: Build font
         run: make build
 
