@@ -98,9 +98,7 @@ This font is compatible with nearly all existing devices which support Arabic ty
     <integer>0</integer>
   </array>
   <key>openTypeOS2Selection</key>
-  <array>
     <integer>5</integer>
-  </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>504</integer>
   <key>openTypeOS2StrikeoutSize</key>
