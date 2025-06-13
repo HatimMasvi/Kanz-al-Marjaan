@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
   <advance width="453"/>
   <unicode hex="2019"/>
@@ -6,7 +6,8 @@
     <contour>
       <point x="315" y="1111" type="line"/>
       <point x="227" y="807" type="line"/>
-      <point x="142" y="807" type="line"/>
+      <point x="141" y="807" type="line"/>
+      <point x="142" y="1109" type="line"/>
       <point x="142" y="1281" type="line"/>
       <point x="315" y="1281" type="line"/>
     </contour>

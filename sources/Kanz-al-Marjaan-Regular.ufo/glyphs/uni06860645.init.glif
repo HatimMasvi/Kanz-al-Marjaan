@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni06860645.init" format="2">
-  <advance width="832"/>
-  <outline>
-    <component base="uniFCAA"/>
-    <component base="dot.threedown" xOffset="355" yOffset="-171"/>
-  </outline>
-</glyph>

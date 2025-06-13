@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFEE3_uniFEA0_uniFEE4_uniFEAA" format="2">
-  <advance width="1988"/>
-  <outline>
-    <component base="MHMD.liga"/>
-    <component base="dot.one" xOffset="1396" yOffset="-296"/>
-  </outline>
-</glyph>

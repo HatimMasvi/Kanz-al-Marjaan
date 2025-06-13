@@ -1,34 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis.cap" format="2">
   <advance width="666"/>
   <outline>
     <contour>
-      <point x="463" y="990" type="curve" smooth="yes"/>
-      <point x="427" y="990"/>
-      <point x="402" y="1019.08"/>
-      <point x="402" y="1053" type="curve" smooth="yes"/>
-      <point x="402" y="1091.39"/>
-      <point x="431.494" y="1115"/>
-      <point x="463" y="1115" type="curve" smooth="yes"/>
-      <point x="500.101" y="1115"/>
-      <point x="526" y="1087.19"/>
-      <point x="526" y="1053" type="curve" smooth="yes"/>
-      <point x="526" y="1017.98"/>
-      <point x="498.014" y="990"/>
+      <point x="463" y="990" type="qcurve"/>
+      <point x="437" y="990"/>
+      <point x="402" y="1027"/>
+      <point x="402" y="1053" type="qcurve"/>
+      <point x="402" y="1080"/>
+      <point x="438" y="1115"/>
+      <point x="463" y="1115" type="qcurve"/>
+      <point x="490" y="1115"/>
+      <point x="526" y="1079"/>
+      <point x="526" y="1027"/>
+      <point x="489" y="990"/>
     </contour>
     <contour>
-      <point x="202" y="990" type="curve" smooth="yes"/>
-      <point x="166.51" y="990"/>
-      <point x="140" y="1018.5"/>
-      <point x="140" y="1053" type="curve" smooth="yes"/>
-      <point x="140" y="1087.99"/>
-      <point x="167.009" y="1115"/>
-      <point x="202" y="1115" type="curve" smooth="yes"/>
-      <point x="239.101" y="1115"/>
-      <point x="265" y="1087.19"/>
-      <point x="265" y="1053" type="curve" smooth="yes"/>
-      <point x="265" y="1017.98"/>
-      <point x="237.014" y="990"/>
+      <point x="202" y="990" type="qcurve"/>
+      <point x="176" y="990"/>
+      <point x="140" y="1027"/>
+      <point x="140" y="1053" type="qcurve"/>
+      <point x="140" y="1079"/>
+      <point x="176" y="1115"/>
+      <point x="202" y="1115" type="qcurve"/>
+      <point x="229" y="1115"/>
+      <point x="265" y="1079"/>
+      <point x="265" y="1027"/>
+      <point x="228" y="990"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC2E" format="2">
-  <advance width="1193"/>
-  <unicode hex="FC2E"/>
-  <outline>
-    <component base="liga.fehhahisol"/>
-    <component base="dot.one" xOffset="448" yOffset="1558"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFE8C_uniFEEC_uniFEA2.liga" format="2">
-  <advance width="1926"/>
-  <outline>
-    <component base="glyph2002"/>
-    <component base="wavyhamza" xOffset="1399" yOffset="828"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="glyph1565" format="2">
-  <advance width="1742"/>
-  <outline>
-    <component base="uniFEC4" xOffset="800"/>
-    <component base="uniFEEC.alt"/>
-    <component base="uni0635062C.init" xOffset="988" yOffset="1141"/>
-  </outline>
-</glyph>

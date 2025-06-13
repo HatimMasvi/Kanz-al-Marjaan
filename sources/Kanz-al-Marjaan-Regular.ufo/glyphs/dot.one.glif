@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dot.one" format="2">
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="114" y="244" type="curve"/>
-      <point x="138.519" y="238.746"/>
-      <point x="130.744" y="222.563"/>
-      <point x="231" y="142" type="curve"/>
+      <point x="114" y="244" type="qcurve"/>
+      <point x="128" y="241"/>
+      <point x="175" y="187"/>
+      <point x="231" y="142" type="qcurve"/>
       <point x="233" y="139" type="line"/>
-      <point x="229.667" y="137"/>
-      <point x="193" y="100.333"/>
-      <point x="123" y="29" type="curve"/>
-      <point x="83" y="53.6667"/>
-      <point x="45.6667" y="90.6667"/>
-      <point x="11" y="140" type="curve"/>
-      <point x="73" y="201.333"/>
-      <point x="107.333" y="236"/>
+      <point x="228" y="136"/>
+      <point x="123" y="29" type="qcurve"/>
+      <point x="63" y="66"/>
+      <point x="11" y="140" type="qcurve"/>
+      <point x="104" y="232"/>
     </contour>
   </outline>
 </glyph>

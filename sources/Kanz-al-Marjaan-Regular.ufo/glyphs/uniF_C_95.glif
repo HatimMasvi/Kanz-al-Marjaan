@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC95" format="2">
-  <advance width="1555"/>
-  <unicode hex="FC95"/>
-  <outline>
-    <component base="liga.behyehfina"/>
-    <component base="dot.twohoriz" xOffset="932" yOffset="-688"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFEC4_uniFEF2.liga" format="2">
-  <advance width="1996"/>
-  <outline>
-    <component base="uniFEC4_uniFEF0.liga"/>
-    <component base="dot.twohoriz" xOffset="281" yOffset="-1122"/>
-  </outline>
-</glyph>

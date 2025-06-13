@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC2B" format="2">
-  <advance width="1572"/>
-  <unicode hex="FC2B"/>
-  <outline>
-    <component base="uniFC29" xOffset="-7" yOffset="57"/>
-    <component base="dot.one" xOffset="481" yOffset="1372"/>
-  </outline>
-</glyph>

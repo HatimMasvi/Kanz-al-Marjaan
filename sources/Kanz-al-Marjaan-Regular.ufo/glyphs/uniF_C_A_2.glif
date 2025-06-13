@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFCA2" format="2">
-  <advance width="988"/>
-  <unicode hex="FCA2"/>
-  <outline>
-    <component base="liga.behhahinit"/>
-    <component base="dot.twohoriz" xOffset="354" yOffset="1160"/>
-  </outline>
-</glyph>

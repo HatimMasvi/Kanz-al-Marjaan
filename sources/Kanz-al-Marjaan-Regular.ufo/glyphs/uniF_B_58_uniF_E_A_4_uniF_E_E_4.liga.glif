@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB58_uniFEA4_uniFEE4.liga" format="2">
-  <advance width="1408"/>
-  <outline>
-    <component base="glyph2194"/>
-    <component base="dot.threedown" xOffset="933" yOffset="133"/>
-  </outline>
-</glyph>

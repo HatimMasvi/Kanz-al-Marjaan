@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC35" format="2">
-  <advance width="1231"/>
-  <unicode hex="FC35"/>
-  <outline>
-    <component base="liga.fehyehisol"/>
-    <component base="dot.twohoriz" xOffset="508" yOffset="1141"/>
-  </outline>
-</glyph>

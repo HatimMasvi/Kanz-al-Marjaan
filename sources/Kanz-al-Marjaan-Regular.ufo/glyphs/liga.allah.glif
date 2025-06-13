@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="liga.allah" format="2">
   <advance width="1702"/>
   <outline>
-    <component base="uni064406440647.isol"/>
-    <component base="uni064406440647.isol"/>
-    <component base="uni064406440647.isol"/>
-    <component base="uni0651" xScale="0.8" yScale="0.8" xOffset="853" yOffset="787"/>
-    <component base="uni0670" xScale="0.9" yScale="0.9" xOffset="971" yOffset="1126"/>
+  <component base="lam_lam_heh-arab.isol"/>
+  <component base="lam_lam_heh-arab.isol"/>
+  <component base="lam_lam_heh-arab.isol"/>
+  <component base="arabicshaddacomb" xScale="0.79998779296875" yScale="0.79998779296875" xOffset="1043" yOffset="827"/>
+  <component base="arabicalefcomb" xScale="0.9000244140625" yScale="0.9000244140625" xOffset="1026" yOffset="1126"/>
   </outline>
 </glyph>

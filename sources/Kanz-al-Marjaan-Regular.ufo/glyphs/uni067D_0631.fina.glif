@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni067D0631.fina" format="2">
-  <advance width="1090"/>
-  <outline>
-    <component base="liga.behrehfina"/>
-    <component base="dot.threedown" xOffset="429" yOffset="-243"/>
-  </outline>
-</glyph>

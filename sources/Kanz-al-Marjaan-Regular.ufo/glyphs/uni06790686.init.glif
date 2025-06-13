@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni06790686.init" format="2">
-  <advance width="986"/>
-  <outline>
-    <component base="liga.behhahinit"/>
-    <component base="smalltaa" xOffset="442" yOffset="1129"/>
-    <component base="dot.threedown" xOffset="137" yOffset="-230"/>
-  </outline>
-</glyph>

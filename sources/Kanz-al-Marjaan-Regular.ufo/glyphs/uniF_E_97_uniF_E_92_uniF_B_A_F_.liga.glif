@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFE97_uniFE92_uniFBAF.liga" format="2">
-  <advance width="1680"/>
-  <outline>
-    <component base="liga.behbehyehbarree" yOffset="1"/>
-    <component base="dot.twohoriz" xOffset="783" yOffset="1099"/>
-    <component base="dot.one" xOffset="414" yOffset="-395"/>
-  </outline>
-</glyph>

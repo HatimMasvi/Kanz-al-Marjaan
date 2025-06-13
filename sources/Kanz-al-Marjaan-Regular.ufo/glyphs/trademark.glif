@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="2">
   <advance width="1129"/>
   <unicode hex="2122"/>
@@ -23,8 +23,8 @@
     </contour>
     <contour>
       <point x="429" y="1209" type="line"/>
-      <point x="300" y="1209" type="line"/>
-      <point x="300" y="809" type="line"/>
+      <point x="301" y="1209" type="line"/>
+      <point x="301" y="809" type="line"/>
       <point x="218" y="809" type="line"/>
       <point x="218" y="1209" type="line"/>
       <point x="90" y="1209" type="line"/>

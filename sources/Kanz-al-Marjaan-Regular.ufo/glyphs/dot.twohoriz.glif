@@ -1,36 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dot.twohoriz" format="2">
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="109" y="216" type="curve"/>
-      <point x="131.224" y="210.871"/>
-      <point x="124.491" y="197.598"/>
-      <point x="223" y="117" type="curve"/>
+      <point x="109" y="216" type="qcurve"/>
+      <point x="122" y="213"/>
+      <point x="168" y="162"/>
+      <point x="223" y="117" type="qcurve"/>
       <point x="225" y="115" type="line"/>
-      <point x="221.667" y="113"/>
-      <point x="186" y="77.3333"/>
-      <point x="118" y="8" type="curve"/>
-      <point x="78.6667" y="32"/>
-      <point x="42.6667" y="68"/>
-      <point x="10" y="116" type="curve"/>
-      <point x="69.3333" y="175.333"/>
-      <point x="102.333" y="208.667"/>
+      <point x="220" y="112"/>
+      <point x="118" y="8" type="qcurve"/>
+      <point x="59" y="44"/>
+      <point x="10" y="116" type="qcurve"/>
+      <point x="99" y="205"/>
     </contour>
     <contour>
-      <point x="304" y="226" type="curve"/>
-      <point x="326.733" y="220.754"/>
-      <point x="319.975" y="206.058"/>
-      <point x="417" y="127" type="curve"/>
+      <point x="304" y="226" type="qcurve"/>
+      <point x="317" y="223"/>
+      <point x="363" y="171"/>
+      <point x="417" y="127" type="qcurve"/>
       <point x="419" y="124" type="line"/>
-      <point x="415.667" y="122"/>
-      <point x="379.667" y="86.3333"/>
-      <point x="311" y="17" type="curve"/>
-      <point x="272.333" y="41"/>
-      <point x="236.667" y="77"/>
-      <point x="204" y="125" type="curve"/>
-      <point x="264" y="184.333"/>
-      <point x="297.333" y="218"/>
+      <point x="414" y="121"/>
+      <point x="311" y="17" type="qcurve"/>
+      <point x="253" y="53"/>
+      <point x="204" y="125" type="qcurve"/>
+      <point x="294" y="214"/>
     </contour>
   </outline>
 </glyph>

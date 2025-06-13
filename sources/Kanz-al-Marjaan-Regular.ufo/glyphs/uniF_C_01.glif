@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC01" format="2">
-  <advance width="1385"/>
-  <unicode hex="FC01"/>
-  <outline>
-    <component base="liga.behhahisol" yOffset="-92"/>
-    <component base="uni0654" xOffset="604" yOffset="1221"/>
-  </outline>
-</glyph>

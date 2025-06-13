@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glyph2060" format="2">
-  <advance width="1930"/>
+  <advance width="1933"/>
   <outline>
-    <component base="glyph2002"/>
-    <component base="dot.threedown" xOffset="1358" yOffset="-692"/>
-    <component base="dot.one" xOffset="323" yOffset="798"/>
+  <component base="glyph2002"/>
+  <component base="dot.threedown" xOffset="1550" yOffset="-500"/>
+  <component base="dot.one" xOffset="400" yOffset="450"/>
   </outline>
 </glyph>

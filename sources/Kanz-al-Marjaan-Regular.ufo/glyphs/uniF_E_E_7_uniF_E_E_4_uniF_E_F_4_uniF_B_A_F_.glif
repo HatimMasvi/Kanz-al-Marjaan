@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFEE7_uniFEE4_uniFEF4_uniFBAF" format="2">
-  <advance width="1903"/>
-  <outline>
-    <component base="glyph2414"/>
-    <component base="dot.twohoriz" xOffset="272" yOffset="-428"/>
-    <component base="dot.one" xOffset="1547" yOffset="1162"/>
-  </outline>
-</glyph>

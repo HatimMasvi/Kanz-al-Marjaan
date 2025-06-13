@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFC64" format="2">
-  <advance width="1091"/>
-  <unicode hex="FC64"/>
-  <outline>
-    <component base="liga.behrehfina"/>
-    <component base="uni0654" xOffset="423" yOffset="750"/>
-  </outline>
-</glyph>

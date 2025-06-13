@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni062A06D3.isol" format="2">
-  <advance width="1683"/>
-  <outline>
-    <component base="uni0654" xOffset="248" yOffset="761"/>
-    <component base="dot.twohoriz" xOffset="790" yOffset="1005"/>
-    <component base="liga.behbehyehbarree" yOffset="-75"/>
-  </outline>
-</glyph>
