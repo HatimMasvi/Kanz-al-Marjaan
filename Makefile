@@ -38,9 +38,15 @@ build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
 	for config in sources/config*.yaml; do \
 		. venv/bin/activate; \
-		ufo=$$(python3 -c "import yaml; print(yaml.safe_load(open('$$config'))['sources'][0])"); \
-		gftools builder "$$config"; \
+		ufo=$(python3 -c "import yaml; print(yaml.safe_load(open('$config'))['sources'][0])"); \
+		echo "Building with config: $config"; \
+		gftools builder "$config"; \
+		echo "Build completed for $config"; \
 	done
+	@echo "Checking what was built..."
+	@find . -name "*.ttf" -type f 2>/dev/null || echo "No TTF files found anywhere"
+	@ls -la fonts/ 2>/dev/null || echo "fonts/ directory does not exist"
+	@ls -la fonts/ttf/ 2>/dev/null || echo "fonts/ttf/ directory does not exist"
 	touch build.stamp
 
 # List generated TTFs
@@ -79,17 +85,30 @@ test: venv-test build.stamp
 
 # Generate proof PDF/HTML
 proof: venv build.stamp
-	@echo "Looking for TTF files..."
-	@ls -la fonts/ttf/ || echo "fonts/ttf directory not found"
-	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null | head -10); \
-	if [ -z "$$TOCHECK" ]; then \
+	@echo "=== PROOF TARGET DEBUG ==="
+	@echo "Current directory contents:"
+	@ls -la .
+	@echo "Looking for fonts directory..."
+	@ls -la fonts/ 2>/dev/null || echo "fonts/ directory not found"
+	@echo "Looking for fonts/ttf directory..."  
+	@ls -la fonts/ttf/ 2>/dev/null || echo "fonts/ttf/ directory not found"
+	@echo "Searching for all TTF files..."
+	@find . -name "*.ttf" -type f 2>/dev/null || echo "No TTF files found anywhere"
+	@echo "=== END DEBUG ==="
+	TOCHECK=$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null | head -10); \
+	if [ -z "$TOCHECK" ]; then \
 		echo "No TTF files found in fonts/ttf/"; \
-		exit 1; \
+		echo "Trying to find TTF files elsewhere..."; \
+		TOCHECK=$(find . -name "*.ttf" -type f 2>/dev/null | head -10); \
+		if [ -z "$TOCHECK" ]; then \
+			echo "No TTF files found anywhere!"; \
+			exit 1; \
+		fi; \
 	fi; \
-	echo "Found TTF files: $$TOCHECK"; \
+	echo "Found TTF files: $TOCHECK"; \
 	. venv/bin/activate; \
 	mkdir -p out/ out/proof; \
-	diffenator2 proof $$TOCHECK -o out/proof
+	diffenator2 proof $TOCHECK -o out/proof
 
 # Render specimen images with DrawBot
 images: venv $(DRAWBOT_OUTPUT)
