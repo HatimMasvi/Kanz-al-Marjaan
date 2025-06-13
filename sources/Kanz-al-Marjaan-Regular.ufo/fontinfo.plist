@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1025</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights reserved.</string>
+    <string>Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights Given.</string>
     <key>descender</key>
     <integer>-410</integer>
     <key>familyName</key>
@@ -54,11 +54,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights reserved.</string>
+    <string>Copyright (c) 2015 by Sh Moiz Sh Zohair bhai. All rights Given.</string>
     <key>openTypeNameDesigner</key>
     <string>Sh Moiz Sh Zohair bhai</string>
-    <key>openTypeNameDesignerURL</key>
-    <string>http://alkanz.ekhwan.info</string>
     <key>openTypeNameLicense</key>
     <string>These fonts are created by the developers of Al Fatemi fonts and it is a mark of marvel. 
 We do not claim any rights to this font. We have just reprogrammed it to comply with the standards of Windows 8 and with the typing habit of Old Fatemi fonts (Double key typing).</string>
@@ -69,7 +67,7 @@ We do not claim any rights to this font. We have just reprogrammed it to comply 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>Version 2.00;May 30, 2025;FontCreator 12.0.0.2565 64-bit</string>
+    <string>Version 2.00;May 30, 2025;</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -179,8 +177,6 @@ We do not claim any rights to this font. We have just reprogrammed it to comply 
     <string>regular</string>
     <key>styleName</key>
     <string>Regular</string>
-    <key>trademark</key>
-    <string>Al-Kanz is a trademark of Sh Moiz Sh Zohair bhai.</string>
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>versionMajor</key>
