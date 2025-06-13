@@ -1,26 +1,24 @@
-# config.yaml for Kanz-al-Marjaan
-
 sources:
   - Kanz-al-Marjaan-Regular.ufo
 
 familyName: "Kanz-al-Marjaan"
 
 outputDir: fonts
-vfDir: $outputDir/variable
-ttfDir: $outputDir/ttf       # corrected key to ttfDir
-otDir: $outputDir/otf
+vfDir:  $outputDir/variable
+ttDir:  $outputDir/ttf
+otDir:  $outputDir/otf
 
-buildVariable: false   # building from UFO directly
-buildStatic: true      # static fonts only
-buildTTF: true
-buildOTF: false
+buildVariable: false
+buildStatic:   true
+buildTTF:      true
+buildOTF:      false
 
 includeSourceFixes: true
 
 stat:
   Kanz-al-Marjaan-Regular.ttf:
     - name: Weight
-      tag: wght
+      tag:  wght
       values:
         - name: Regular
           value: 400
