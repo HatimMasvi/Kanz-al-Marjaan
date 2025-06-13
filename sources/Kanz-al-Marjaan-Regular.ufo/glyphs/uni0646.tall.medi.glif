@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0646.tall.medi" format="2">
+  <advance width="577"/>
+  <anchor x="71" y="1285" name="t.uni064B"/>
+  <anchor x="200" y="-300" name="b.uni064D_1"/>
+  <outline>
+    <component base="uighurkazakhkirghizalefmaksuraarab.tall.medi"/>
+    <component base="dot.one" xOffset="81" yOffset="934"/>
+  </outline>
+</glyph>

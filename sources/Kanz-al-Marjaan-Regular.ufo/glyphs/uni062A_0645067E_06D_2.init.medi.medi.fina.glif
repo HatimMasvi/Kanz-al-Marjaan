@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062A0645067E06D2.init.medi.medi.fina" format="2">
+  <advance width="1903"/>
+  <outline>
+    <component base="glyph2414"/>
+    <component base="dot.twohoriz" xOffset="1374" yOffset="1302"/>
+    <component base="dot.threedown" xOffset="511" yOffset="-136"/>
+  </outline>
+</glyph>

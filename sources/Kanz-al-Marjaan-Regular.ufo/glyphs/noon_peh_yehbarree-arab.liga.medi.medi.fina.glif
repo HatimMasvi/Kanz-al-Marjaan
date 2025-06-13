@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noon_peh_yehbarree-arab.liga.medi.medi.fina" format="2">
-  <advance width="1213"/>
-  <outline>
-  <component base="glyph2275"/>
-  <component base="dot.one" xOffset="688" yOffset="729"/>
-  <component base="dot.threedown" xOffset="233" yOffset="-471"/>
-  </outline>
-</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC33" format="2">
+  <advance width="1212"/>
+  <unicode hex="FC33"/>
+  <outline>
+    <component base="liga.fehhahisol"/>
+    <component base="dot.twohoriz" xOffset="432" yOffset="1593"/>
+  </outline>
+</glyph>

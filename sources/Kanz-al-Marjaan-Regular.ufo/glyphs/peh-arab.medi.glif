@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="peh-arab.medi" format="2">
-  <advance width="418"/>
-  <unicode hex="FB59"/>
-  <outline>
-  <component base="uighurkazakhkirghizalefmaksura-arab.medi"/>
-  <component base="dot.threedown" xOffset="-84" yOffset="-172"/>
-  </outline>
-</glyph>

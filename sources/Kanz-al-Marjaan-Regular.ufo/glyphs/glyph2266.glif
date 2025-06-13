@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glyph2266" format="2">
   <advance width="315"/>
   <outline>
-  <component base="uighurkazakhkirghizalefmaksura-arab.tall.init"/>
-  <component base="dot.one" xOffset="49" yOffset="-632"/>
+    <component base="uighurkazakhkirghizalefmaksuraarab.tall.init"/>
+    <component base="dot.one" xOffset="49" yOffset="-632"/>
   </outline>
 </glyph>

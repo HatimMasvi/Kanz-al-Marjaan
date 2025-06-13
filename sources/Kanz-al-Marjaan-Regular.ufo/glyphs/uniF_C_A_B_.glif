@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCAB" format="2">
+  <advance width="1318"/>
+  <unicode hex="FCAB"/>
+  <outline>
+    <component base="liga.hahhahinit"/>
+    <component base="dot.one" xOffset="233" yOffset="-444"/>
+    <component base="dot.one" xOffset="635" yOffset="1327"/>
+  </outline>
+</glyph>

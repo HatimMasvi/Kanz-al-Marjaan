@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06260647062E.liga.init.medi.fina" format="2">
+  <advance width="1931"/>
+  <outline>
+    <component base="glyph2002"/>
+    <component base="wavyhamza" xOffset="1408" yOffset="857"/>
+    <component base="dot.one" xOffset="319" yOffset="818"/>
+  </outline>
+</glyph>

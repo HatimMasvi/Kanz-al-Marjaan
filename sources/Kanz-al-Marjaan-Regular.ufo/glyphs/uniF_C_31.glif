@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC31" format="2">
+  <advance width="1250"/>
+  <unicode hex="FC31"/>
+  <outline>
+    <component base="liga.fehyehisol"/>
+    <component base="dot.one" xOffset="552" yOffset="1138"/>
+  </outline>
+</glyph>

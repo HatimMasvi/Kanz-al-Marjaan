@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jeem_yehbarree-arab.fina" format="2">
-  <advance width="1437"/>
-  <outline>
-  <component base="hah_yehbarree-arab.fina" xOffset="-4"/>
-  <component base="dot.one" xOffset="758" yOffset="-659"/>
-  </outline>
-</glyph>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
   <advance width="1014"/>
   <unicode hex="004E"/>
@@ -6,13 +6,13 @@
     <contour>
       <point x="895" y="0" type="line"/>
       <point x="756" y="0" type="line"/>
-      <point x="262" y="783" type="line"/>
-      <point x="258" y="782" type="line"/>
-      <point x="258" y="0" type="line"/>
+      <point x="262.992" y="783" type="line"/>
+      <point x="259" y="782" type="line"/>
+      <point x="259" y="0" type="line"/>
       <point x="120" y="0" type="line"/>
       <point x="120" y="1025" type="line"/>
-      <point x="258" y="1025" type="line"/>
-      <point x="751" y="243" type="line"/>
+      <point x="259" y="1025" type="line"/>
+      <point x="751.01" y="243" type="line"/>
       <point x="756" y="245" type="line"/>
       <point x="756" y="1025" type="line"/>
       <point x="895" y="1025" type="line"/>

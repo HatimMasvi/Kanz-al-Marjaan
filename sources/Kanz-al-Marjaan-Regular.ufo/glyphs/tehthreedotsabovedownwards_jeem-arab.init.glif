@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tehthreedotsabovedownwards_jeem-arab.init" format="2">
-  <advance width="988"/>
-  <outline>
-  <component base="liga.behhahinit"/>
-  <component base="dot.threedown" xOffset="559" yOffset="60"/>
-  <component base="dot.one" xOffset="163" yOffset="-333"/>
-  </outline>
-</glyph>

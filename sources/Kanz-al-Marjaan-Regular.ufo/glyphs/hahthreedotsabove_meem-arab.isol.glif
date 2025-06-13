@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hahthreedotsabove_meem-arab.isol" format="2">
-  <advance width="1455"/>
-  <outline>
-  <component base="hahmeem-arab.isol"/>
-  <component base="dot.threeup" xOffset="677" yOffset="902"/>
-  </outline>
-</glyph>

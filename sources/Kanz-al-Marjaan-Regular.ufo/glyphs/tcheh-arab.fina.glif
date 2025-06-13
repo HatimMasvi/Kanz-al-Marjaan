@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcheh-arab.fina" format="2">
-  <advance width="1180"/>
-  <unicode hex="FB7B"/>
-  <outline>
-  <component base="hah-arab.fina"/>
-  <component base="dot.threedown" xOffset="339" yOffset="-19"/>
-  </outline>
-</glyph>

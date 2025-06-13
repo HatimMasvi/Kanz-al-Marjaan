@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFC78" format="2">
+  <advance width="1048"/>
+  <unicode hex="FC78"/>
+  <outline>
+    <component base="liga.behmeemfina"/>
+    <component base="dot.threeup" xOffset="416" yOffset="878"/>
+  </outline>
+</glyph>

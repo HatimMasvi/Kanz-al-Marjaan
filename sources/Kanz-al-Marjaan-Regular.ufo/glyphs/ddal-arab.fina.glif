@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ddal-arab.fina" format="2">
-  <advance width="1081"/>
-  <unicode hex="FB89"/>
-  <outline>
-  <component base="dal-arab.fina"/>
-  <component base="smalltaa" xOffset="438" yOffset="1114"/>
-  </outline>
-</glyph>

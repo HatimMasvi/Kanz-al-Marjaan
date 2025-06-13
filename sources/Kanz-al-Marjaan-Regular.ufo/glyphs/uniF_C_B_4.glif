@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCB4" format="2">
+  <advance width="1610"/>
+  <unicode hex="FCB4"/>
+  <outline>
+    <component base="uniFCB1"/>
+    <component base="dot.one" xOffset="283" yOffset="-443"/>
+    <component base="dot.one" xOffset="843" yOffset="1391"/>
+  </outline>
+</glyph>

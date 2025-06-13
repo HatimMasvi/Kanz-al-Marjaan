@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tteh-arab.fina" format="2">
-  <advance width="1365"/>
-  <unicode hex="FB67"/>
-  <outline>
-  <component base="sad_sad-arab.fina" xOffset="-37"/>
-  <component base="smalltaa" xOffset="423" yOffset="586"/>
-  </outline>
-</glyph>

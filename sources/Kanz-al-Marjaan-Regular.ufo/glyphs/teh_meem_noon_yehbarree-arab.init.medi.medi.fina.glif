@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="teh_meem_noon_yehbarree-arab.init.medi.medi.fina" format="2">
-  <advance width="1908"/>
-  <outline>
-  <component base="glyph2414"/>
-  <component base="dot.twohoriz" xOffset="1421" yOffset="1054"/>
-  <component base="dot.one" xOffset="464" yOffset="743"/>
-  </outline>
-</glyph>

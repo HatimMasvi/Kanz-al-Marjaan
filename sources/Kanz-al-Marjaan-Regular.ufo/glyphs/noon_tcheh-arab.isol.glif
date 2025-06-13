@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noon_tcheh-arab.isol" format="2">
-  <advance width="1377"/>
-  <outline>
-  <component base="liga.behhahisol"/>
-  <component base="dot.one" xOffset="816" yOffset="1237"/>
-  <component base="dot.threedown" xOffset="484" yOffset="-120"/>
-  </outline>
-</glyph>

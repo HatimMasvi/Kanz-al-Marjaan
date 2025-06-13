@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFCA4" format="2">
+  <advance width="922"/>
+  <unicode hex="FCA4"/>
+  <outline>
+    <component base="liga.behmeeminit"/>
+    <component base="dot.twohoriz" xOffset="506" yOffset="1153"/>
+  </outline>
+</glyph>

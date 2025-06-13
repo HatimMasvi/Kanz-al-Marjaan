@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0686.low.medi" format="2">
+  <advance width="996"/>
+  <anchor x="262" y="1137" name="t.uni064B"/>
+  <anchor x="343" y="-699" name="b.uni064D_1"/>
+  <outline>
+    <component base="uniFEA4"/>
+    <component base="dot.threedown" xOffset="198" yOffset="-245"/>
+  </outline>
+</glyph>

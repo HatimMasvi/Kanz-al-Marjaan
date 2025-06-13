@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFD22" format="2">
+  <advance width="2136"/>
+  <unicode hex="FD22"/>
+  <outline>
+    <component base="uniFD21"/>
+    <component base="dot.twohoriz" xOffset="224" yOffset="-897"/>
+  </outline>
+</glyph>

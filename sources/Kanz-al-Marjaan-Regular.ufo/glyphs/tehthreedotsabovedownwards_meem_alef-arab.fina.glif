@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tehthreedotsabovedownwards_meem_alef-arab.fina" format="2">
-  <advance width="1072"/>
-  <outline>
-  <component base="liga.behmeemaleffina" xOffset="1"/>
-  <component base="dot.threedown" xOffset="484" yOffset="-122"/>
-  </outline>
-</glyph>

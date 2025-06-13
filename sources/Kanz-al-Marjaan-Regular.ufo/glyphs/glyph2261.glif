@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glyph2261" format="2">
   <advance width="1568"/>
   <outline>
-  <component base="kaf_heh-arab.liga.init.fina"/>
-  <component base="glyph2263" xOffset="959" yOffset="1591"/>
+    <component base="uni06430647.liga.init.fina"/>
+    <component base="glyph2263" xOffset="959" yOffset="1591"/>
   </outline>
 </glyph>
