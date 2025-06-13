@@ -4,12 +4,12 @@ sources:
 familyName: "Kanz-al-Marjaan"
 
 outputDir: fonts
-vfDir: $outputDir/variable
-ttDir: $outputDir/ttf
-otDir: $outputDir/otf
+vfDir: fonts/variable
+ttfDir: fonts/ttf    # Change from ttDir to ttfDir (what gftools expects)
+otfDir: fonts/otf
 
-buildVariable: false  # Changed to false since we're building from UFO directly
-buildStatic: true    # Changed to true since we're building static fonts
+buildVariable: false
+buildStatic: true
 buildTTF: true
 buildOTF: false
 
