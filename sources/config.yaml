@@ -1,13 +1,17 @@
+# config.yaml for Kanz-al-Marjaan
+
 sources:
   - Kanz-al-Marjaan-Regular.ufo
 
 familyName: "Kanz-al-Marjaan"
 
 outputDir: fonts
+vfDir: $outputDir/variable
+ttfDir: $outputDir/ttf       # corrected key to ttfDir
+otDir: $outputDir/otf
 
-
-buildVariable: false  # Changed to false since we're building from UFO directly
-buildStatic: true    # Changed to true since we're building static fonts
+buildVariable: false   # building from UFO directly
+buildStatic: true      # static fonts only
 buildTTF: true
 buildOTF: false
 
@@ -18,5 +22,5 @@ stat:
     - name: Weight
       tag: wght
       values:
-      - name: Regular
-        value: 400
+        - name: Regular
+          value: 400

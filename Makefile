@@ -1,7 +1,14 @@
-SOURCES=$(shell python3 scripts/read-config.py --sources )
-FAMILY=$(shell python3 scripts/read-config.py --family )
+# Automatically generated Makefile for Kanz-al-Marjaan
+
+# Read sources and family name from config
+SOURCES=$(shell python3 scripts/read-config.py --sources)
+FAMILY=$(shell python3 scripts/read-config.py --family)
+
+# DrawBot scripts (if any)
 DRAWBOT_SCRIPTS=$(shell ls documentation/*.py 2>/dev/null)
-DRAWBOT_OUTPUT=$(shell ls documentation/*.py 2>/dev/null | sed 's/\.py/.png/g')
+DRAWBOT_OUTPUT=$(shell ls documentation/*.py 2>/dev/null | sed 's/\.py/\.png/g')
+
+.PHONY: help build test proof images clean update list-fonts customize venv venv-test update-project-template
 
 help:
 	@echo "###"
@@ -15,18 +22,21 @@ help:
 	@echo "  make clean:   Removes venv and .pyc files"
 	@echo "  make update:  Updates pip and requirements files"
 	@echo "  make list-fonts: Lists the TTFs in the fonts/ttf directory"
+	@echo "  make customize: Runs the customization script"
 	@echo
 
+# Default: build everything
 build: build.stamp
 
+# Create or upgrade virtual environments
 venv: venv/touchfile
-
 venv-test: venv-test/touchfile
 
+# Run customization script
 customize: venv
 	. venv/bin/activate; python3 scripts/customize.py
 
-# --- updated build.stamp rule: stage features/*.fea into each UFO ---
+# Build rule: copy .fea into UFOs, then gftools builder
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
 	for config in sources/config*.yaml; do \
@@ -36,6 +46,12 @@ build.stamp: venv sources/config.yaml $(SOURCES)
 	done
 	touch build.stamp
 
+# List generated TTFs
+list-fonts: build.stamp
+	@echo "Fonts in fonts/ttf/:"
+	ls -l fonts/ttf/
+
+# Install dependencies
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
 	. venv/bin/activate; pip install -Ur requirements.txt
@@ -46,6 +62,7 @@ venv-test/touchfile: requirements-test.txt
 	. venv-test/bin/activate; pip install -Ur requirements-test.txt
 	touch venv-test/touchfile
 
+# QA test with FontBakery
 test: venv-test build.stamp
 	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
 	. venv-test/bin/activate; \
@@ -56,24 +73,29 @@ test: venv-test build.stamp
 	  --ghmarkdown out/fontbakery/fontbakery-report.md $$TOCHECK \
 	  || echo '::warning file=sources/config.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
+# Generate proof PDF/HTML
 proof: venv build.stamp
 	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
 	. venv/bin/activate; \
 	mkdir -p out/ out/proof; \
 	diffenator2 proof $$TOCHECK -o out/proof
 
+# Render specimen images with DrawBot
 images: venv $(DRAWBOT_OUTPUT)
 
 %.png: %.py build.stamp
 	. venv/bin/activate; python3 $< --output $@
 
+# Cleanup
 clean:
-	rm -rf venv venv-test
+	rm -rf venv venv-test fonts out
 	find . -name "*.pyc" -delete
 
+# Template update helper
 update-project-template:
 	npx update-template https://github.com/googlefonts/googlefonts-project-template/
 
+# Update requirements
 update: venv venv-test
 	venv/bin/pip install --upgrade pip-tools
 	venv/bin/pip-compile --upgrade --verbose --resolver=backtracking requirements.in
@@ -85,6 +107,3 @@ update: venv venv-test
 
 	git commit -m "Update requirements" requirements.txt requirements-test.txt
 	git push
-
-list-fonts:
-	ls -l fonts/ttf/
