@@ -3,7 +3,7 @@ sources:
 
 familyName: "Kanz-al-Marjaan"
 
-outputDir: fonts
+outputDir: ../fonts
 vfDir:  $outputDir/variable
 ttDir:  $outputDir/ttf
 otDir:  $outputDir/otf
