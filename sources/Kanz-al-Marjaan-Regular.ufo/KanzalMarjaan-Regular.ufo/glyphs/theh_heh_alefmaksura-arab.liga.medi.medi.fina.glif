@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh_heh_alefmaksura-arab.liga.medi.medi.fina" format="2">
+  <advance width="2291"/>
+  <anchor x="1988" y="1150" name="Anchor_4_ligComponent_0"/>
+  <anchor x="1450" y="800" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1450" y="800" name="Anchor_4_ligComponent_2"/>
+  <anchor x="540" y="510" name="Anchor_4_ligComponent_3"/>
+  <anchor x="2100" y="-500" name="Anchor_5_ligComponent_0"/>
+  <anchor x="1550" y="-700" name="Anchor_5_ligComponent_1"/>
+  <anchor x="1550" y="-700" name="Anchor_5_ligComponent_2"/>
+  <anchor x="550" y="-800" name="Anchor_5_ligComponent_3"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_2"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_3"/>
+  <outline>
+  <component base="glyph2177"/>
+  <component base="dot.threeup" xOffset="1757" yOffset="575"/>
+  </outline>
+</glyph>

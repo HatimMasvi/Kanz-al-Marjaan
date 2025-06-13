@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh_hehdoachashmee-arab.liga.medi.medi" format="2">
+  <advance width="1357"/>
+  <anchor x="938" y="999" name="Anchor_4_ligComponent_0"/>
+  <anchor x="350" y="787" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1025" y="-463" name="Anchor_5_ligComponent_0"/>
+  <anchor x="313" y="-150" name="Anchor_5_ligComponent_1"/>
+  <anchor x="925" y="1125" name="Anchor_7_ligComponent_0"/>
+  <anchor x="238" y="887" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="glyph2425"/>
+  <component base="dot.one" xOffset="890" yOffset="-391"/>
+  </outline>
+</glyph>

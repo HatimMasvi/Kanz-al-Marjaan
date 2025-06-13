@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-arab.fina" format="2">
+  <advance width="1158"/>
+  <unicode hex="FED6"/>
+  <anchor x="820" y="1047" name="Anchor_4"/>
+  <anchor x="538" y="-663" name="Anchor_5"/>
+  <anchor x="875" y="912" name="Anchor_7"/>
+  <outline>
+  <component base="base.qaffina"/>
+  <component base="dot.twohoriz" xOffset="678" yOffset="531"/>
+  </outline>
+</glyph>

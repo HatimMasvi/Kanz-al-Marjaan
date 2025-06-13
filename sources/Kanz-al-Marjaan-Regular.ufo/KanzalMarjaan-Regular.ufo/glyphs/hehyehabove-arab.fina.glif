@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehyehabove-arab.fina" format="2">
+  <advance width="772"/>
+  <unicode hex="FBA5"/>
+  <anchor x="275" y="1687" name="Anchor_4"/>
+  <anchor x="275" y="-88" name="Anchor_5"/>
+  <anchor x="288" y="1687" name="Anchor_7"/>
+  <outline>
+  <component base="heh-arab.fina"/>
+  <component base="arabichamzacomb" xOffset="118" yOffset="1068"/>
+  </outline>
+</glyph>

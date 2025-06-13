@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahjeem-arab.init" format="2">
+  <advance width="1307"/>
+  <unicode hex="FCA9"/>
+  <anchor x="763" y="1237" name="Anchor_4_ligComponent_0"/>
+  <anchor x="63" y="1062" name="Anchor_4_ligComponent_1"/>
+  <anchor x="900" y="-125" name="Anchor_5_ligComponent_0"/>
+  <anchor x="325" y="-425" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.hahhahinit"/>
+  <component base="dot.one" xOffset="203" yOffset="-372"/>
+  </outline>
+</glyph>

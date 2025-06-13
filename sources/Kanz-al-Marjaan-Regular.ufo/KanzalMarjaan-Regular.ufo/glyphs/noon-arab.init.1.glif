@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-arab.init.1" format="2">
+  <advance width="1084"/>
+  <anchor x="560" y="1440" name="Anchor_4"/>
+  <anchor x="520" y="-180" name="Anchor_5"/>
+  <anchor x="540" y="1460" name="Anchor_7"/>
+  <outline>
+  <component base="noonghunna-arab" yOffset="295"/>
+  <component base="dot.one" xOffset="422" yOffset="1055"/>
+  </outline>
+</glyph>

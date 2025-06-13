@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh_jeem-arab.init" format="2">
+  <advance width="998"/>
+  <anchor x="650" y="1500" name="Anchor_4_ligComponent_0"/>
+  <anchor x="138" y="812" name="Anchor_4_ligComponent_1"/>
+  <anchor x="700" y="-176" name="Anchor_5_ligComponent_0"/>
+  <anchor x="250" y="-413" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="dot.threeup" xOffset="409" yOffset="973"/>
+  <component base="dot.one" xOffset="163" yOffset="-347"/>
+  </outline>
+</glyph>

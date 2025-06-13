@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefwasla-arab" format="2">
+  <advance width="302"/>
+  <unicode hex="0671"/>
+  <anchor x="57" y="1670" name="top-arab"/>
+  <anchor x="86" y="-300" name="bottom-arab"/>
+  <outline>
+  <component base="alef-arab.short"/>
+  <component base="wasla" xOffset="-22" yOffset="1556"/>
+  </outline>
+</glyph>

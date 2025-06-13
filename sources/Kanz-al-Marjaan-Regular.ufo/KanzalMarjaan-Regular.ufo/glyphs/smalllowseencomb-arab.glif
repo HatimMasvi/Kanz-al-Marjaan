@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="smalllowseencomb-arab" format="2">
+  <advance width="0"/>
+  <unicode hex="06E3"/>
+  <anchor x="114" y="71" name="bottom-arab"/>
+  <anchor x="114" y="71" name="bottom-arab"/>
+  <outline>
+  <component base="smallhighseencomb-arab"/>
+  </outline>
+</glyph>

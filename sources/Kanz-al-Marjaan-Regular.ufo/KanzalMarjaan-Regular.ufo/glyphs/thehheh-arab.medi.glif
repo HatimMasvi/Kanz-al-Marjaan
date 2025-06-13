@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thehheh-arab.medi" format="2">
+  <advance width="1050"/>
+  <unicode hex="FCE6"/>
+  <anchor x="800" y="1000" name="Anchor_4_ligComponent_0"/>
+  <anchor x="350" y="650" name="Anchor_4_ligComponent_1"/>
+  <anchor x="350" y="650" name="Anchor_4_ligComponent_2"/>
+  <anchor x="863" y="-413" name="Anchor_5_ligComponent_0"/>
+  <anchor x="300" y="-600" name="Anchor_5_ligComponent_1"/>
+  <anchor x="300" y="-600" name="Anchor_5_ligComponent_2"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_2"/>
+  <outline>
+  <component base="liga.behhehmedi"/>
+  <component base="dot.threeup" xOffset="580" yOffset="437"/>
+  </outline>
+</glyph>

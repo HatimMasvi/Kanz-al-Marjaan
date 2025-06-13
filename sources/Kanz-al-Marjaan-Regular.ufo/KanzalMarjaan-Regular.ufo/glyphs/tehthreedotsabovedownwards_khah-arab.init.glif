@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehthreedotsabovedownwards_khah-arab.init" format="2">
+  <advance width="993"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="dot.threedown" xOffset="523"/>
+  <component base="dot.one" xOffset="76" yOffset="657"/>
+  </outline>
+</glyph>

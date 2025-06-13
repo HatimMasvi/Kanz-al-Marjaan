@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highhamzayeh-arab.fina" format="2">
+  <advance width="1092"/>
+  <anchor x="638" y="975" name="Anchor_4"/>
+  <anchor x="513" y="-788" name="Anchor_5"/>
+  <anchor x="588" y="912" name="Anchor_7"/>
+  <outline>
+  <component base="alefmaksura-arab.fina"/>
+  <component base="arabichamzacomb" xOffset="507" yOffset="321"/>
+  </outline>
+</glyph>

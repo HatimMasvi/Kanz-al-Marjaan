@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-arab.lowtall.medi" format="2">
+  <advance width="577"/>
+  <anchor x="279" y="875" name="Anchor_4"/>
+  <anchor x="200" y="-604" name="Anchor_5"/>
+  <anchor x="79" y="937" name="Anchor_7"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.tall.medi"/>
+  <component base="dot.twohoriz" xOffset="-76" yOffset="-472"/>
+  </outline>
+</glyph>

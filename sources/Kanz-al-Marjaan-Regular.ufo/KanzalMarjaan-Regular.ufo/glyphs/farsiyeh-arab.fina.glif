@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="farsiyeh-arab.fina" format="2">
+  <advance width="1097"/>
+  <unicode hex="FBFD"/>
+  <anchor x="500" y="437" name="Anchor_4"/>
+  <anchor x="500" y="-800" name="Anchor_5"/>
+  <anchor x="500" y="362" name="Anchor_7"/>
+  <outline>
+  <component base="alefmaksura-arab.fina" xOffset="60"/>
+  </outline>
+</glyph>

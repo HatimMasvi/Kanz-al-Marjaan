@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabove-arab.init" format="2">
+  <advance width="304"/>
+  <unicode hex="FE8B"/>
+  <anchor x="63" y="1141" name="Anchor_4"/>
+  <anchor x="100" y="-350" name="Anchor_5"/>
+  <anchor x="39" y="1141" name="Anchor_7"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.init"/>
+  <component base="arabichamzacomb" xOffset="-87" yOffset="532"/>
+  </outline>
+</glyph>

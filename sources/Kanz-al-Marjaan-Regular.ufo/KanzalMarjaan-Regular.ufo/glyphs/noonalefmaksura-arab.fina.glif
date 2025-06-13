@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonalefmaksura-arab.fina" format="2">
+  <advance width="1552"/>
+  <unicode hex="FC8E"/>
+  <anchor x="1138" y="1012" name="Anchor_4_ligComponent_0"/>
+  <anchor x="500" y="587" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1188" y="-388" name="Anchor_5_ligComponent_0"/>
+  <anchor x="450" y="-538" name="Anchor_5_ligComponent_1"/>
+  <anchor x="1140" y="1060" name="Anchor_7_ligComponent_0"/>
+  <anchor x="540" y="620" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behyehfina"/>
+  <component base="dot.one" xOffset="1029" yOffset="619"/>
+  </outline>
+</glyph>

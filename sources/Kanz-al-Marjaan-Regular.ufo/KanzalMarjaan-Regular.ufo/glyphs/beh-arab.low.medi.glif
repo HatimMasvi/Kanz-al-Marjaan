@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-arab.low.medi" format="2">
+  <advance width="418"/>
+  <anchor x="125" y="637" name="Anchor_4"/>
+  <anchor x="113" y="-625" name="Anchor_5"/>
+  <anchor x="25" y="637" name="Anchor_7"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.medi"/>
+  <component base="dot.one" xOffset="29" yOffset="-465"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="behjeem-arab.isol" format="2">
+  <advance width="1345"/>
+  <unicode hex="FC05"/>
+  <anchor x="963" y="1362" name="Anchor_4_ligComponent_0"/>
+  <anchor x="340" y="1020" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1040" y="-1140" name="Anchor_5_ligComponent_0"/>
+  <anchor x="440" y="-1240" name="Anchor_5_ligComponent_1"/>
+  <anchor x="980" y="1440" name="Anchor_7_ligComponent_0"/>
+  <anchor x="460" y="1140" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behhahisol"/>
+  <component base="dot.one" xOffset="881" yOffset="-45"/>
+  <component base="dot.one" xOffset="581" yOffset="-506"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh_alefmaksura-arab.isol" format="2">
+  <advance width="1226"/>
+  <outline>
+  <component base="liga.behyehisol"/>
+  <component base="smalltaa" xOffset="591" yOffset="958"/>
+  </outline>
+</glyph>

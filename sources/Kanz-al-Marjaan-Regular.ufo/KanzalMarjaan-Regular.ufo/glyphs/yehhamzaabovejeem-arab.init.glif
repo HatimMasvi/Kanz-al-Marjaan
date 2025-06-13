@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabovejeem-arab.init" format="2">
+  <advance width="1007"/>
+  <unicode hex="FC97"/>
+  <anchor x="538" y="1450" name="Anchor_4_ligComponent_0"/>
+  <anchor x="125" y="875" name="Anchor_4_ligComponent_1"/>
+  <anchor x="725" y="-88" name="Anchor_5_ligComponent_0"/>
+  <anchor x="300" y="-363" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="arabichamzacomb" xOffset="376" yOffset="904"/>
+  <component base="dot.one" xOffset="221" yOffset="-354"/>
+  </outline>
+</glyph>

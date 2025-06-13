@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen_zain-arab.fina" format="2">
+  <advance width="1802"/>
+  <anchor x="1250" y="725" name="Anchor_4_ligComponent_0"/>
+  <anchor x="375" y="937" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1238" y="-200" name="Anchor_5_ligComponent_0"/>
+  <anchor x="338" y="-500" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="seenreh-arab.fina"/>
+  <component base="dot.one" xOffset="251" yOffset="584"/>
+  </outline>
+</glyph>

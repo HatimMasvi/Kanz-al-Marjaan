@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenjeem-arab.init" format="2">
+  <advance width="1319"/>
+  <unicode hex="FCAD"/>
+  <anchor x="963" y="1237" name="Anchor_4_ligComponent_0"/>
+  <anchor x="313" y="1075" name="Anchor_4_ligComponent_1"/>
+  <anchor x="938" y="-88" name="Anchor_5_ligComponent_0"/>
+  <anchor x="388" y="-463" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="seenhah-arab.init"/>
+  <component base="dot.one" xOffset="277" yOffset="-425"/>
+  </outline>
+</glyph>

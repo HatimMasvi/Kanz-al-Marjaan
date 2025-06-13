@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sadkhah-arab.init" format="2">
+  <advance width="1617"/>
+  <unicode hex="FCB2"/>
+  <anchor x="1125" y="1362" name="Anchor_4_ligComponent_0"/>
+  <anchor x="238" y="1250" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1150" y="-38" name="Anchor_5_ligComponent_0"/>
+  <anchor x="300" y="-150" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="sadhah-arab.init"/>
+  <component base="dot.one" xOffset="131" yOffset="871"/>
+  </outline>
+</glyph>

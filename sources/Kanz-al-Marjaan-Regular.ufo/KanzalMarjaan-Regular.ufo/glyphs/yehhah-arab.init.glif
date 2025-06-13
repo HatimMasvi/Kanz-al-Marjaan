@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhah-arab.init" format="2">
+  <advance width="988"/>
+  <unicode hex="FCDB"/>
+  <anchor x="638" y="1075" name="Anchor_4_ligComponent_0"/>
+  <anchor x="125" y="912" name="Anchor_4_ligComponent_1"/>
+  <anchor x="750" y="-388" name="Anchor_5_ligComponent_0"/>
+  <anchor x="238" y="-288" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="dot.twohoriz" xOffset="544" yOffset="-272"/>
+  </outline>
+</glyph>

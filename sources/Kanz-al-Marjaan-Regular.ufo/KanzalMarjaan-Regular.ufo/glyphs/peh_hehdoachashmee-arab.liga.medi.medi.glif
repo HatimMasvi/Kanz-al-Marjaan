@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh_hehdoachashmee-arab.liga.medi.medi" format="2">
+  <advance width="1356"/>
+  <outline>
+  <component base="glyph2425"/>
+  <component base="dot.threedown" xOffset="671" yOffset="-170"/>
+  </outline>
+</glyph>

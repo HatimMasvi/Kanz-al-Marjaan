@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh_noon_yehbarree-arab.liga.init.medi.fina" format="2">
+  <advance width="1287"/>
+  <outline>
+  <component base="liga.behbehyehbarree" yOffset="-69"/>
+  <component base="dot.threedown" xOffset="798" yOffset="-217"/>
+  <component base="dot.one" xOffset="482" yOffset="739"/>
+  </outline>
+</glyph>

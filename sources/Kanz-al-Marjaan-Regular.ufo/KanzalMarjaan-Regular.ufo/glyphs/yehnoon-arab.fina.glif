@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehnoon-arab.fina" format="2">
+  <advance width="1669"/>
+  <unicode hex="FC94"/>
+  <anchor x="1213" y="687" name="Anchor_4_ligComponent_0"/>
+  <anchor x="513" y="875" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1213" y="-613" name="Anchor_5_ligComponent_0"/>
+  <anchor x="513" y="-450" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behnoonfina" xOffset="5"/>
+  <component base="dot.twohoriz" xOffset="1005" yOffset="-508"/>
+  <component base="dot.one" xOffset="408" yOffset="503"/>
+  </outline>
+</glyph>

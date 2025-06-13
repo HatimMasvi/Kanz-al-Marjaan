@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheenkhah-arab.isol" format="2">
+  <advance width="1545"/>
+  <unicode hex="FD0B"/>
+  <anchor x="1163" y="1650" name="Anchor_4_ligComponent_0"/>
+  <anchor x="338" y="1150" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1238" y="150" name="Anchor_5_ligComponent_0"/>
+  <anchor x="463" y="-1288" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="seenhah-arab.isol" yOffset="-45"/>
+  <component base="dot.one" xOffset="234" yOffset="783"/>
+  <component base="dot.threeup" xOffset="945" yOffset="1104"/>
+  </outline>
+</glyph>

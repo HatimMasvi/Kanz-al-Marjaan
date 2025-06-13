@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thal-arab" format="2">
+  <advance width="657"/>
+  <unicode hex="0630"/>
+  <anchor x="320" y="1200" name="Anchor_4"/>
+  <anchor x="300" y="-200" name="Anchor_5"/>
+  <anchor x="308" y="1231" name="Anchor_7"/>
+  <outline>
+  <component base="dal-arab"/>
+  <component base="dot.one" xOffset="201" yOffset="772"/>
+  </outline>
+</glyph>

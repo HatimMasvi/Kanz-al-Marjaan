@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zain-arab.fina" format="2">
+  <advance width="613"/>
+  <unicode hex="FEB0"/>
+  <anchor x="419" y="888" name="Anchor_4"/>
+  <anchor x="350" y="-450" name="Anchor_5"/>
+  <anchor x="411" y="873" name="Anchor_7"/>
+  <outline>
+  <component base="reh-arab.fina"/>
+  <component base="dot.one" xOffset="302" yOffset="487"/>
+  </outline>
+</glyph>

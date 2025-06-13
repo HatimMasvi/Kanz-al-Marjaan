@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain_zah_zah-arab.init" format="2">
+  <advance width="1389"/>
+  <anchor x="916" y="1307" name="Anchor_4_ligComponent_0"/>
+  <anchor x="200" y="775" name="Anchor_4_ligComponent_1"/>
+  <anchor x="200" y="775" name="Anchor_4_ligComponent_2"/>
+  <anchor x="1082" y="-233" name="Anchor_5_ligComponent_0"/>
+  <anchor x="400" y="-700" name="Anchor_5_ligComponent_1"/>
+  <anchor x="400" y="-700" name="Anchor_5_ligComponent_2"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_2"/>
+  <outline>
+  <component base="ain_zah_zah-arab.init"/>
+  <component base="dot.one" xOffset="806" yOffset="914"/>
+  </outline>
+</glyph>

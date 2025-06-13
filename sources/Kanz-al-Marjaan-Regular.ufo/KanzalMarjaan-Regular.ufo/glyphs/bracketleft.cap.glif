@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.cap" format="2">
+  <advance width="474"/>
+  <outline>
+  <component base="bracketleft" yOffset="67"/>
+  </outline>
+</glyph>

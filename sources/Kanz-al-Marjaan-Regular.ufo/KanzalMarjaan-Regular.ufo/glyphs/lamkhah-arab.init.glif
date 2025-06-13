@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamkhah-arab.init" format="2">
+  <advance width="1175"/>
+  <unicode hex="FCCB"/>
+  <anchor x="601" y="1562" name="Anchor_4_ligComponent_0"/>
+  <anchor x="175" y="1150" name="Anchor_4_ligComponent_1"/>
+  <anchor x="701" y="-25" name="Anchor_5_ligComponent_0"/>
+  <anchor x="200" y="-200" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="lamhah-arab.init"/>
+  <component base="dot.one" xOffset="72" yOffset="828"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-arab.fina" format="2">
+  <advance width="1365"/>
+  <unicode hex="FB57"/>
+  <outline>
+  <component base="sad_sad-arab.fina" xOffset="-37"/>
+  <component base="dot.threedown" xOffset="363" yOffset="-246"/>
+  </outline>
+</glyph>

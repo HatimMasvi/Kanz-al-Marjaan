@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-arab.init" format="2">
+  <advance width="366"/>
+  <unicode hex="FBA8"/>
+  <anchor x="88" y="712" name="Anchor_4"/>
+  <anchor x="113" y="-600" name="Anchor_5"/>
+  <anchor x="88" y="762" name="Anchor_7"/>
+  <outline>
+  <component base="arabiccomma" xScale="0.60101318359375" yScale="0.59942626953125" xOffset="-104" yOffset="-464"/>
+  <component base="uighurkazakhkirghizalefmaksura-arab.init"/>
+  </outline>
+</glyph>

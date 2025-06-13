@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenyeh-arab.fina" format="2">
+  <advance width="2261"/>
+  <unicode hex="FD18"/>
+  <anchor x="1763" y="725" name="Anchor_4_ligComponent_0"/>
+  <anchor x="513" y="475" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1750" y="-250" name="Anchor_5_ligComponent_0"/>
+  <anchor x="513" y="-988" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="seenalefmaksura-arab.fina"/>
+  <component base="dot.twohoriz" xOffset="298" yOffset="-930"/>
+  </outline>
+</glyph>

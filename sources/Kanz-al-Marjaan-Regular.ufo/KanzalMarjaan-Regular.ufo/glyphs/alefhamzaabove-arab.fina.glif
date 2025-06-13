@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefhamzaabove-arab.fina" format="2">
+  <advance width="500"/>
+  <unicode hex="FE84"/>
+  <anchor x="63" y="2012" name="Anchor_4"/>
+  <anchor x="250" y="-175" name="Anchor_5"/>
+  <anchor x="75" y="2025" name="Anchor_7"/>
+  <outline>
+  <component base="alef-arab.short.fina"/>
+  <component base="arabichamzacomb" xOffset="-67" yOffset="1447"/>
+  </outline>
+</glyph>

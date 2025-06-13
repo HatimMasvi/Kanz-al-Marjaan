@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleacutemod.cap" format="2">
+  <advance width="666"/>
+  <outline>
+    <contour>
+      <point x="210" y="996" type="line"/>
+      <point x="208" y="990" type="line"/>
+      <point x="233" y="973" type="line"/>
+      <point x="406" y="1110" type="line"/>
+      <point x="408" y="1116" type="line"/>
+      <point x="334" y="1179" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="996" type="line"/>
+      <point x="408" y="990" type="line"/>
+      <point x="433" y="968" type="line"/>
+      <point x="606" y="1105" type="line"/>
+      <point x="608" y="1116" type="line"/>
+      <point x="534" y="1179" type="line"/>
+    </contour>
+  </outline>
+</glyph>

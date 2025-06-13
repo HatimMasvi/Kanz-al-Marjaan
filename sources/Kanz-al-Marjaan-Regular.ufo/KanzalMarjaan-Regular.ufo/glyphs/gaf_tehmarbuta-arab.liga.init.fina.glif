@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf_tehmarbuta-arab.liga.init.fina" format="2">
+  <advance width="1575"/>
+  <outline>
+  <component base="kaf_heh-arab.liga.init.fina"/>
+  <component base="dot.twohoriz" xOffset="125" yOffset="1168"/>
+  <component base="glyph2263" xOffset="966" yOffset="1590"/>
+  </outline>
+</glyph>

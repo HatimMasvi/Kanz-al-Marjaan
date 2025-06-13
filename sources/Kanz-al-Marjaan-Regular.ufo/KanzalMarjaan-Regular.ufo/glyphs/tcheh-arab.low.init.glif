@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-arab.low.init" format="2">
+  <advance width="1045"/>
+  <anchor x="425" y="925" name="Anchor_4"/>
+  <anchor x="400" y="-675" name="Anchor_5"/>
+  <outline>
+  <component base="hah-arab.init"/>
+  <component base="dot.threedown" xOffset="196" yOffset="-128"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamalefhamzaabove-arab.isol" format="2">
+  <advance width="979"/>
+  <unicode hex="FEF7"/>
+  <anchor x="813" y="1600" name="Anchor_4_ligComponent_0"/>
+  <anchor x="88" y="2012" name="Anchor_4_ligComponent_1"/>
+  <anchor x="775" y="-138" name="Anchor_5_ligComponent_0"/>
+  <anchor x="313" y="-263" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="lamalef-arab.alt1.isol"/>
+  <component base="arabichamzacomb" xOffset="-40" yOffset="1506"/>
+  </outline>
+</glyph>

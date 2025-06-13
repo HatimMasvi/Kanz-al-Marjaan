@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u-arab.fina" format="2">
+  <advance width="604"/>
+  <unicode hex="FBD8"/>
+  <anchor x="200" y="537" name="Anchor_4"/>
+  <anchor x="300" y="-538" name="Anchor_5"/>
+  <anchor x="275" y="1237" name="Anchor_7"/>
+  <outline>
+  <component base="waw-arab.fina" xOffset="-76"/>
+  <component base="arabicdammacomb" xOffset="125" yOffset="522"/>
+  </outline>
+</glyph>

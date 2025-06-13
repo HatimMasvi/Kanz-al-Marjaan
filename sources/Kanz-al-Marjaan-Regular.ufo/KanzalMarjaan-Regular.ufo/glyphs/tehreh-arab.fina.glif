@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehreh-arab.fina" format="2">
+  <advance width="1091"/>
+  <unicode hex="FC70"/>
+  <anchor x="626" y="1012" name="Anchor_4_ligComponent_0"/>
+  <anchor x="188" y="712" name="Anchor_4_ligComponent_1"/>
+  <anchor x="725" y="-200" name="Anchor_5_ligComponent_0"/>
+  <anchor x="200" y="-450" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behrehfina"/>
+  <component base="dot.twohoriz" xOffset="417" yOffset="692"/>
+  </outline>
+</glyph>

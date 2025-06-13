@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph2228" format="2">
+  <advance width="1739"/>
+  <outline>
+  <component base="glyph2227"/>
+  <component base="dot.twohoriz" xOffset="352" yOffset="-1000"/>
+  </outline>
+</glyph>

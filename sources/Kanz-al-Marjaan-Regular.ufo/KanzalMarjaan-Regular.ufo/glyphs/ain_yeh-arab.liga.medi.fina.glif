@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ain_yeh-arab.liga.medi.fina" format="2">
+  <advance width="1689"/>
+  <anchor x="1325" y="787" name="Anchor_4_ligComponent_0"/>
+  <anchor x="488" y="425" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1388" y="-700" name="Anchor_5_ligComponent_0"/>
+  <anchor x="538" y="-1225" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="ain_alefmaksura-arab.liga.medi.fina"/>
+  <component base="dot.twohoriz" xOffset="332" yOffset="-1122"/>
+  </outline>
+</glyph>

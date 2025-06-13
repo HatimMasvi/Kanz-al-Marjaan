@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-arab.low.medi" format="2">
+  <advance width="996"/>
+  <anchor x="400" y="937" name="Anchor_4"/>
+  <anchor x="387" y="-525" name="Anchor_5"/>
+  <anchor x="388" y="950" name="Anchor_7"/>
+  <outline>
+  <component base="hah-arab.medi"/>
+  <component base="dot.one" xOffset="286" yOffset="-379"/>
+  </outline>
+</glyph>

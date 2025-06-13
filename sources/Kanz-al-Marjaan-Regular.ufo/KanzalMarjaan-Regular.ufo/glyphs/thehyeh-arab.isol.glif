@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thehyeh-arab.isol" format="2">
+  <advance width="1226"/>
+  <unicode hex="FC14"/>
+  <anchor x="775" y="1462" name="Anchor_4_ligComponent_0"/>
+  <anchor x="300" y="612" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1000" y="-525" name="Anchor_5_ligComponent_0"/>
+  <anchor x="500" y="-800" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behyehisol"/>
+  <component base="dot.threeup" xOffset="548" yOffset="934"/>
+  <component base="dot.twohoriz" xOffset="333" yOffset="-676"/>
+  </outline>
+</glyph>

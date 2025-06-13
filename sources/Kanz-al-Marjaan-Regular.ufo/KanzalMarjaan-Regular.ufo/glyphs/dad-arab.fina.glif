@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-arab.fina" format="2">
+  <advance width="1928"/>
+  <unicode hex="FEBE"/>
+  <anchor x="1485" y="1109" name="Anchor_4"/>
+  <anchor x="525" y="-650" name="Anchor_5"/>
+  <anchor x="1485" y="1117" name="Anchor_7"/>
+  <outline>
+  <component base="sad-arab.fina" yOffset="1"/>
+  <component base="dot.one" xOffset="1360" yOffset="767"/>
+  </outline>
+</glyph>

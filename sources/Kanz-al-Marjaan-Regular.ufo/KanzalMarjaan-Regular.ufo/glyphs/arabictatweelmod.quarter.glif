@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabictatweelmod.quarter" format="2">
+  <advance width="159"/>
+  <outline>
+    <contour>
+      <point x="161" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="103" type="line"/>
+      <point x="161" y="103" type="line"/>
+    </contour>
+  </outline>
+</glyph>

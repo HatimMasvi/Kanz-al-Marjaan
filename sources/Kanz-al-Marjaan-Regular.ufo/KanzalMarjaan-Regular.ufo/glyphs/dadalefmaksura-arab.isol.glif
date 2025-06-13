@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dadalefmaksura-arab.isol" format="2">
+  <advance width="2107"/>
+  <unicode hex="FD07"/>
+  <anchor x="1738" y="1112" name="Anchor_4_ligComponent_0"/>
+  <anchor x="525" y="637" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1713" y="-225" name="Anchor_5_ligComponent_0"/>
+  <anchor x="438" y="-613" name="Anchor_5_ligComponent_1"/>
+  <anchor x="1740" y="1160" name="Anchor_7_ligComponent_0"/>
+  <anchor x="480" y="560" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="sadalefmaksura-arab.isol"/>
+  <component base="dot.one" xOffset="1636" yOffset="722"/>
+  </outline>
+</glyph>

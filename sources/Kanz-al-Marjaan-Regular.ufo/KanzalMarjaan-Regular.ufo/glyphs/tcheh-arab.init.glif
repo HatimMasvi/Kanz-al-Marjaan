@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-arab.init" format="2">
+  <advance width="1051"/>
+  <unicode hex="FB7C"/>
+  <anchor x="475" y="925" name="Anchor_4"/>
+  <anchor x="550" y="-625" name="Anchor_5"/>
+  <outline>
+  <component base="hah-arab.init"/>
+  <component base="dot.threedown" xOffset="294" yOffset="-49"/>
+  </outline>
+</glyph>

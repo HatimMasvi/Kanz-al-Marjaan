@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tah_yeh-arab.liga.medi.fina" format="2">
+  <advance width="1996"/>
+  <anchor x="1600" y="1000" name="Anchor_4_ligComponent_0"/>
+  <anchor x="488" y="500" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1575" y="-325" name="Anchor_5_ligComponent_0"/>
+  <anchor x="488" y="-1100" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="tah_alefmaksura-arab.liga.medi.fina"/>
+  <component base="dot.twohoriz" xOffset="281" yOffset="-1030"/>
+  </outline>
+</glyph>

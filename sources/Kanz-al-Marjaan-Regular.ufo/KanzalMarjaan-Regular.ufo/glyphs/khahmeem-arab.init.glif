@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khahmeem-arab.init" format="2">
+  <advance width="1202"/>
+  <unicode hex="FCAC"/>
+  <anchor x="763" y="1175" name="Anchor_4_ligComponent_0"/>
+  <anchor x="175" y="850" name="Anchor_4_ligComponent_1"/>
+  <anchor x="813" y="-50" name="Anchor_5_ligComponent_0"/>
+  <anchor x="175" y="-150" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="hahmeem-arab.init"/>
+  <component base="dot.one" xOffset="671" yOffset="822"/>
+  </outline>
+</glyph>

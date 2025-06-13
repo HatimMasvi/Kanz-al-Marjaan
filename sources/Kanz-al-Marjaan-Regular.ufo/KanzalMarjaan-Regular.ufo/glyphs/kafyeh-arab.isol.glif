@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafyeh-arab.isol" format="2">
+  <advance width="1270"/>
+  <unicode hex="FC3E"/>
+  <anchor x="1200" y="1475" name="Anchor_4_ligComponent_0"/>
+  <anchor x="475" y="487" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1088" y="-513" name="Anchor_5_ligComponent_0"/>
+  <anchor x="463" y="-850" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="kafalefmaksura-arab.isol"/>
+  <component base="dot.twohoriz" xOffset="253" yOffset="-774"/>
+  </outline>
+</glyph>

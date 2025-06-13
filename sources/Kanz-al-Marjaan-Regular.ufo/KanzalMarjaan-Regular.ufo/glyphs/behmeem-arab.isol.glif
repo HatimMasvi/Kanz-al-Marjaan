@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="behmeem-arab.isol" format="2">
+  <advance width="964"/>
+  <unicode hex="FC08"/>
+  <anchor x="720" y="920" name="Anchor_4_ligComponent_0"/>
+  <anchor x="200" y="680" name="Anchor_4_ligComponent_1"/>
+  <anchor x="720" y="-600" name="Anchor_5_ligComponent_0"/>
+  <anchor x="200" y="-1200" name="Anchor_5_ligComponent_1"/>
+  <anchor x="680" y="960" name="Anchor_7_ligComponent_0"/>
+  <anchor x="200" y="660" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behmeemisol" yOffset="10"/>
+  <component base="dot.one" xOffset="599" yOffset="-383"/>
+  </outline>
+</glyph>

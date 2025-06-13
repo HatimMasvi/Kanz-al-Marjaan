@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehalefmaksura-arab.fina" format="2">
+  <advance width="1552"/>
+  <unicode hex="FC74"/>
+  <anchor x="1125" y="962" name="Anchor_4_ligComponent_0"/>
+  <anchor x="500" y="612" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1188" y="-363" name="Anchor_5_ligComponent_0"/>
+  <anchor x="488" y="-538" name="Anchor_5_ligComponent_1"/>
+  <anchor x="1120" y="1040" name="Anchor_7_ligComponent_0"/>
+  <anchor x="480" y="800" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behyehfina"/>
+  <component base="dot.twohoriz" xOffset="913" yOffset="600"/>
+  </outline>
+</glyph>

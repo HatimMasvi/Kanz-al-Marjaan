@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-arab.medi" format="2">
+  <advance width="648"/>
+  <unicode hex="FED0"/>
+  <anchor x="320" y="969" name="Anchor_4"/>
+  <anchor x="325" y="-238" name="Anchor_5"/>
+  <anchor x="320" y="965" name="Anchor_7"/>
+  <outline>
+  <component base="ain-arab.medi"/>
+  <component base="dot.one" xOffset="208" yOffset="602"/>
+  </outline>
+</glyph>

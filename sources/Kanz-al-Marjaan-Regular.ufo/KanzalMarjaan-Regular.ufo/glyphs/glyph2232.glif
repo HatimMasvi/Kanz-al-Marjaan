@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph2232" format="2">
+  <advance width="1998"/>
+  <outline>
+  <component base="meem_hah_meem_dal-arab.isol"/>
+  <component base="dot.threedown" xOffset="1370" yOffset="108"/>
+  </outline>
+</glyph>

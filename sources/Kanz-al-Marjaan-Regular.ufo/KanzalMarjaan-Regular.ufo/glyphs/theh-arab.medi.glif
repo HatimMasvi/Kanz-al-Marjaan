@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-arab.medi" format="2">
+  <advance width="418"/>
+  <unicode hex="FE9C"/>
+  <anchor x="202" y="1137" name="Anchor_4"/>
+  <anchor x="252" y="-263" name="Anchor_5"/>
+  <anchor x="190" y="1150" name="Anchor_7"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.medi"/>
+  <component base="dot.threeup" xOffset="-112" yOffset="579"/>
+  </outline>
+</glyph>

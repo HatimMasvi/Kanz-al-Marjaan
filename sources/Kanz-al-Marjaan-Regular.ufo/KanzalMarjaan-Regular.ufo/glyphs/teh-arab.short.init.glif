@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="teh-arab.short.init" format="2">
+  <advance width="279"/>
+  <anchor x="81" y="1150" name="Anchor_4"/>
+  <anchor x="113" y="-125" name="Anchor_5"/>
+  <anchor x="89" y="1154" name="Anchor_7"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.short.init"/>
+  <component base="dot.twohoriz" xOffset="-120" yOffset="793"/>
+  </outline>
+</glyph>

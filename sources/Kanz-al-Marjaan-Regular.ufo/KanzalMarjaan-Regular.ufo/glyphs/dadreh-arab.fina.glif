@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dadreh-arab.fina" format="2">
+  <advance width="1812"/>
+  <unicode hex="FD2C"/>
+  <anchor x="1350" y="1125" name="Anchor_4_ligComponent_0"/>
+  <anchor x="425" y="675" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1350" y="-200" name="Anchor_5_ligComponent_0"/>
+  <anchor x="363" y="-488" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="sadreh-arab.fina"/>
+  <component base="dot.one" xOffset="1245" yOffset="729"/>
+  </outline>
+</glyph>

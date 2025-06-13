@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fehyeh-arab.isol" format="2">
+  <advance width="1245"/>
+  <unicode hex="FC32"/>
+  <anchor x="788" y="1362" name="Anchor_4_ligComponent_0"/>
+  <anchor x="388" y="512" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1038" y="-500" name="Anchor_5_ligComponent_0"/>
+  <anchor x="488" y="-888" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.fehyehisol"/>
+  <component base="dot.one" xOffset="682" yOffset="986"/>
+  <component base="dot.twohoriz" xOffset="296" yOffset="-804"/>
+  </outline>
+</glyph>

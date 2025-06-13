@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad_zain-arab.isol" format="2">
+  <advance width="1622"/>
+  <anchor x="1188" y="1100" name="Anchor_4_ligComponent_0"/>
+  <anchor x="200" y="812" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1175" y="-213" name="Anchor_5_ligComponent_0"/>
+  <anchor x="225" y="-501" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="sadreh-arab.isol"/>
+  <component base="dot.one" xOffset="72" yOffset="436"/>
+  <component base="dot.one" xOffset="1070" yOffset="705"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehkhah-arab.init" format="2">
+  <advance width="993"/>
+  <unicode hex="FCA3"/>
+  <anchor x="625" y="1375" name="Anchor_4_ligComponent_0"/>
+  <anchor x="151" y="1049" name="Anchor_4_ligComponent_1"/>
+  <anchor x="650" y="-75" name="Anchor_5_ligComponent_0"/>
+  <anchor x="188" y="-125" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behhahinit"/>
+  <component base="dot.twohoriz" xOffset="404" yOffset="1055"/>
+  <component base="dot.one" xOffset="50" yOffset="676"/>
+  </outline>
+</glyph>

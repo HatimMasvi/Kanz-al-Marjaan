@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dadjeem-arab.init" format="2">
+  <advance width="1610"/>
+  <unicode hex="FCB4"/>
+  <anchor x="1113" y="1687" name="Anchor_4_ligComponent_0"/>
+  <anchor x="300" y="1050" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1175" y="-63" name="Anchor_5_ligComponent_0"/>
+  <anchor x="338" y="-425" name="Anchor_5_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="sadhah-arab.init"/>
+  <component base="dot.one" xOffset="218" yOffset="-386"/>
+  <component base="dot.one" xOffset="1022" yOffset="1310"/>
+  </outline>
+</glyph>

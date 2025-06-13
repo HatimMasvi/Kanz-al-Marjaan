@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh-arab.tall.init" format="2">
+  <advance width="367"/>
+  <outline>
+  <component base="uighurkazakhkirghizalefmaksura-arab.tall.init"/>
+  <component base="smalltaa" xOffset="-7" yOffset="945"/>
+  </outline>
+</glyph>

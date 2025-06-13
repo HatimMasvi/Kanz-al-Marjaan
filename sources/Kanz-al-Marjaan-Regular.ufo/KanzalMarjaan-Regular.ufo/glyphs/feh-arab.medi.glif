@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-arab.medi" format="2">
+  <advance width="590"/>
+  <unicode hex="FED4"/>
+  <anchor x="275" y="1150" name="Anchor_4"/>
+  <anchor x="313" y="-175" name="Anchor_5"/>
+  <anchor x="238" y="1175" name="Anchor_7"/>
+  <outline>
+  <component base="dotlessfeh-arab.medi" xOffset="1"/>
+  <component base="dot.one" xOffset="167" yOffset="763"/>
+  </outline>
+</glyph>

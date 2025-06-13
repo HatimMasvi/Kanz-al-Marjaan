@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehmarbuta-arab.fina" format="2">
+  <advance width="767"/>
+  <unicode hex="FE94"/>
+  <anchor x="332" y="1370" name="Anchor_4"/>
+  <anchor x="263" y="-113" name="Anchor_5"/>
+  <anchor x="332" y="1346" name="Anchor_7"/>
+  <outline>
+  <component base="heh-arab.fina"/>
+  <component base="dot.twohoriz" xOffset="142" yOffset="1031"/>
+  </outline>
+</glyph>

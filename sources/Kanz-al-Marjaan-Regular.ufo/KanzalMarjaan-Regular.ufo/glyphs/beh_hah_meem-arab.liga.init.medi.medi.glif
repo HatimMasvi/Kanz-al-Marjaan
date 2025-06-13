@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh_hah_meem-arab.liga.init.medi.medi" format="2">
+  <advance width="1385"/>
+  <anchor x="1075" y="1250" name="Anchor_4_ligComponent_0"/>
+  <anchor x="513" y="1075" name="Anchor_4_ligComponent_1"/>
+  <anchor x="75" y="800" name="Anchor_4_ligComponent_2"/>
+  <anchor x="1150" y="-300" name="Anchor_5_ligComponent_0"/>
+  <anchor x="750" y="-163" name="Anchor_5_ligComponent_1"/>
+  <anchor x="225" y="-288" name="Anchor_5_ligComponent_2"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_2"/>
+  <outline>
+  <component base="glyph2194"/>
+  <component base="dot.one" xOffset="1016" yOffset="-203"/>
+  </outline>
+</glyph>

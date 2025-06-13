@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehhamzaabove_meem_alef-arab.fina" format="2">
+  <advance width="1072"/>
+  <anchor x="650" y="1100" name="Anchor_4_ligComponent_0"/>
+  <anchor x="400" y="1300" name="Anchor_4_ligComponent_1"/>
+  <anchor x="400" y="1300" name="Anchor_4_ligComponent_2"/>
+  <anchor x="700" y="-188" name="Anchor_5_ligComponent_0"/>
+  <anchor x="250" y="-300" name="Anchor_5_ligComponent_1"/>
+  <anchor x="250" y="-300" name="Anchor_5_ligComponent_2"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_1"/>
+  <anchor x="0" y="0" name="Anchor_7_ligComponent_2"/>
+  <outline>
+  <component base="liga.behmeemaleffina" xOffset="1"/>
+  <component base="arabichamzacomb" xOffset="436" yOffset="551"/>
+  </outline>
+</glyph>

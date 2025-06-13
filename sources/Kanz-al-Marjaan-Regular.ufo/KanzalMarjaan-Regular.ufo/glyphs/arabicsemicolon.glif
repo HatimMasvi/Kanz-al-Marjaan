@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicsemicolon" format="2">
+  <advance width="1719"/>
+  <unicode hex="061B"/>
+  <outline>
+  <component base="dot.threedown" xOffset="970" yOffset="-226"/>
+  <component base="hah_hehdoachashmee_yehbarree-arab.isol" xOffset="-36"/>
+  </outline>
+</glyph>

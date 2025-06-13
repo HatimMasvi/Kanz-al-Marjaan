@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonnoon-arab.fina" format="2">
+  <advance width="1669"/>
+  <unicode hex="FC8D"/>
+  <anchor x="1133" y="1125" name="Anchor_4_ligComponent_0"/>
+  <anchor x="495" y="887" name="Anchor_4_ligComponent_1"/>
+  <anchor x="1145" y="-250" name="Anchor_5_ligComponent_0"/>
+  <anchor x="545" y="-425" name="Anchor_5_ligComponent_1"/>
+  <anchor x="-5" y="0" name="Anchor_7_ligComponent_0"/>
+  <anchor x="-5" y="0" name="Anchor_7_ligComponent_1"/>
+  <outline>
+  <component base="liga.behnoonfina"/>
+  <component base="dot.one" xOffset="1030" yOffset="758"/>
+  <component base="dot.one" xOffset="391" yOffset="516"/>
+  </outline>
+</glyph>
