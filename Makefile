@@ -46,10 +46,7 @@ venv-test/touchfile: requirements-test.txt
 	touch venv-test/touchfile
 
 test: venv-test build.stamp
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); \
-	if [ -z "$$TOCHECK" ]; then \
-	  TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); \
-	fi; \
+	TOCHECK=$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
 	. venv-test/bin/activate; \
 	mkdir -p out/ out/fontbakery; \
 	fontbakery check-googlefonts -l WARN --full-lists --succinct \
@@ -59,10 +56,7 @@ test: venv-test build.stamp
 	  || echo '::warning file=sources/config.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
 proof: venv build.stamp
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); \
-	if [ -z "$$TOCHECK" ]; then \
-	  TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); \
-	fi; \
+	TOCHECK=$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
 	. venv/bin/activate; \
 	mkdir -p out/ out/proof; \
 	diffenator2 proof $$TOCHECK -o out/proof
