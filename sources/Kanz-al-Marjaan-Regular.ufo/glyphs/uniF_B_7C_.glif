@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFB7C" format="2">
   <advance width="1051"/>
   <unicode hex="FB7C"/>
   <anchor x="228" y="899" name="t.uni064B"/>
-  <anchor x="400" y="-557" name="b.uni064D_1"/>
+  <anchor x="400" y="-557" name="b.uni064D"/>
   <outline>
     <component base="uniFEA3"/>
     <component base="dot.threedown" xOffset="251" yOffset="-192"/>

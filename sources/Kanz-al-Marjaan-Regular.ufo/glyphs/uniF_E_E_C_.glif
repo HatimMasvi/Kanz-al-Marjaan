@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFEEC" format="2">
   <advance width="551"/>
   <unicode hex="FEEC"/>
   <anchor x="128" y="1199" name="t.uni064B"/>
-  <anchor x="286" y="-414" name="b.uni064D_1"/>
+  <anchor x="286" y="-414" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="0" y="155" type="line"/>

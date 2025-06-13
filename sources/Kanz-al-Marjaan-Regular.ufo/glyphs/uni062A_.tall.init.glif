@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni062A.tall.init" format="2">
   <advance width="374"/>
   <anchor x="14" y="1428" name="t.uni064B"/>
-  <anchor x="14" y="-428" name="b.uni064D_1"/>
+  <anchor x="14" y="-428" name="b.uni064D"/>
   <outline>
     <component base="uighurkazakhkirghizalefmaksuraarab.tall.init"/>
     <component base="dot.twohoriz" xOffset="-32" yOffset="1026"/>

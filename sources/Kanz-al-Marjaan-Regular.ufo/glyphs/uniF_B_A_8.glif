@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFBA8" format="2">
   <advance width="366"/>
   <unicode hex="FBA8"/>
   <anchor x="186" y="628" name="t.uni064B"/>
-  <anchor x="171" y="-514" name="b.uni064D_1"/>
+  <anchor x="171" y="-514" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="288" y="299" type="line"/>

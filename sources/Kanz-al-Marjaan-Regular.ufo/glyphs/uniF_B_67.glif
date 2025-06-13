@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFB67" format="2">
   <advance width="1365"/>
   <unicode hex="FB67"/>
   <anchor x="514" y="1213" name="t.uni064B"/>
-  <anchor x="528" y="-200" name="b.uni064D_1"/>
+  <anchor x="528" y="-200" name="b.uni064D"/>
   <outline>
     <component base="base.behfinal"/>
     <component base="smalltaa" xOffset="423" yOffset="586"/>

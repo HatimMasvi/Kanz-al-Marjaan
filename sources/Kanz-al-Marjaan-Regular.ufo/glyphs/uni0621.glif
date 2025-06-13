@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0621" format="2">
   <advance width="541"/>
   <unicode hex="0621"/>
   <anchor x="186" y="785" name="t.uni064B"/>
-  <anchor x="314" y="-257" name="b.uni064D_1"/>
+  <anchor x="314" y="-257" name="b.uni064D"/>
   <outline>
     <contour>
       <point x="126" y="351" type="line"/>

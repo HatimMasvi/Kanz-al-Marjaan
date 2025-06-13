@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFECE" format="2">
   <advance width="939"/>
   <unicode hex="FECE"/>
   <anchor x="400" y="1256" name="t.uni064B"/>
-  <anchor x="571" y="-1242" name="b.uni064D_1"/>
+  <anchor x="571" y="-1242" name="b.uni064D"/>
   <outline>
     <component base="uniFECA" xOffset="115"/>
     <component base="dot.one" xOffset="417" yOffset="838"/>

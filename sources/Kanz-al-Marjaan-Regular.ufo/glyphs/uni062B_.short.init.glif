@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni062B.short.init" format="2">
   <advance width="308"/>
   <anchor x="14" y="1328" name="t.uni064B"/>
-  <anchor x="14" y="-385" name="b.uni064D_1"/>
+  <anchor x="14" y="-385" name="b.uni064D"/>
   <outline>
     <component base="uighurkazakhkirghizalefmaksuraarab.short.init"/>
     <component base="dot.threeup" xOffset="-71" yOffset="779"/>
