@@ -3,19 +3,32 @@ sources:
 
 familyName: "Kanz-al-Marjaan"
 
+instances:
+  - name: "Regular"
+
+sources:
+  - Kanz-al-Marjaan-Regular.ufo
+
+familyName: "Kanz-al-Marjaan"
+
 buildVariable: false
 buildStatic: true 
 buildTTF: true
 buildOTF: false
-
 includeSourceFixes: true
 
-# Use explicit paths instead of variables
 outputDir: "fonts"
 ttDir: "fonts/ttf" 
 otDir: "fonts/otf"
 vfDir: "fonts/variable"
 woffDir: "fonts/webfonts"
+
+# Add explicit instances for static builds
+instances:
+  - name: "Kanz-al-Marjaan Regular"
+    familyName: "Kanz-al-Marjaan"
+    styleName: "Regular"
+    filename: "Kanz-al-Marjaan-Regular.ttf"
 
 targets:
   - Kanz-al-Marjaan-Regular.ttf
