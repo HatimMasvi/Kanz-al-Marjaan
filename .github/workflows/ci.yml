@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read        # we don’t need write to repo contents
+  pages: write          # <<< this lets the GITHUB_TOKEN push to gh-pages
+  id-token: write       # <<< if you’re using any OIDC / Cloud deployments
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # keep the token so that peaceiris/actions-gh-pages can use it
+          persist-credentials: true
+
+      # … your build / test / proof steps …
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages
