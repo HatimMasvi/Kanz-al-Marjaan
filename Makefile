@@ -1,6 +1,3 @@
-# Automatically generated Makefile for Kanz-al-Marjaan
-
-# Read sources and family name from config
 SOURCES=$(shell python3 scripts/read-config.py --sources)
 FAMILY=$(shell python3 scripts/read-config.py --family)
 
@@ -64,7 +61,14 @@ venv-test/touchfile: requirements-test.txt
 
 # QA test with FontBakery
 test: venv-test build.stamp
-	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
+	@echo "Looking for TTF files..."
+	@ls -la fonts/ttf/ || echo "fonts/ttf directory not found"
+	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null | head -10); \
+	if [ -z "$$TOCHECK" ]; then \
+		echo "No TTF files found in fonts/ttf/"; \
+		exit 1; \
+	fi; \
+	echo "Found TTF files: $$TOCHECK"; \
 	. venv-test/bin/activate; \
 	mkdir -p out/ out/fontbakery; \
 	fontbakery check-googlefonts -l WARN --full-lists --succinct \
@@ -75,7 +79,14 @@ test: venv-test build.stamp
 
 # Generate proof PDF/HTML
 proof: venv build.stamp
-	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null); \
+	@echo "Looking for TTF files..."
+	@ls -la fonts/ttf/ || echo "fonts/ttf directory not found"
+	TOCHECK=$$(find fonts/ttf -name "*.ttf" -type f 2>/dev/null | head -10); \
+	if [ -z "$$TOCHECK" ]; then \
+		echo "No TTF files found in fonts/ttf/"; \
+		exit 1; \
+	fi; \
+	echo "Found TTF files: $$TOCHECK"; \
 	. venv/bin/activate; \
 	mkdir -p out/ out/proof; \
 	diffenator2 proof $$TOCHECK -o out/proof
